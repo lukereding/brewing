@@ -1,0 +1,1 @@
+sudo nohup python -u brew.py dubbelTrouble 80 24 78 12 75 12 72 12 70 60 75 24 80 24 >> brewPySTDOUTDubbelTrouble.log 2>&1 &

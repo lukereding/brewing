@@ -1,0 +1,708 @@
+nohup: ignoring input
+(33.312, 91.9616) 06/09/2015 14:1956
+read temperature. sleeping for 10 minutues
+(33.5, 92.3) 06/09/2015 14:2957
+read temperature. sleeping for 10 minutues
+(33.75, 92.75) 06/09/2015 14:3958
+read temperature. sleeping for 10 minutues
+nohup: ignoring input
+(33.812, 92.8616) 06/09/2015 14:4640
+read temperature. sleeping for 10 minutues
+(33.937, 93.0866) 06/09/2015 14:5643
+read temperature. sleeping for 10 minutues
+(34.25, 93.65) 06/09/2015 15:0646
+read temperature. sleeping for 10 minutues
+(34.937, 94.8866) 06/09/2015 15:1649
+read temperature. sleeping for 10 minutues
+(35.187, 95.3366) 06/09/2015 15:2652
+read temperature. sleeping for 10 minutues
+(35.312, 95.5616) 06/09/2015 15:3657
+read temperature. sleeping for 10 minutues
+(35.562, 96.0116) 06/09/2015 15:4700
+read temperature. sleeping for 10 minutues
+(35.75, 96.35) 06/09/2015 15:5703
+read temperature. sleeping for 10 minutues
+(35.812, 96.4616) 06/09/2015 16:0706
+read temperature. sleeping for 10 minutues
+(36.0, 96.8) 06/09/2015 16:1709
+read temperature. sleeping for 10 minutues
+(36.0, 96.8) 06/09/2015 16:2712
+read temperature. sleeping for 10 minutues
+(36.062, 96.91159999999999) 06/09/2015 16:3715
+read temperature. sleeping for 10 minutues
+(35.875, 96.575) 06/09/2015 16:4718
+read temperature. sleeping for 10 minutues
+(35.812, 96.4616) 06/09/2015 16:5721
+read temperature. sleeping for 10 minutues
+(35.812, 96.4616) 06/09/2015 17:0724
+read temperature. sleeping for 10 minutues
+(35.625, 96.125) 06/09/2015 17:1728
+read temperature. sleeping for 10 minutues
+(35.437, 95.78659999999999) 06/09/2015 17:2730
+read temperature. sleeping for 10 minutues
+(35.375, 95.675) 06/09/2015 17:3734
+read temperature. sleeping for 10 minutues
+(35.375, 95.675) 06/09/2015 17:4737
+read temperature. sleeping for 10 minutues
+(35.312, 95.5616) 06/09/2015 17:5740
+read temperature. sleeping for 10 minutues
+(35.25, 95.45) 06/09/2015 18:0744
+read temperature. sleeping for 10 minutues
+(35.25, 95.45) 06/09/2015 18:1746
+read temperature. sleeping for 10 minutues
+(35.25, 95.45) 06/09/2015 18:2750
+read temperature. sleeping for 10 minutues
+(35.187, 95.3366) 06/09/2015 18:3753
+read temperature. sleeping for 10 minutues
+(35.125, 95.225) 06/09/2015 18:4756
+read temperature. sleeping for 10 minutues
+nohup: ignoring input
+(34.937, 94.8866) 06/09/2015 19:0254
+read temperature. sleeping for 10 minutues
+(34.875, 94.775) 06/09/2015 19:1257
+read temperature. sleeping for 10 minutues
+(34.812, 94.66159999999999) 06/09/2015 19:2259
+read temperature. sleeping for 10 minutues
+(34.687, 94.4366) 06/09/2015 19:3300
+read temperature. sleeping for 10 minutues
+(34.625, 94.325) 06/09/2015 19:4302
+read temperature. sleeping for 10 minutues
+(34.687, 94.4366) 06/09/2015 19:5304
+read temperature. sleeping for 10 minutues
+(34.812, 94.66159999999999) 06/09/2015 20:0306
+read temperature. sleeping for 10 minutues
+(34.687, 94.4366) 06/09/2015 20:1309
+read temperature. sleeping for 10 minutues
+(34.562, 94.2116) 06/09/2015 20:2311
+read temperature. sleeping for 10 minutues
+(34.375, 93.875) 06/09/2015 20:3313
+read temperature. sleeping for 10 minutues
+(34.312, 93.7616) 06/09/2015 20:4314
+read temperature. sleeping for 10 minutues
+(34.25, 93.65) 06/09/2015 20:5316
+read temperature. sleeping for 10 minutues
+(34.125, 93.425) 06/09/2015 21:0318
+read temperature. sleeping for 10 minutues
+(34.062, 93.3116) 06/09/2015 21:1321
+read temperature. sleeping for 10 minutues
+(33.937, 93.0866) 06/09/2015 21:2323
+read temperature. sleeping for 10 minutues
+(33.875, 92.975) 06/09/2015 21:3324
+read temperature. sleeping for 10 minutues
+(33.812, 92.8616) 06/09/2015 21:4326
+read temperature. sleeping for 10 minutues
+(33.687, 92.6366) 06/09/2015 21:5328
+read temperature. sleeping for 10 minutues
+(33.625, 92.525) 06/09/2015 22:0330
+read temperature. sleeping for 10 minutues
+(33.5, 92.3) 06/09/2015 22:1332
+read temperature. sleeping for 10 minutues
+(33.437, 92.1866) 06/09/2015 22:2334
+read temperature. sleeping for 10 minutues
+(33.312, 91.9616) 06/09/2015 22:3336
+read temperature. sleeping for 10 minutues
+(33.25, 91.85) 06/09/2015 22:4338
+read temperature. sleeping for 10 minutues
+(33.187, 91.7366) 06/09/2015 22:5339
+read temperature. sleeping for 10 minutues
+(33.125, 91.625) 06/09/2015 23:0341
+read temperature. sleeping for 10 minutues
+(33.0, 91.4) 06/09/2015 23:1344
+read temperature. sleeping for 10 minutues
+(32.937, 91.28659999999999) 06/09/2015 23:2346
+read temperature. sleeping for 10 minutues
+(32.812, 91.0616) 06/09/2015 23:3347
+read temperature. sleeping for 10 minutues
+(32.75, 90.95) 06/09/2015 23:4349
+read temperature. sleeping for 10 minutues
+(32.687, 90.8366) 06/09/2015 23:5351
+read temperature. sleeping for 10 minutues
+(32.625, 90.725) 07/09/2015 00:0353
+read temperature. sleeping for 10 minutues
+(32.5, 90.5) 07/09/2015 00:1356
+read temperature. sleeping for 10 minutues
+(32.437, 90.3866) 07/09/2015 00:2357
+read temperature. sleeping for 10 minutues
+(32.5, 90.5) 07/09/2015 00:3359
+read temperature. sleeping for 10 minutues
+(32.562, 90.6116) 07/09/2015 00:4401
+read temperature. sleeping for 10 minutues
+(32.562, 90.6116) 07/09/2015 00:5402
+read temperature. sleeping for 10 minutues
+(32.5, 90.5) 07/09/2015 01:0404
+read temperature. sleeping for 10 minutues
+(32.437, 90.3866) 07/09/2015 01:1407
+read temperature. sleeping for 10 minutues
+(32.437, 90.3866) 07/09/2015 01:2409
+read temperature. sleeping for 10 minutues
+(32.375, 90.275) 07/09/2015 01:3411
+read temperature. sleeping for 10 minutues
+(32.312, 90.16159999999999) 07/09/2015 01:4412
+read temperature. sleeping for 10 minutues
+(32.25, 90.05) 07/09/2015 01:5414
+read temperature. sleeping for 10 minutues
+(32.187, 89.9366) 07/09/2015 02:0416
+read temperature. sleeping for 10 minutues
+(32.0, 89.6) 07/09/2015 02:1418
+read temperature. sleeping for 10 minutues
+(31.937, 89.4866) 07/09/2015 02:2419
+read temperature. sleeping for 10 minutues
+(31.875, 89.375) 07/09/2015 02:3421
+read temperature. sleeping for 10 minutues
+(31.812, 89.2616) 07/09/2015 02:4423
+read temperature. sleeping for 10 minutues
+(31.812, 89.2616) 07/09/2015 02:5424
+read temperature. sleeping for 10 minutues
+(31.75, 89.15) 07/09/2015 03:0426
+read temperature. sleeping for 10 minutues
+(31.625, 88.925) 07/09/2015 03:1428
+read temperature. sleeping for 10 minutues
+(31.562, 88.8116) 07/09/2015 03:2430
+read temperature. sleeping for 10 minutues
+(31.5, 88.7) 07/09/2015 03:3431
+read temperature. sleeping for 10 minutues
+(31.375, 88.475) 07/09/2015 03:4433
+read temperature. sleeping for 10 minutues
+(31.312, 88.3616) 07/09/2015 03:5435
+read temperature. sleeping for 10 minutues
+(31.25, 88.25) 07/09/2015 04:0436
+read temperature. sleeping for 10 minutues
+(31.187, 88.1366) 07/09/2015 04:1438
+read temperature. sleeping for 10 minutues
+(31.187, 88.1366) 07/09/2015 04:2440
+read temperature. sleeping for 10 minutues
+(31.062, 87.91159999999999) 07/09/2015 04:3442
+read temperature. sleeping for 10 minutues
+(31.062, 87.91159999999999) 07/09/2015 04:4443
+read temperature. sleeping for 10 minutues
+(30.937, 87.6866) 07/09/2015 04:5445
+read temperature. sleeping for 10 minutues
+(30.937, 87.6866) 07/09/2015 05:0447
+read temperature. sleeping for 10 minutues
+(30.875, 87.575) 07/09/2015 05:1449
+read temperature. sleeping for 10 minutues
+(30.812, 87.4616) 07/09/2015 05:2450
+read temperature. sleeping for 10 minutues
+(30.812, 87.4616) 07/09/2015 05:3452
+read temperature. sleeping for 10 minutues
+(30.687, 87.2366) 07/09/2015 05:4454
+read temperature. sleeping for 10 minutues
+(30.687, 87.2366) 07/09/2015 05:5455
+read temperature. sleeping for 10 minutues
+(30.625, 87.125) 07/09/2015 06:0457
+read temperature. sleeping for 10 minutues
+(30.562, 87.0116) 07/09/2015 06:1459
+read temperature. sleeping for 10 minutues
+(30.562, 87.0116) 07/09/2015 06:2501
+read temperature. sleeping for 10 minutues
+(30.5, 86.9) 07/09/2015 06:3502
+read temperature. sleeping for 10 minutues
+(30.375, 86.675) 07/09/2015 06:4504
+read temperature. sleeping for 10 minutues
+(30.375, 86.675) 07/09/2015 06:5506
+read temperature. sleeping for 10 minutues
+(30.312, 86.5616) 07/09/2015 07:0507
+read temperature. sleeping for 10 minutues
+(30.312, 86.5616) 07/09/2015 07:1509
+read temperature. sleeping for 10 minutues
+(30.25, 86.45) 07/09/2015 07:2511
+read temperature. sleeping for 10 minutues
+(30.187, 86.3366) 07/09/2015 07:3513
+read temperature. sleeping for 10 minutues
+(30.125, 86.225) 07/09/2015 07:4514
+read temperature. sleeping for 10 minutues
+(30.125, 86.225) 07/09/2015 07:5516
+read temperature. sleeping for 10 minutues
+(30.125, 86.225) 07/09/2015 08:0518
+read temperature. sleeping for 10 minutues
+(30.062, 86.1116) 07/09/2015 08:1519
+read temperature. sleeping for 10 minutues
+(30.062, 86.1116) 07/09/2015 08:2521
+read temperature. sleeping for 10 minutues
+(29.937, 85.8866) 07/09/2015 08:3523
+read temperature. sleeping for 10 minutues
+(30.0, 86.0) 07/09/2015 08:4525
+read temperature. sleeping for 10 minutues
+(29.937, 85.8866) 07/09/2015 08:5526
+read temperature. sleeping for 10 minutues
+(29.875, 85.775) 07/09/2015 09:0528
+read temperature. sleeping for 10 minutues
+(29.875, 85.775) 07/09/2015 09:1530
+read temperature. sleeping for 10 minutues
+(29.562, 85.2116) 07/09/2015 09:2531
+read temperature. sleeping for 10 minutues
+(29.562, 85.2116) 07/09/2015 09:3533
+read temperature. sleeping for 10 minutues
+(29.562, 85.2116) 07/09/2015 09:4535
+read temperature. sleeping for 10 minutues
+(29.625, 85.325) 07/09/2015 09:5537
+read temperature. sleeping for 10 minutues
+(29.75, 85.55) 07/09/2015 10:0538
+read temperature. sleeping for 10 minutues
+(29.937, 85.8866) 07/09/2015 10:1540
+read temperature. sleeping for 10 minutues
+(30.062, 86.1116) 07/09/2015 10:2542
+read temperature. sleeping for 10 minutues
+(30.25, 86.45) 07/09/2015 10:3543
+read temperature. sleeping for 10 minutues
+(30.312, 86.5616) 07/09/2015 10:4545
+read temperature. sleeping for 10 minutues
+(30.375, 86.675) 07/09/2015 10:5547
+read temperature. sleeping for 10 minutues
+(30.437, 86.78659999999999) 07/09/2015 11:0549
+read temperature. sleeping for 10 minutues
+(30.562, 87.0116) 07/09/2015 11:1550
+read temperature. sleeping for 10 minutues
+(30.625, 87.125) 07/09/2015 11:2552
+read temperature. sleeping for 10 minutues
+(30.812, 87.4616) 07/09/2015 11:3554
+read temperature. sleeping for 10 minutues
+(30.875, 87.575) 07/09/2015 11:4556
+read temperature. sleeping for 10 minutues
+(31.062, 87.91159999999999) 07/09/2015 11:5557
+read temperature. sleeping for 10 minutues
+(31.187, 88.1366) 07/09/2015 12:0559
+read temperature. sleeping for 10 minutues
+(31.312, 88.3616) 07/09/2015 12:1601
+read temperature. sleeping for 10 minutues
+(31.437, 88.5866) 07/09/2015 12:2602
+read temperature. sleeping for 10 minutues
+(31.562, 88.8116) 07/09/2015 12:3604
+read temperature. sleeping for 10 minutues
+(31.687, 89.03659999999999) 07/09/2015 12:4606
+read temperature. sleeping for 10 minutues
+(31.875, 89.375) 07/09/2015 12:5608
+read temperature. sleeping for 10 minutues
+(32.0, 89.6) 07/09/2015 13:0609
+read temperature. sleeping for 10 minutues
+(32.75, 90.95) 07/09/2015 13:1611
+read temperature. sleeping for 10 minutues
+(33.187, 91.7366) 07/09/2015 13:2613
+read temperature. sleeping for 10 minutues
+(33.437, 92.1866) 07/09/2015 13:3614
+read temperature. sleeping for 10 minutues
+(33.562, 92.41159999999999) 07/09/2015 13:4616
+read temperature. sleeping for 10 minutues
+(33.562, 92.41159999999999) 07/09/2015 13:5618
+read temperature. sleeping for 10 minutues
+(33.687, 92.6366) 07/09/2015 14:0620
+read temperature. sleeping for 10 minutues
+(33.812, 92.8616) 07/09/2015 14:1622
+read temperature. sleeping for 10 minutues
+(34.0, 93.2) 07/09/2015 14:2624
+read temperature. sleeping for 10 minutues
+(34.062, 93.3116) 07/09/2015 14:3626
+read temperature. sleeping for 10 minutues
+(34.25, 93.65) 07/09/2015 14:4628
+read temperature. sleeping for 10 minutues
+(34.375, 93.875) 07/09/2015 14:5629
+read temperature. sleeping for 10 minutues
+(34.562, 94.2116) 07/09/2015 15:0631
+read temperature. sleeping for 10 minutues
+(34.687, 94.4366) 07/09/2015 15:1634
+read temperature. sleeping for 10 minutues
+(34.875, 94.775) 07/09/2015 15:2636
+read temperature. sleeping for 10 minutues
+(35.062, 95.1116) 07/09/2015 15:3637
+read temperature. sleeping for 10 minutues
+(35.187, 95.3366) 07/09/2015 15:4639
+read temperature. sleeping for 10 minutues
+(35.25, 95.45) 07/09/2015 15:5641
+read temperature. sleeping for 10 minutues
+(35.437, 95.78659999999999) 07/09/2015 16:0642
+read temperature. sleeping for 10 minutues
+(35.437, 95.78659999999999) 07/09/2015 16:1645
+read temperature. sleeping for 10 minutues
+(35.5, 95.9) 07/09/2015 16:2647
+read temperature. sleeping for 10 minutues
+(35.625, 96.125) 07/09/2015 16:3648
+read temperature. sleeping for 10 minutues
+(35.875, 96.575) 07/09/2015 16:4650
+read temperature. sleeping for 10 minutues
+(35.812, 96.4616) 07/09/2015 16:5652
+read temperature. sleeping for 10 minutues
+(36.062, 96.91159999999999) 07/09/2015 17:0654
+read temperature. sleeping for 10 minutues
+(36.187, 97.1366) 07/09/2015 17:1657
+read temperature. sleeping for 10 minutues
+(36.125, 97.025) 07/09/2015 17:2658
+read temperature. sleeping for 10 minutues
+(36.062, 96.91159999999999) 07/09/2015 17:3700
+read temperature. sleeping for 10 minutues
+(36.062, 96.91159999999999) 07/09/2015 17:4702
+read temperature. sleeping for 10 minutues
+(35.875, 96.575) 07/09/2015 17:5703
+read temperature. sleeping for 10 minutues
+(35.875, 96.575) 07/09/2015 18:0705
+read temperature. sleeping for 10 minutues
+(35.812, 96.4616) 07/09/2015 18:1708
+read temperature. sleeping for 10 minutues
+(35.812, 96.4616) 07/09/2015 18:2710
+read temperature. sleeping for 10 minutues
+(35.75, 96.35) 07/09/2015 18:3712
+read temperature. sleeping for 10 minutues
+(35.75, 96.35) 07/09/2015 18:4713
+read temperature. sleeping for 10 minutues
+(35.687, 96.2366) 07/09/2015 18:5715
+read temperature. sleeping for 10 minutues
+(35.562, 96.0116) 07/09/2015 19:0717
+read temperature. sleeping for 10 minutues
+(35.25, 95.45) 07/09/2015 19:1720
+read temperature. sleeping for 10 minutues
+(35.062, 95.1116) 07/09/2015 19:2722
+read temperature. sleeping for 10 minutues
+(34.937, 94.8866) 07/09/2015 19:3723
+read temperature. sleeping for 10 minutues
+(34.812, 94.66159999999999) 07/09/2015 19:4725
+read temperature. sleeping for 10 minutues
+(34.812, 94.66159999999999) 07/09/2015 19:5727
+read temperature. sleeping for 10 minutues
+(34.812, 94.66159999999999) 07/09/2015 20:0728
+read temperature. sleeping for 10 minutues
+(34.812, 94.66159999999999) 07/09/2015 20:1732
+read temperature. sleeping for 10 minutues
+(34.625, 94.325) 07/09/2015 20:2734
+read temperature. sleeping for 10 minutues
+(34.5, 94.1) 07/09/2015 20:3736
+read temperature. sleeping for 10 minutues
+(34.125, 93.425) 07/09/2015 20:4737
+read temperature. sleeping for 10 minutues
+(33.875, 92.975) 07/09/2015 20:5739
+read temperature. sleeping for 10 minutues
+(33.875, 92.975) 07/09/2015 21:0741
+read temperature. sleeping for 10 minutues
+(34.125, 93.425) 07/09/2015 21:1744
+read temperature. sleeping for 10 minutues
+(34.25, 93.65) 07/09/2015 21:2745
+read temperature. sleeping for 10 minutues
+(34.25, 93.65) 07/09/2015 21:3747
+read temperature. sleeping for 10 minutues
+(33.875, 92.975) 07/09/2015 21:4749
+read temperature. sleeping for 10 minutues
+(33.312, 91.9616) 07/09/2015 21:5751
+read temperature. sleeping for 10 minutues
+(33.0, 91.4) 07/09/2015 22:0752
+read temperature. sleeping for 10 minutues
+(33.187, 91.7366) 07/09/2015 22:1755
+read temperature. sleeping for 10 minutues
+(33.25, 91.85) 07/09/2015 22:2757
+read temperature. sleeping for 10 minutues
+(33.25, 91.85) 07/09/2015 22:3759
+read temperature. sleeping for 10 minutues
+(33.187, 91.7366) 07/09/2015 22:4801
+read temperature. sleeping for 10 minutues
+(33.187, 91.7366) 07/09/2015 22:5802
+read temperature. sleeping for 10 minutues
+(33.125, 91.625) 07/09/2015 23:0804
+read temperature. sleeping for 10 minutues
+(33.062, 91.5116) 07/09/2015 23:1807
+read temperature. sleeping for 10 minutues
+(33.0, 91.4) 07/09/2015 23:2809
+read temperature. sleeping for 10 minutues
+(32.875, 91.175) 07/09/2015 23:3811
+read temperature. sleeping for 10 minutues
+(32.687, 90.8366) 07/09/2015 23:4813
+read temperature. sleeping for 10 minutues
+(32.687, 90.8366) 07/09/2015 23:5814
+read temperature. sleeping for 10 minutues
+(32.562, 90.6116) 08/09/2015 00:0816
+read temperature. sleeping for 10 minutues
+(32.5, 90.5) 08/09/2015 00:1819
+read temperature. sleeping for 10 minutues
+(32.437, 90.3866) 08/09/2015 00:2821
+read temperature. sleeping for 10 minutues
+(32.375, 90.275) 08/09/2015 00:3823
+read temperature. sleeping for 10 minutues
+(32.25, 90.05) 08/09/2015 00:4824
+read temperature. sleeping for 10 minutues
+(32.187, 89.9366) 08/09/2015 00:5826
+read temperature. sleeping for 10 minutues
+(32.125, 89.825) 08/09/2015 01:0828
+read temperature. sleeping for 10 minutues
+(32.0, 89.6) 08/09/2015 01:1829
+read temperature. sleeping for 10 minutues
+(31.937, 89.4866) 08/09/2015 01:2831
+read temperature. sleeping for 10 minutues
+(31.875, 89.375) 08/09/2015 01:3833
+read temperature. sleeping for 10 minutues
+(31.812, 89.2616) 08/09/2015 01:4835
+read temperature. sleeping for 10 minutues
+(31.75, 89.15) 08/09/2015 01:5836
+read temperature. sleeping for 10 minutues
+(31.687, 89.03659999999999) 08/09/2015 02:0838
+read temperature. sleeping for 10 minutues
+(31.625, 88.925) 08/09/2015 02:1840
+read temperature. sleeping for 10 minutues
+(31.5, 88.7) 08/09/2015 02:2842
+read temperature. sleeping for 10 minutues
+(31.437, 88.5866) 08/09/2015 02:3843
+read temperature. sleeping for 10 minutues
+(31.375, 88.475) 08/09/2015 02:4845
+read temperature. sleeping for 10 minutues
+(31.312, 88.3616) 08/09/2015 02:5847
+read temperature. sleeping for 10 minutues
+(31.25, 88.25) 08/09/2015 03:0849
+read temperature. sleeping for 10 minutues
+(31.187, 88.1366) 08/09/2015 03:1850
+read temperature. sleeping for 10 minutues
+(31.125, 88.025) 08/09/2015 03:2852
+read temperature. sleeping for 10 minutues
+(31.062, 87.91159999999999) 08/09/2015 03:3854
+read temperature. sleeping for 10 minutues
+(31.062, 87.91159999999999) 08/09/2015 03:4855
+read temperature. sleeping for 10 minutues
+(30.937, 87.6866) 08/09/2015 03:5857
+read temperature. sleeping for 10 minutues
+(30.937, 87.6866) 08/09/2015 04:0859
+read temperature. sleeping for 10 minutues
+(30.875, 87.575) 08/09/2015 04:1901
+read temperature. sleeping for 10 minutues
+(30.812, 87.4616) 08/09/2015 04:2902
+read temperature. sleeping for 10 minutues
+(30.75, 87.35) 08/09/2015 04:3904
+read temperature. sleeping for 10 minutues
+(30.687, 87.2366) 08/09/2015 04:4906
+read temperature. sleeping for 10 minutues
+(30.687, 87.2366) 08/09/2015 04:5908
+read temperature. sleeping for 10 minutues
+(30.625, 87.125) 08/09/2015 05:0909
+read temperature. sleeping for 10 minutues
+(30.562, 87.0116) 08/09/2015 05:1911
+read temperature. sleeping for 10 minutues
+(30.5, 86.9) 08/09/2015 05:2913
+read temperature. sleeping for 10 minutues
+(30.437, 86.78659999999999) 08/09/2015 05:3915
+read temperature. sleeping for 10 minutues
+(30.437, 86.78659999999999) 08/09/2015 05:4916
+read temperature. sleeping for 10 minutues
+(30.375, 86.675) 08/09/2015 05:5918
+read temperature. sleeping for 10 minutues
+(30.312, 86.5616) 08/09/2015 06:0920
+read temperature. sleeping for 10 minutues
+(30.25, 86.45) 08/09/2015 06:1921
+read temperature. sleeping for 10 minutues
+(30.25, 86.45) 08/09/2015 06:2923
+read temperature. sleeping for 10 minutues
+(30.187, 86.3366) 08/09/2015 06:3925
+read temperature. sleeping for 10 minutues
+(30.187, 86.3366) 08/09/2015 06:4926
+read temperature. sleeping for 10 minutues
+(30.125, 86.225) 08/09/2015 06:5928
+read temperature. sleeping for 10 minutues
+(29.937, 85.8866) 08/09/2015 07:0930
+read temperature. sleeping for 10 minutues
+(29.187, 84.53659999999999) 08/09/2015 07:1932
+read temperature. sleeping for 10 minutues
+(28.875, 83.975) 08/09/2015 07:2933
+read temperature. sleeping for 10 minutues
+(29.0, 84.2) 08/09/2015 07:3935
+read temperature. sleeping for 10 minutues
+(29.062, 84.3116) 08/09/2015 07:4937
+read temperature. sleeping for 10 minutues
+(28.937, 84.0866) 08/09/2015 07:5938
+read temperature. sleeping for 10 minutues
+(28.875, 83.975) 08/09/2015 08:0940
+read temperature. sleeping for 10 minutues
+(28.687, 83.6366) 08/09/2015 08:1942
+read temperature. sleeping for 10 minutues
+(28.687, 83.6366) 08/09/2015 08:2943
+read temperature. sleeping for 10 minutues
+(28.5, 83.3) 08/09/2015 08:3945
+read temperature. sleeping for 10 minutues
+(28.5, 83.3) 08/09/2015 08:4947
+read temperature. sleeping for 10 minutues
+(28.562, 83.41159999999999) 08/09/2015 08:5949
+read temperature. sleeping for 10 minutues
+(28.687, 83.6366) 08/09/2015 09:0950
+read temperature. sleeping for 10 minutues
+(28.75, 83.75) 08/09/2015 09:1952
+read temperature. sleeping for 10 minutues
+(28.875, 83.975) 08/09/2015 09:2954
+read temperature. sleeping for 10 minutues
+(29.125, 84.425) 08/09/2015 09:3955
+read temperature. sleeping for 10 minutues
+(29.312, 84.7616) 08/09/2015 09:4957
+read temperature. sleeping for 10 minutues
+(29.375, 84.875) 08/09/2015 09:5959
+read temperature. sleeping for 10 minutues
+(29.437, 84.9866) 08/09/2015 10:1001
+read temperature. sleeping for 10 minutues
+(29.562, 85.2116) 08/09/2015 10:2002
+read temperature. sleeping for 10 minutues
+(29.625, 85.325) 08/09/2015 10:3004
+read temperature. sleeping for 10 minutues
+(29.75, 85.55) 08/09/2015 10:4006
+read temperature. sleeping for 10 minutues
+(29.812, 85.66159999999999) 08/09/2015 10:5007
+read temperature. sleeping for 10 minutues
+(29.937, 85.8866) 08/09/2015 11:0009
+read temperature. sleeping for 10 minutues
+(30.0, 86.0) 08/09/2015 11:1011
+read temperature. sleeping for 10 minutues
+(30.062, 86.1116) 08/09/2015 11:2013
+read temperature. sleeping for 10 minutues
+(30.187, 86.3366) 08/09/2015 11:3014
+read temperature. sleeping for 10 minutues
+(30.312, 86.5616) 08/09/2015 11:4016
+read temperature. sleeping for 10 minutues
+(30.375, 86.675) 08/09/2015 11:5018
+read temperature. sleeping for 10 minutues
+(30.5, 86.9) 08/09/2015 12:0019
+read temperature. sleeping for 10 minutues
+(30.562, 87.0116) 08/09/2015 12:1021
+read temperature. sleeping for 10 minutues
+(30.75, 87.35) 08/09/2015 12:2023
+read temperature. sleeping for 10 minutues
+(30.812, 87.4616) 08/09/2015 12:3025
+read temperature. sleeping for 10 minutues
+(30.937, 87.6866) 08/09/2015 12:4026
+read temperature. sleeping for 10 minutues
+(31.062, 87.91159999999999) 08/09/2015 12:5028
+read temperature. sleeping for 10 minutues
+(31.187, 88.1366) 08/09/2015 13:0030
+read temperature. sleeping for 10 minutues
+(31.312, 88.3616) 08/09/2015 13:1031
+read temperature. sleeping for 10 minutues
+(31.437, 88.5866) 08/09/2015 13:2033
+read temperature. sleeping for 10 minutues
+(31.625, 88.925) 08/09/2015 13:3035
+read temperature. sleeping for 10 minutues
+(31.687, 89.03659999999999) 08/09/2015 13:4036
+read temperature. sleeping for 10 minutues
+(31.875, 89.375) 08/09/2015 13:5038
+read temperature. sleeping for 10 minutues
+(32.0, 89.6) 08/09/2015 14:0040
+read temperature. sleeping for 10 minutues
+(32.125, 89.825) 08/09/2015 14:1042
+read temperature. sleeping for 10 minutues
+(32.25, 90.05) 08/09/2015 14:2043
+read temperature. sleeping for 10 minutues
+(32.437, 90.3866) 08/09/2015 14:3045
+read temperature. sleeping for 10 minutues
+(32.562, 90.6116) 08/09/2015 14:4047
+read temperature. sleeping for 10 minutues
+(32.687, 90.8366) 08/09/2015 14:5048
+read temperature. sleeping for 10 minutues
+(32.875, 91.175) 08/09/2015 15:0050
+read temperature. sleeping for 10 minutues
+(33.0, 91.4) 08/09/2015 15:1052
+read temperature. sleeping for 10 minutues
+(33.125, 91.625) 08/09/2015 15:2055
+read temperature. sleeping for 10 minutues
+(33.312, 91.9616) 08/09/2015 15:3057
+read temperature. sleeping for 10 minutues
+(33.5, 92.3) 08/09/2015 15:4059
+read temperature. sleeping for 10 minutues
+(33.625, 92.525) 08/09/2015 15:5100
+read temperature. sleeping for 10 minutues
+(33.812, 92.8616) 08/09/2015 16:0102
+read temperature. sleeping for 10 minutues
+(33.937, 93.0866) 08/09/2015 16:1104
+read temperature. sleeping for 10 minutues
+(34.062, 93.3116) 08/09/2015 16:2107
+read temperature. sleeping for 10 minutues
+(34.187, 93.53659999999999) 08/09/2015 16:3109
+read temperature. sleeping for 10 minutues
+(34.25, 93.65) 08/09/2015 16:4110
+read temperature. sleeping for 10 minutues
+(34.437, 93.9866) 08/09/2015 16:5112
+read temperature. sleeping for 10 minutues
+(34.5, 94.1) 08/09/2015 17:0114
+read temperature. sleeping for 10 minutues
+(34.562, 94.2116) 08/09/2015 17:1115
+read temperature. sleeping for 10 minutues
+(34.625, 94.325) 08/09/2015 17:2118
+read temperature. sleeping for 10 minutues
+(34.687, 94.4366) 08/09/2015 17:3120
+read temperature. sleeping for 10 minutues
+(34.75, 94.55) 08/09/2015 17:4122
+read temperature. sleeping for 10 minutues
+(34.75, 94.55) 08/09/2015 17:5123
+read temperature. sleeping for 10 minutues
+(34.812, 94.66159999999999) 08/09/2015 18:0125
+read temperature. sleeping for 10 minutues
+(35.187, 95.3366) 08/09/2015 18:1127
+read temperature. sleeping for 10 minutues
+(35.312, 95.5616) 08/09/2015 18:2130
+read temperature. sleeping for 10 minutues
+(35.187, 95.3366) 08/09/2015 18:3131
+read temperature. sleeping for 10 minutues
+(35.125, 95.225) 08/09/2015 18:4133
+read temperature. sleeping for 10 minutues
+(34.937, 94.8866) 08/09/2015 18:5135
+read temperature. sleeping for 10 minutues
+(34.687, 94.4366) 08/09/2015 19:0137
+read temperature. sleeping for 10 minutues
+(34.625, 94.325) 08/09/2015 19:1138
+read temperature. sleeping for 10 minutues
+(34.375, 93.875) 08/09/2015 19:2146
+read temperature. sleeping for 10 minutues
+(34.25, 93.65) 08/09/2015 19:3148
+read temperature. sleeping for 10 minutues
+(34.187, 93.53659999999999) 08/09/2015 19:4150
+read temperature. sleeping for 10 minutues
+(34.125, 93.425) 08/09/2015 19:5151
+read temperature. sleeping for 10 minutues
+(34.062, 93.3116) 08/09/2015 20:0153
+read temperature. sleeping for 10 minutues
+(34.062, 93.3116) 08/09/2015 20:1155
+read temperature. sleeping for 10 minutues
+(33.875, 92.975) 08/09/2015 20:2203
+read temperature. sleeping for 10 minutues
+(33.875, 92.975) 08/09/2015 20:3204
+read temperature. sleeping for 10 minutues
+(33.687, 92.6366) 08/09/2015 20:4206
+read temperature. sleeping for 10 minutues
+(33.5, 92.3) 08/09/2015 20:5208
+read temperature. sleeping for 10 minutues
+(33.437, 92.1866) 08/09/2015 21:0209
+read temperature. sleeping for 10 minutues
+(33.187, 91.7366) 08/09/2015 21:1211
+read temperature. sleeping for 10 minutues
+(33.0, 91.4) 08/09/2015 21:2214
+read temperature. sleeping for 10 minutues
+(33.0, 91.4) 08/09/2015 21:3216
+read temperature. sleeping for 10 minutues
+(32.875, 91.175) 08/09/2015 21:4217
+read temperature. sleeping for 10 minutues
+(33.187, 91.7366) 08/09/2015 21:5219
+read temperature. sleeping for 10 minutues
+(33.312, 91.9616) 08/09/2015 22:0221
+read temperature. sleeping for 10 minutues
+(33.312, 91.9616) 08/09/2015 22:1223
+Traceback (most recent call last):
+  File "waterproofThermometer.py", line 43, in <module>
+    client.messages.create(to='+12406788175',from_='+12406502503',body = "your house is " + str(far) + " degrees F")
+  File "/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/messages.py", line 122, in create
+    return self.create_instance(kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/base.py", line 365, in create_instance
+    data=transform_params(body))
+  File "/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/base.py", line 200, in request
+    resp = make_twilio_request(method, uri, auth=self.auth, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/base.py", line 152, in make_twilio_request
+    resp = make_request(method, uri, **kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/twilio/rest/resources/base.py", line 117, in make_request
+    resp, content = http.request(url, method, headers=headers, body=data)
+  File "/usr/local/lib/python2.7/dist-packages/httplib2/__init__.py", line 1608, in request
+    (response, content) = self._request(conn, authority, uri, request_uri, method, body, headers, redirections, cachekey)
+  File "/usr/local/lib/python2.7/dist-packages/httplib2/__init__.py", line 1350, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "/usr/local/lib/python2.7/dist-packages/httplib2/__init__.py", line 1278, in _conn_request
+    raise ServerNotFoundError("Unable to find the server at %s" % conn.host)
+httplib2.ServerNotFoundError: Unable to find the server at api.twilio.com
+ERROR: could not insert 'w1_therm': Operation not permitted
+Traceback (most recent call last):
+  File "waterproofThermometer.py", line 8, in <module>
+    device_folder = glob.glob(base_dir + '28*')[0]
+IndexError: list index out of range
+nohup: ignoring input
+ERROR: could not insert 'w1_therm': Operation not permitted
+Traceback (most recent call last):
+  File "waterproofThermometer.py", line 8, in <module>
+    device_folder = glob.glob(base_dir + '28*')[0]
+IndexError: list index out of range
+nohup: ignoring input
+Traceback (most recent call last):
+  File "waterproofThermometer.py", line 8, in <module>
+    device_folder = glob.glob(base_dir + '28*')[0]
+IndexError: list index out of range

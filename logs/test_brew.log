@@ -1,0 +1,552 @@
+09/19/2015 02:58:12 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 02:58:12 PM Scheduler started
+09/19/2015 02:58:12 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 02:58:12 PM Looking for jobs to run
+09/19/2015 02:58:12 PM Next wakeup is due at 2015-09-20 02:58:12.059204 (in 43199.998283 seconds)
+09/19/2015 02:58:12 PM Scheduler started
+09/19/2015 02:58:12 PM Added job "send_email (trigger: interval[12:00:00], next run at: 2015-09-20 02:58:12.059204)" to job store "default"
+09/19/2015 02:58:12 PM Looking for jobs to run
+09/19/2015 02:58:12 PM No jobs; waiting until a job is added
+09/19/2015 02:58:12 PM Looking for jobs to run
+09/19/2015 02:58:12 PM Next wakeup is due at 2015-09-20 02:58:12.059204 (in 43199.989440 seconds)
+09/19/2015 02:58:14 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 02:58:14 PM Scheduler started
+09/19/2015 02:58:14 PM Looking for jobs to run
+09/19/2015 02:58:14 PM No jobs; waiting until a job is added
+09/19/2015 02:58:14 PM Added job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:03:14.714680)" to job store "default"
+09/19/2015 02:58:14 PM Looking for jobs to run
+09/19/2015 02:58:14 PM Next wakeup is due at 2015-09-19 15:03:14.714680 (in 299.997202 seconds)
+09/19/2015 03:00:08 PM Shutting down thread pool
+09/19/2015 03:00:08 PM Shutting down thread pool
+09/19/2015 03:00:08 PM Shutting down thread pool
+09/19/2015 03:05:15 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:05:15 PM Scheduler started
+09/19/2015 03:05:15 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:05:15 PM Looking for jobs to run
+09/19/2015 03:05:15 PM Next wakeup is due at 2015-09-20 03:05:15.474356 (in 43199.998290 seconds)
+09/19/2015 03:05:15 PM Scheduler started
+09/19/2015 03:05:15 PM Added job "send_email (trigger: interval[12:00:00], next run at: 2015-09-20 03:05:15.474356)" to job store "default"
+09/19/2015 03:05:15 PM Looking for jobs to run
+09/19/2015 03:05:15 PM No jobs; waiting until a job is added
+09/19/2015 03:05:15 PM Looking for jobs to run
+09/19/2015 03:05:15 PM Next wakeup is due at 2015-09-20 03:05:15.474356 (in 43199.987764 seconds)
+09/19/2015 03:05:18 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:05:18 PM Scheduler started
+09/19/2015 03:05:18 PM Added job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:10:18.647825)" to job store "default"
+09/19/2015 03:05:18 PM Looking for jobs to run
+09/19/2015 03:05:18 PM Next wakeup is due at 2015-09-19 15:10:18.647825 (in 299.997372 seconds)
+09/19/2015 03:05:18 PM Looking for jobs to run
+09/19/2015 03:05:18 PM Next wakeup is due at 2015-09-19 15:10:18.647825 (in 299.995419 seconds)
+09/19/2015 03:10:18 PM Looking for jobs to run
+09/19/2015 03:10:18 PM Next wakeup is due at 2015-09-19 15:15:18.647825 (in 299.997719 seconds)
+09/19/2015 03:10:18 PM Started worker thread
+09/19/2015 03:10:18 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:15:18.647825)" (scheduled at 2015-09-19 15:10:18.647825)
+09/19/2015 03:10:19 PM temperature is 85.2116
+09/19/2015 03:10:19 PM turned on the mini fridge
+09/19/2015 03:10:19 PM length of temps: 1
+09/19/2015 03:10:19 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:15:18.647825)" executed successfully
+09/19/2015 03:10:20 PM Exiting worker thread
+09/19/2015 03:15:18 PM Looking for jobs to run
+09/19/2015 03:15:18 PM Next wakeup is due at 2015-09-19 15:20:18.647825 (in 299.996244 seconds)
+09/19/2015 03:15:18 PM Started worker thread
+09/19/2015 03:15:18 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:20:18.647825)" (scheduled at 2015-09-19 15:15:18.647825)
+09/19/2015 03:15:19 PM temperature is 79.475
+09/19/2015 03:15:19 PM turned off mini fridge
+09/19/2015 03:15:19 PM length of temps: 2
+09/19/2015 03:15:19 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:20:18.647825)" executed successfully
+09/19/2015 03:15:20 PM Exiting worker thread
+09/19/2015 03:20:18 PM Looking for jobs to run
+09/19/2015 03:20:18 PM Next wakeup is due at 2015-09-19 15:25:18.647825 (in 299.996491 seconds)
+09/19/2015 03:20:18 PM Started worker thread
+09/19/2015 03:20:18 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:25:18.647825)" (scheduled at 2015-09-19 15:20:18.647825)
+09/19/2015 03:20:19 PM temperature is 74.075
+09/19/2015 03:20:19 PM turned off mini fridge
+09/19/2015 03:20:19 PM length of temps: 3
+09/19/2015 03:20:19 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:25:18.647825)" executed successfully
+09/19/2015 03:20:20 PM Exiting worker thread
+09/19/2015 03:23:26 PM Shutting down thread pool
+09/19/2015 03:23:26 PM Shutting down thread pool
+09/19/2015 03:23:26 PM Shutting down thread pool
+09/19/2015 03:36:51 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:36:51 PM Scheduler started
+09/19/2015 03:36:51 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:36:51 PM Looking for jobs to run
+09/19/2015 03:36:51 PM No jobs; waiting until a job is added
+09/19/2015 03:36:51 PM Scheduler started
+09/19/2015 03:36:51 PM Added job "send_email (trigger: interval[12:00:00], next run at: 2015-09-20 03:36:51.498585)" to job store "default"
+09/19/2015 03:36:51 PM Looking for jobs to run
+09/19/2015 03:36:51 PM No jobs; waiting until a job is added
+09/19/2015 03:36:51 PM Looking for jobs to run
+09/19/2015 03:36:51 PM Next wakeup is due at 2015-09-20 03:36:51.498585 (in 43199.989957 seconds)
+09/19/2015 03:36:54 PM Shutting down thread pool
+09/19/2015 03:36:54 PM Shutting down thread pool
+09/19/2015 03:37:15 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:37:15 PM Scheduler started
+09/19/2015 03:37:15 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:37:15 PM Looking for jobs to run
+09/19/2015 03:37:15 PM No jobs; waiting until a job is added
+09/19/2015 03:37:15 PM Scheduler started
+09/19/2015 03:37:15 PM Added job "send_email (trigger: interval[12:00:00], next run at: 2015-09-20 03:37:15.272172)" to job store "default"
+09/19/2015 03:37:15 PM Looking for jobs to run
+09/19/2015 03:37:15 PM No jobs; waiting until a job is added
+09/19/2015 03:37:15 PM Looking for jobs to run
+09/19/2015 03:37:15 PM Next wakeup is due at 2015-09-20 03:37:15.272172 (in 43199.992367 seconds)
+09/19/2015 03:37:20 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:37:20 PM Scheduler started
+09/19/2015 03:37:20 PM Looking for jobs to run
+09/19/2015 03:37:20 PM No jobs; waiting until a job is added
+09/19/2015 03:37:20 PM Added job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:42:20.259530)" to job store "default"
+09/19/2015 03:37:20 PM Looking for jobs to run
+09/19/2015 03:37:20 PM Next wakeup is due at 2015-09-19 15:42:20.259530 (in 299.996384 seconds)
+09/19/2015 03:37:20 PM Shutting down thread pool
+09/19/2015 03:37:20 PM Shutting down thread pool
+09/19/2015 03:37:20 PM Shutting down thread pool
+09/19/2015 03:40:55 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:40:55 PM Scheduler started
+09/19/2015 03:40:55 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:40:55 PM Looking for jobs to run
+09/19/2015 03:40:55 PM No jobs; waiting until a job is added
+09/19/2015 03:40:55 PM Scheduler started
+09/19/2015 03:40:55 PM Added job "send_email (trigger: interval[12:00:00], next run at: 2015-09-20 03:40:55.123565)" to job store "default"
+09/19/2015 03:40:55 PM Looking for jobs to run
+09/19/2015 03:40:55 PM Looking for jobs to run
+09/19/2015 03:40:55 PM No jobs; waiting until a job is added
+09/19/2015 03:40:55 PM Next wakeup is due at 2015-09-20 03:40:55.123565 (in 43199.992878 seconds)
+09/19/2015 03:40:59 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:40:59 PM Scheduler started
+09/19/2015 03:40:59 PM Looking for jobs to run
+09/19/2015 03:40:59 PM No jobs; waiting until a job is added
+09/19/2015 03:40:59 PM Added job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:45:59.674714)" to job store "default"
+09/19/2015 03:40:59 PM Looking for jobs to run
+09/19/2015 03:40:59 PM Next wakeup is due at 2015-09-19 15:45:59.674714 (in 299.996249 seconds)
+09/19/2015 03:40:59 PM Shutting down thread pool
+09/19/2015 03:40:59 PM Shutting down thread pool
+09/19/2015 03:40:59 PM Shutting down thread pool
+09/19/2015 03:45:08 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:45:08 PM Scheduler started
+09/19/2015 03:45:08 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:45:08 PM Looking for jobs to run
+09/19/2015 03:45:08 PM No jobs; waiting until a job is added
+09/19/2015 03:45:08 PM Scheduler started
+09/19/2015 03:45:08 PM Added job "send_email (trigger: interval[12:00:00], next run at: 2015-09-20 03:45:08.517601)" to job store "default"
+09/19/2015 03:45:08 PM Looking for jobs to run
+09/19/2015 03:45:08 PM No jobs; waiting until a job is added
+09/19/2015 03:45:08 PM Looking for jobs to run
+09/19/2015 03:45:08 PM Next wakeup is due at 2015-09-20 03:45:08.517601 (in 43199.990569 seconds)
+09/19/2015 03:45:12 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:45:12 PM Scheduler started
+09/19/2015 03:45:12 PM Looking for jobs to run
+09/19/2015 03:45:12 PM No jobs; waiting until a job is added
+09/19/2015 03:45:12 PM Added job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:50:12.731902)" to job store "default"
+09/19/2015 03:45:12 PM Looking for jobs to run
+09/19/2015 03:45:12 PM Next wakeup is due at 2015-09-19 15:50:12.731902 (in 299.996402 seconds)
+09/19/2015 03:45:36 PM Shutting down thread pool
+09/19/2015 03:45:36 PM Shutting down thread pool
+09/19/2015 03:45:36 PM Shutting down thread pool
+09/19/2015 03:46:20 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:46:20 PM Scheduler started
+09/19/2015 03:46:20 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:46:20 PM Looking for jobs to run
+09/19/2015 03:46:20 PM No jobs; waiting until a job is added
+09/19/2015 03:46:20 PM Scheduler started
+09/19/2015 03:46:20 PM Added job "send_email (trigger: interval[12:00:00], next run at: 2015-09-20 03:46:20.887439)" to job store "default"
+09/19/2015 03:46:20 PM Looking for jobs to run
+09/19/2015 03:46:20 PM Looking for jobs to run
+09/19/2015 03:46:20 PM Next wakeup is due at 2015-09-20 03:46:20.887439 (in 43199.993989 seconds)
+09/19/2015 03:46:20 PM No jobs; waiting until a job is added
+09/19/2015 03:46:25 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:46:25 PM Scheduler started
+09/19/2015 03:46:25 PM Added job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:51:25.278154)" to job store "default"
+09/19/2015 03:46:25 PM Looking for jobs to run
+09/19/2015 03:46:25 PM Next wakeup is due at 2015-09-19 15:51:25.278154 (in 299.992541 seconds)
+09/19/2015 03:46:25 PM Looking for jobs to run
+09/19/2015 03:46:25 PM Next wakeup is due at 2015-09-19 15:51:25.278154 (in 299.990718 seconds)
+09/19/2015 03:47:11 PM Shutting down thread pool
+09/19/2015 03:47:11 PM Shutting down thread pool
+09/19/2015 03:47:11 PM Shutting down thread pool
+09/19/2015 03:47:21 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:47:21 PM Scheduler started
+09/19/2015 03:47:21 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:47:21 PM Looking for jobs to run
+09/19/2015 03:47:21 PM No jobs; waiting until a job is added
+09/19/2015 03:47:21 PM Scheduler started
+09/19/2015 03:47:21 PM Added job "send_email (trigger: interval[12:00:00], next run at: 2015-09-20 03:47:21.263596)" to job store "default"
+09/19/2015 03:47:21 PM Looking for jobs to run
+09/19/2015 03:47:21 PM No jobs; waiting until a job is added
+09/19/2015 03:47:21 PM Looking for jobs to run
+09/19/2015 03:47:21 PM Next wakeup is due at 2015-09-20 03:47:21.263596 (in 43199.993237 seconds)
+09/19/2015 03:47:31 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:47:31 PM Scheduler started
+09/19/2015 03:47:31 PM Looking for jobs to run
+09/19/2015 03:47:31 PM No jobs; waiting until a job is added
+09/19/2015 03:47:31 PM Added job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:52:31.883888)" to job store "default"
+09/19/2015 03:47:31 PM Looking for jobs to run
+09/19/2015 03:47:31 PM Next wakeup is due at 2015-09-19 15:52:31.883888 (in 299.996491 seconds)
+09/19/2015 03:52:31 PM Looking for jobs to run
+09/19/2015 03:52:31 PM Started worker thread
+09/19/2015 03:52:31 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:52:31.883888)" (scheduled at 2015-09-19 15:52:31.883888)
+09/19/2015 03:52:31 PM Next wakeup is due at 2015-09-19 15:57:31.883888 (in 299.997943 seconds)
+09/19/2015 03:52:32 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:57:31.883888)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 122, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 03:52:33 PM Exiting worker thread
+09/19/2015 03:57:31 PM Looking for jobs to run
+09/19/2015 03:57:31 PM Started worker thread
+09/19/2015 03:57:31 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 15:57:31.883888)" (scheduled at 2015-09-19 15:57:31.883888)
+09/19/2015 03:57:31 PM Next wakeup is due at 2015-09-19 16:02:31.883888 (in 299.994131 seconds)
+09/19/2015 03:57:32 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:02:31.883888)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 122, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 03:57:33 PM Exiting worker thread
+09/19/2015 03:58:40 PM Shutting down thread pool
+09/19/2015 03:58:40 PM Shutting down thread pool
+09/19/2015 03:58:40 PM Shutting down thread pool
+09/19/2015 03:58:52 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:58:52 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:58:52 PM Scheduler started
+09/19/2015 03:58:52 PM Looking for jobs to run
+09/19/2015 03:58:52 PM No jobs; waiting until a job is added
+09/19/2015 03:58:52 PM Scheduler started
+09/19/2015 03:58:52 PM Added job "send_email (trigger: interval[12:00:00], next run at: 2015-09-20 03:58:52.376226)" to job store "default"
+09/19/2015 03:58:52 PM Looking for jobs to run
+09/19/2015 03:58:52 PM No jobs; waiting until a job is added
+09/19/2015 03:58:52 PM Looking for jobs to run
+09/19/2015 03:58:52 PM Next wakeup is due at 2015-09-20 03:58:52.376226 (in 43199.993007 seconds)
+09/19/2015 03:58:57 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 03:58:57 PM Scheduler started
+09/19/2015 03:58:57 PM Looking for jobs to run
+09/19/2015 03:58:57 PM No jobs; waiting until a job is added
+09/19/2015 03:58:57 PM Added job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:03:57.466519)" to job store "default"
+09/19/2015 03:58:57 PM Looking for jobs to run
+09/19/2015 03:58:57 PM Next wakeup is due at 2015-09-19 16:03:57.466519 (in 299.996713 seconds)
+09/19/2015 04:03:57 PM Looking for jobs to run
+09/19/2015 04:03:57 PM Started worker thread
+09/19/2015 04:03:57 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:03:57.466519)" (scheduled at 2015-09-19 16:03:57.466519)
+09/19/2015 04:03:57 PM Next wakeup is due at 2015-09-19 16:08:57.466519 (in 299.997680 seconds)
+09/19/2015 04:03:58 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:08:57.466519)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 04:03:59 PM Exiting worker thread
+09/19/2015 04:05:37 PM Shutting down thread pool
+09/19/2015 04:05:37 PM Shutting down thread pool
+09/19/2015 04:05:37 PM Shutting down thread pool
+09/19/2015 04:05:59 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 04:05:59 PM Scheduler started
+09/19/2015 04:05:59 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 04:05:59 PM Looking for jobs to run
+09/19/2015 04:05:59 PM No jobs; waiting until a job is added
+09/19/2015 04:05:59 PM Added job "send_email (trigger: interval[1:00:00], next run at: 2015-09-19 17:05:59.480467)" to job store "default"
+09/19/2015 04:05:59 PM Scheduler started
+09/19/2015 04:05:59 PM Looking for jobs to run
+09/19/2015 04:05:59 PM No jobs; waiting until a job is added
+09/19/2015 04:05:59 PM Looking for jobs to run
+09/19/2015 04:05:59 PM Next wakeup is due at 2015-09-19 17:05:59.480467 (in 3599.993143 seconds)
+09/19/2015 04:06:05 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 04:06:05 PM Scheduler started
+09/19/2015 04:06:05 PM Added job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:11:05.069378)" to job store "default"
+09/19/2015 04:06:05 PM Looking for jobs to run
+09/19/2015 04:06:05 PM Next wakeup is due at 2015-09-19 16:11:05.069378 (in 299.997472 seconds)
+09/19/2015 04:06:05 PM Looking for jobs to run
+09/19/2015 04:06:05 PM Next wakeup is due at 2015-09-19 16:11:05.069378 (in 299.995730 seconds)
+09/19/2015 04:11:05 PM Looking for jobs to run
+09/19/2015 04:11:05 PM Started worker thread
+09/19/2015 04:11:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:11:05.069378)" (scheduled at 2015-09-19 16:11:05.069378)
+09/19/2015 04:11:05 PM Next wakeup is due at 2015-09-19 16:16:05.069378 (in 299.997840 seconds)
+09/19/2015 04:11:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:16:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 04:11:06 PM Exiting worker thread
+09/19/2015 04:16:05 PM Looking for jobs to run
+09/19/2015 04:16:05 PM Started worker thread
+09/19/2015 04:16:05 PM Next wakeup is due at 2015-09-19 16:21:05.069378 (in 299.993737 seconds)
+09/19/2015 04:16:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:21:05.069378)" (scheduled at 2015-09-19 16:16:05.069378)
+09/19/2015 04:16:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:21:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 04:16:06 PM Exiting worker thread
+09/19/2015 04:21:05 PM Looking for jobs to run
+09/19/2015 04:21:05 PM Started worker thread
+09/19/2015 04:21:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:21:05.069378)" (scheduled at 2015-09-19 16:21:05.069378)
+09/19/2015 04:21:05 PM Next wakeup is due at 2015-09-19 16:26:05.069378 (in 299.993325 seconds)
+09/19/2015 04:21:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:26:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 04:21:06 PM Exiting worker thread
+09/19/2015 04:26:05 PM Looking for jobs to run
+09/19/2015 04:26:05 PM Next wakeup is due at 2015-09-19 16:31:05.069378 (in 299.994335 seconds)
+09/19/2015 04:26:05 PM Started worker thread
+09/19/2015 04:26:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:31:05.069378)" (scheduled at 2015-09-19 16:26:05.069378)
+09/19/2015 04:26:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:31:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 04:26:06 PM Exiting worker thread
+09/19/2015 04:31:05 PM Looking for jobs to run
+09/19/2015 04:31:05 PM Next wakeup is due at 2015-09-19 16:36:05.069378 (in 299.996472 seconds)
+09/19/2015 04:31:05 PM Started worker thread
+09/19/2015 04:31:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:36:05.069378)" (scheduled at 2015-09-19 16:31:05.069378)
+09/19/2015 04:31:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:36:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 04:31:06 PM Exiting worker thread
+09/19/2015 04:36:05 PM Looking for jobs to run
+09/19/2015 04:36:05 PM Next wakeup is due at 2015-09-19 16:41:05.069378 (in 299.996444 seconds)
+09/19/2015 04:36:05 PM Started worker thread
+09/19/2015 04:36:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:41:05.069378)" (scheduled at 2015-09-19 16:36:05.069378)
+09/19/2015 04:36:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:41:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 04:36:06 PM Exiting worker thread
+09/19/2015 04:41:05 PM Looking for jobs to run
+09/19/2015 04:41:05 PM Next wakeup is due at 2015-09-19 16:46:05.069378 (in 299.996503 seconds)
+09/19/2015 04:41:05 PM Started worker thread
+09/19/2015 04:41:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:46:05.069378)" (scheduled at 2015-09-19 16:41:05.069378)
+09/19/2015 04:41:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:46:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 04:41:06 PM Exiting worker thread
+09/19/2015 04:46:05 PM Looking for jobs to run
+09/19/2015 04:46:05 PM Started worker thread
+09/19/2015 04:46:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:46:05.069378)" (scheduled at 2015-09-19 16:46:05.069378)
+09/19/2015 04:46:05 PM Next wakeup is due at 2015-09-19 16:51:05.069378 (in 299.996594 seconds)
+09/19/2015 04:46:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:51:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 04:46:06 PM Exiting worker thread
+09/19/2015 04:51:05 PM Looking for jobs to run
+09/19/2015 04:51:05 PM Started worker thread
+09/19/2015 04:51:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:51:05.069378)" (scheduled at 2015-09-19 16:51:05.069378)
+09/19/2015 04:51:05 PM Next wakeup is due at 2015-09-19 16:56:05.069378 (in 299.993948 seconds)
+09/19/2015 04:51:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:56:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 04:51:06 PM Exiting worker thread
+09/19/2015 04:56:05 PM Looking for jobs to run
+09/19/2015 04:56:05 PM Started worker thread
+09/19/2015 04:56:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 16:56:05.069378)" (scheduled at 2015-09-19 16:56:05.069378)
+09/19/2015 04:56:05 PM Next wakeup is due at 2015-09-19 17:01:05.069378 (in 299.994302 seconds)
+09/19/2015 04:56:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:01:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 04:56:06 PM Exiting worker thread
+09/19/2015 05:01:05 PM Looking for jobs to run
+09/19/2015 05:01:05 PM Started worker thread
+09/19/2015 05:01:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:01:05.069378)" (scheduled at 2015-09-19 17:01:05.069378)
+09/19/2015 05:01:05 PM Next wakeup is due at 2015-09-19 17:06:05.069378 (in 299.994050 seconds)
+09/19/2015 05:01:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:06:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 05:01:06 PM Exiting worker thread
+09/19/2015 05:05:59 PM Looking for jobs to run
+09/19/2015 05:05:59 PM Started worker thread
+09/19/2015 05:05:59 PM Running job "send_email (trigger: interval[1:00:00], next run at: 2015-09-19 17:05:59.480467)" (scheduled at 2015-09-19 17:05:59.480467)
+09/19/2015 05:05:59 PM Next wakeup is due at 2015-09-19 18:05:59.480467 (in 3599.997847 seconds)
+09/19/2015 05:06:05 PM Looking for jobs to run
+09/19/2015 05:06:05 PM Next wakeup is due at 2015-09-19 17:11:05.069378 (in 299.994155 seconds)
+09/19/2015 05:06:05 PM Started worker thread
+09/19/2015 05:06:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:11:05.069378)" (scheduled at 2015-09-19 17:06:05.069378)
+09/19/2015 05:06:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:11:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 05:06:06 PM Job "send_email (trigger: interval[1:00:00], next run at: 2015-09-19 18:05:59.480467)" executed successfully
+09/19/2015 05:06:06 PM Exiting worker thread
+09/19/2015 05:06:07 PM Exiting worker thread
+09/19/2015 05:11:05 PM Looking for jobs to run
+09/19/2015 05:11:05 PM Next wakeup is due at 2015-09-19 17:16:05.069378 (in 299.996382 seconds)
+09/19/2015 05:11:05 PM Started worker thread
+09/19/2015 05:11:05 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:16:05.069378)" (scheduled at 2015-09-19 17:11:05.069378)
+09/19/2015 05:11:05 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:16:05.069378)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 05:11:06 PM Exiting worker thread
+09/19/2015 05:12:16 PM Shutting down thread pool
+09/19/2015 05:12:16 PM Shutting down thread pool
+09/19/2015 05:12:16 PM Shutting down thread pool
+09/19/2015 05:12:31 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 05:12:31 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 05:12:31 PM Scheduler started
+09/19/2015 05:12:31 PM Looking for jobs to run
+09/19/2015 05:12:31 PM No jobs; waiting until a job is added
+09/19/2015 05:12:31 PM Scheduler started
+09/19/2015 05:12:31 PM Added job "send_email (trigger: interval[1:00:00], next run at: 2015-09-19 18:12:31.342592)" to job store "default"
+09/19/2015 05:12:31 PM Looking for jobs to run
+09/19/2015 05:12:31 PM No jobs; waiting until a job is added
+09/19/2015 05:12:31 PM Looking for jobs to run
+09/19/2015 05:12:31 PM Next wakeup is due at 2015-09-19 18:12:31.342592 (in 3599.992950 seconds)
+09/19/2015 05:12:52 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 05:12:52 PM Scheduler started
+09/19/2015 05:12:52 PM Looking for jobs to run
+09/19/2015 05:12:52 PM No jobs; waiting until a job is added
+09/19/2015 05:12:52 PM Added job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:17:52.217999)" to job store "default"
+09/19/2015 05:12:52 PM Looking for jobs to run
+09/19/2015 05:12:52 PM Next wakeup is due at 2015-09-19 17:17:52.217999 (in 299.997277 seconds)
+09/19/2015 05:14:42 PM Shutting down thread pool
+09/19/2015 05:14:42 PM Shutting down thread pool
+09/19/2015 05:14:42 PM Shutting down thread pool
+09/19/2015 05:15:35 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 05:15:35 PM Scheduler started
+09/19/2015 05:15:35 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 05:15:35 PM Looking for jobs to run
+09/19/2015 05:15:35 PM No jobs; waiting until a job is added
+09/19/2015 05:15:35 PM Added job "send_email (trigger: interval[1:00:00], next run at: 2015-09-19 18:15:35.147146)" to job store "default"
+09/19/2015 05:15:35 PM Scheduler started
+09/19/2015 05:15:35 PM Looking for jobs to run
+09/19/2015 05:15:35 PM No jobs; waiting until a job is added
+09/19/2015 05:15:35 PM Looking for jobs to run
+09/19/2015 05:15:35 PM Next wakeup is due at 2015-09-19 18:15:35.147146 (in 3599.990250 seconds)
+09/19/2015 05:15:38 PM Shutting down thread pool
+09/19/2015 05:15:38 PM Shutting down thread pool
+09/19/2015 05:16:20 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 05:16:20 PM Scheduler started
+09/19/2015 05:16:20 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 05:16:20 PM Looking for jobs to run
+09/19/2015 05:16:20 PM No jobs; waiting until a job is added
+09/19/2015 05:16:20 PM Added job "send_email (trigger: interval[1:00:00], next run at: 2015-09-19 18:16:20.162150)" to job store "default"
+09/19/2015 05:16:20 PM Scheduler started
+09/19/2015 05:16:20 PM Looking for jobs to run
+09/19/2015 05:16:20 PM No jobs; waiting until a job is added
+09/19/2015 05:16:20 PM Looking for jobs to run
+09/19/2015 05:16:20 PM Next wakeup is due at 2015-09-19 18:16:20.162150 (in 3599.992463 seconds)
+09/19/2015 05:16:28 PM Shutting down thread pool
+09/19/2015 05:16:28 PM Shutting down thread pool
+09/19/2015 05:21:17 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 05:21:17 PM Scheduler started
+09/19/2015 05:21:17 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 05:21:17 PM Looking for jobs to run
+09/19/2015 05:21:17 PM No jobs; waiting until a job is added
+09/19/2015 05:21:17 PM Added job "send_email (trigger: interval[1:00:00], next run at: 2015-09-19 18:21:17.731999)" to job store "default"
+09/19/2015 05:21:17 PM Scheduler started
+09/19/2015 05:21:17 PM Looking for jobs to run
+09/19/2015 05:21:17 PM Looking for jobs to run
+09/19/2015 05:21:17 PM No jobs; waiting until a job is added
+09/19/2015 05:21:17 PM Next wakeup is due at 2015-09-19 18:21:17.731999 (in 3599.993506 seconds)
+09/19/2015 05:21:55 PM Started thread pool with 0 core threads and 20 maximum threads
+09/19/2015 05:21:55 PM Scheduler started
+09/19/2015 05:21:55 PM Added job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:26:55.042112)" to job store "default"
+09/19/2015 05:21:55 PM Looking for jobs to run
+09/19/2015 05:21:55 PM Next wakeup is due at 2015-09-19 17:26:55.042112 (in 299.997614 seconds)
+09/19/2015 05:21:55 PM Looking for jobs to run
+09/19/2015 05:21:55 PM Next wakeup is due at 2015-09-19 17:26:55.042112 (in 299.995846 seconds)
+09/19/2015 05:26:55 PM Looking for jobs to run
+09/19/2015 05:26:55 PM Started worker thread
+09/19/2015 05:26:55 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:26:55.042112)" (scheduled at 2015-09-19 17:26:55.042112)
+09/19/2015 05:26:55 PM Next wakeup is due at 2015-09-19 17:31:55.042112 (in 299.997855 seconds)
+09/19/2015 05:26:55 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:31:55.042112)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 05:26:56 PM Exiting worker thread
+09/19/2015 05:31:55 PM Looking for jobs to run
+09/19/2015 05:31:55 PM Started worker thread
+09/19/2015 05:31:55 PM Next wakeup is due at 2015-09-19 17:36:55.042112 (in 299.993569 seconds)
+09/19/2015 05:31:55 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:36:55.042112)" (scheduled at 2015-09-19 17:31:55.042112)
+09/19/2015 05:31:55 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:36:55.042112)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 05:31:56 PM Exiting worker thread
+09/19/2015 05:36:55 PM Looking for jobs to run
+09/19/2015 05:36:55 PM Started worker thread
+09/19/2015 05:36:55 PM Next wakeup is due at 2015-09-19 17:41:55.042112 (in 299.993541 seconds)
+09/19/2015 05:36:55 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:41:55.042112)" (scheduled at 2015-09-19 17:36:55.042112)
+09/19/2015 05:36:55 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:41:55.042112)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 05:36:56 PM Exiting worker thread
+09/19/2015 05:41:55 PM Looking for jobs to run
+09/19/2015 05:41:55 PM Started worker thread
+09/19/2015 05:41:55 PM Next wakeup is due at 2015-09-19 17:46:55.042112 (in 299.994556 seconds)
+09/19/2015 05:41:55 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:46:55.042112)" (scheduled at 2015-09-19 17:41:55.042112)
+09/19/2015 05:41:55 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:46:55.042112)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 05:41:56 PM Exiting worker thread
+09/19/2015 05:46:55 PM Looking for jobs to run
+09/19/2015 05:46:55 PM Next wakeup is due at 2015-09-19 17:51:55.042112 (in 299.995217 seconds)
+09/19/2015 05:46:55 PM Started worker thread
+09/19/2015 05:46:55 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:51:55.042112)" (scheduled at 2015-09-19 17:46:55.042112)
+09/19/2015 05:46:55 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-09-19 17:51:55.042112)" raised an exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 512, in _run_job
+    retval = job.func(*job.args, **job.kwargs)
+  File "new_brew.py", line 123, in my_job
+    if current_temp > (temp + 1):
+TypeError: cannot concatenate 'str' and 'int' objects
+09/19/2015 05:46:56 PM Exiting worker thread
