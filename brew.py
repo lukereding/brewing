@@ -22,9 +22,16 @@ import sys   # for arguments
 
 '''
 basic idea:
-recordAndRegulateTemp is the main function. Takes arguments number_of_hours, a message to print to stdout, and a temperature
-it runs every five minutes (although that can be changed)
-when a given temperature is done, you can call the function again with a different temperature
+recordAndRegulateTemp is the main function. The first argument you pass it should be the name of your brew, which should be unique. Then enter the temperature you want the fridge to hold, followed by the number of hours that the temperature should be held for. Repeat. See example below. 
+The temperature is checked every five minutes (although that can be changed).
+You get emails with a graph every 12 hours, and you get an email whenever the temperature is set to change.
+
+example line to run brew pi
+this will save all stdout to a .log file and allow you to run everything in the background
+ssh-ing out of your pi will not affect the running of the script
+
+sudo nohup python -u brew.py dubbelTrouble 80 24 78 12 75 12 72 12 70 60 75 24 80 24 >> brewPySTDOUTDubbelTrouble.log 2>&1 &
+
 '''
 # to do: arguments for name to brew log, temps, time
 ## to do:: keep a list of tuples with (datem temp) for plotting
