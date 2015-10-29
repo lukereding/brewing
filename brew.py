@@ -59,14 +59,14 @@ def plot_temps(temps,annotation):
 	
 	# plotting time
 	# plot the raw data first
-	plt.plot(range(1,temps.shape[0]+1), temps, color='#3E4A89', alpha=0.6, linewidth = 0.60,label="raw temperature data")
+	plt.plot(range(1,(temps.shape[0]+1)/20), temps, color='#3E4A89', alpha=0.6, linewidth = 0.60,label="raw temperature data")
 	
 	# then plot a thicker line for the smoothed average
 	plt.plot(range(window_size/2, (temps.shape[0] - window_size/2)), averages, color='#3E4A89', linewidth = 2.0, label="sliding window average. window size of "+str(window_size))
 	
 	# axis labels
-	plt.ylabel("temperature")
-	plt.xlabel("time")
+	plt.ylabel("temperature (f)")
+	plt.xlabel("time (hours)")
 	
 	# place an annotation in the bottom left for IDing purposes
 	plt.text(5,min(temps)-0.5,annotation)
