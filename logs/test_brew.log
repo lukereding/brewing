@@ -550,3 +550,133 @@ Traceback (most recent call last):
     if current_temp > (temp + 1):
 TypeError: cannot concatenate 'str' and 'int' objects
 09/19/2015 05:46:56 PM Exiting worker thread
+11/02/2015 06:00:52 PM Started thread pool with 0 core threads and 20 maximum threads
+11/02/2015 06:00:52 PM Scheduler started
+11/02/2015 06:00:52 PM Started thread pool with 0 core threads and 20 maximum threads
+11/02/2015 06:00:52 PM Looking for jobs to run
+11/02/2015 06:00:52 PM No jobs; waiting until a job is added
+11/02/2015 06:00:52 PM Scheduler started
+11/02/2015 06:00:52 PM Added job "send_email (trigger: interval[12:00:00], next run at: 2015-11-03 06:00:52.207359)" to job store "default"
+11/02/2015 06:00:52 PM Looking for jobs to run
+11/02/2015 06:00:52 PM No jobs; waiting until a job is added
+11/02/2015 06:00:52 PM Looking for jobs to run
+11/02/2015 06:00:52 PM Next wakeup is due at 2015-11-03 06:00:52.207359 (in 43199.992897 seconds)
+11/02/2015 06:00:56 PM Started thread pool with 0 core threads and 20 maximum threads
+11/02/2015 06:00:56 PM Scheduler started
+11/02/2015 06:00:56 PM Added job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:05:56.697869)" to job store "default"
+11/02/2015 06:00:56 PM Looking for jobs to run
+11/02/2015 06:00:56 PM Next wakeup is due at 2015-11-02 18:05:56.697869 (in 299.997547 seconds)
+11/02/2015 06:00:56 PM Looking for jobs to run
+11/02/2015 06:00:56 PM Next wakeup is due at 2015-11-02 18:05:56.697869 (in 299.996128 seconds)
+11/02/2015 06:05:56 PM Looking for jobs to run
+11/02/2015 06:05:56 PM Started worker thread
+11/02/2015 06:05:56 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:05:56.697869)" (scheduled at 2015-11-02 18:05:56.697869)
+11/02/2015 06:05:56 PM Next wakeup is due at 2015-11-02 18:10:56.697869 (in 299.998036 seconds)
+11/02/2015 06:05:57 PM temperature is 43.5866
+11/02/2015 06:05:57 PM turned off mini fridge
+11/02/2015 06:05:57 PM length of temps: 1
+11/02/2015 06:05:57 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:10:56.697869)" executed successfully
+11/02/2015 06:05:58 PM Exiting worker thread
+11/02/2015 06:10:56 PM Looking for jobs to run
+11/02/2015 06:10:56 PM Started worker thread
+11/02/2015 06:10:56 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:10:56.697869)" (scheduled at 2015-11-02 18:10:56.697869)
+11/02/2015 06:10:56 PM Next wakeup is due at 2015-11-02 18:15:56.697869 (in 299.993674 seconds)
+11/02/2015 06:10:57 PM temperature is 44.15
+11/02/2015 06:10:57 PM turned off mini fridge
+11/02/2015 06:10:57 PM length of temps: 2
+11/02/2015 06:10:57 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:15:56.697869)" executed successfully
+11/02/2015 06:10:58 PM Exiting worker thread
+11/02/2015 06:15:56 PM Looking for jobs to run
+11/02/2015 06:15:56 PM Started worker thread
+11/02/2015 06:15:56 PM Next wakeup is due at 2015-11-02 18:20:56.697869 (in 299.993770 seconds)
+11/02/2015 06:15:56 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:20:56.697869)" (scheduled at 2015-11-02 18:15:56.697869)
+11/02/2015 06:15:57 PM temperature is 44.9366
+11/02/2015 06:15:57 PM turned off mini fridge
+11/02/2015 06:15:57 PM length of temps: 3
+11/02/2015 06:15:57 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:20:56.697869)" executed successfully
+11/02/2015 06:15:58 PM Exiting worker thread
+11/02/2015 06:20:56 PM Looking for jobs to run
+11/02/2015 06:20:56 PM Started worker thread
+11/02/2015 06:20:56 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:20:56.697869)" (scheduled at 2015-11-02 18:20:56.697869)
+11/02/2015 06:20:56 PM Next wakeup is due at 2015-11-02 18:25:56.697869 (in 299.995028 seconds)
+11/02/2015 06:20:57 PM temperature is 45.725
+11/02/2015 06:20:57 PM turned off mini fridge
+11/02/2015 06:20:57 PM length of temps: 4
+11/02/2015 06:20:57 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:25:56.697869)" executed successfully
+11/02/2015 06:20:58 PM Exiting worker thread
+11/02/2015 06:25:56 PM Looking for jobs to run
+11/02/2015 06:25:56 PM Next wakeup is due at 2015-11-02 18:30:56.697869 (in 299.994545 seconds)
+11/02/2015 06:25:56 PM Started worker thread
+11/02/2015 06:25:56 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:30:56.697869)" (scheduled at 2015-11-02 18:25:56.697869)
+11/02/2015 06:25:57 PM temperature is 46.5116
+11/02/2015 06:25:57 PM turned off mini fridge
+11/02/2015 06:25:57 PM length of temps: 5
+11/02/2015 06:25:57 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:30:56.697869)" executed successfully
+11/02/2015 06:25:58 PM Exiting worker thread
+11/02/2015 06:30:56 PM Looking for jobs to run
+11/02/2015 06:30:56 PM Started worker thread
+11/02/2015 06:30:56 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:30:56.697869)" (scheduled at 2015-11-02 18:30:56.697869)
+11/02/2015 06:30:56 PM Next wakeup is due at 2015-11-02 18:35:56.697869 (in 299.996452 seconds)
+11/02/2015 06:30:57 PM temperature is 47.1866
+11/02/2015 06:30:57 PM turned off mini fridge
+11/02/2015 06:30:57 PM length of temps: 6
+11/02/2015 06:30:57 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:35:56.697869)" executed successfully
+11/02/2015 06:30:58 PM Exiting worker thread
+11/02/2015 06:35:56 PM Looking for jobs to run
+11/02/2015 06:35:56 PM Next wakeup is due at 2015-11-02 18:40:56.697869 (in 299.993936 seconds)
+11/02/2015 06:35:56 PM Started worker thread
+11/02/2015 06:35:56 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:40:56.697869)" (scheduled at 2015-11-02 18:35:56.697869)
+11/02/2015 06:35:57 PM temperature is 47.75
+11/02/2015 06:35:57 PM turned off mini fridge
+11/02/2015 06:35:57 PM length of temps: 7
+11/02/2015 06:35:57 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:40:56.697869)" executed successfully
+11/02/2015 06:35:58 PM Exiting worker thread
+11/02/2015 06:40:56 PM Looking for jobs to run
+11/02/2015 06:40:56 PM Started worker thread
+11/02/2015 06:40:56 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:40:56.697869)" (scheduled at 2015-11-02 18:40:56.697869)
+11/02/2015 06:40:56 PM Next wakeup is due at 2015-11-02 18:45:56.697869 (in 299.996394 seconds)
+11/02/2015 06:40:57 PM temperature is 48.0866
+11/02/2015 06:40:57 PM turned off mini fridge
+11/02/2015 06:40:57 PM length of temps: 8
+11/02/2015 06:40:57 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:45:56.697869)" executed successfully
+11/02/2015 06:40:58 PM Exiting worker thread
+11/02/2015 06:45:56 PM Looking for jobs to run
+11/02/2015 06:45:56 PM Started worker thread
+11/02/2015 06:45:56 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:45:56.697869)" (scheduled at 2015-11-02 18:45:56.697869)
+11/02/2015 06:45:56 PM Next wakeup is due at 2015-11-02 18:50:56.697869 (in 299.993885 seconds)
+11/02/2015 06:45:57 PM temperature is 48.2
+11/02/2015 06:45:57 PM turned off mini fridge
+11/02/2015 06:45:57 PM length of temps: 9
+11/02/2015 06:45:57 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:50:56.697869)" executed successfully
+11/02/2015 06:45:58 PM Exiting worker thread
+11/02/2015 06:50:56 PM Looking for jobs to run
+11/02/2015 06:50:56 PM Started worker thread
+11/02/2015 06:50:56 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:50:56.697869)" (scheduled at 2015-11-02 18:50:56.697869)
+11/02/2015 06:50:56 PM Next wakeup is due at 2015-11-02 18:55:56.697869 (in 299.993640 seconds)
+11/02/2015 06:50:57 PM temperature is 48.2
+11/02/2015 06:50:57 PM turned off mini fridge
+11/02/2015 06:50:57 PM length of temps: 10
+11/02/2015 06:50:57 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 18:55:56.697869)" executed successfully
+11/02/2015 06:50:58 PM Exiting worker thread
+11/02/2015 06:55:56 PM Looking for jobs to run
+11/02/2015 06:55:56 PM Started worker thread
+11/02/2015 06:55:56 PM Next wakeup is due at 2015-11-02 19:00:56.697869 (in 299.993852 seconds)
+11/02/2015 06:55:56 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 19:00:56.697869)" (scheduled at 2015-11-02 18:55:56.697869)
+11/02/2015 06:55:57 PM temperature is 48.2
+11/02/2015 06:55:57 PM turned off mini fridge
+11/02/2015 06:55:57 PM length of temps: 11
+11/02/2015 06:55:57 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 19:00:56.697869)" executed successfully
+11/02/2015 06:55:58 PM Exiting worker thread
+11/02/2015 07:00:56 PM Looking for jobs to run
+11/02/2015 07:00:56 PM Started worker thread
+11/02/2015 07:00:56 PM Running job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 19:00:56.697869)" (scheduled at 2015-11-02 19:00:56.697869)
+11/02/2015 07:00:56 PM Next wakeup is due at 2015-11-02 19:05:56.697869 (in 299.995175 seconds)
+11/02/2015 07:00:57 PM temperature is 48.2
+11/02/2015 07:00:57 PM turned off mini fridge
+11/02/2015 07:00:57 PM length of temps: 12
+11/02/2015 07:00:57 PM Job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 19:05:56.697869)" executed successfully
+11/02/2015 07:00:58 PM Exiting worker thread
+11/02/2015 07:00:59 PM Removed job "my_job (trigger: interval[0:05:00], next run at: 2015-11-02 19:05:56.697869)"
+11/02/2015 07:01:02 PM Shutting down thread pool
+11/02/2015 07:01:02 PM Shutting down thread pool
+11/02/2015 07:01:02 PM Shutting down thread pool

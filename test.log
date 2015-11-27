@@ -1,0 +1,104 @@
+nohup: ignoring input
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module email was already imported from /usr/lib/python2.7/email/__init__.pyc, but /usr/local/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module logging was already imported from /usr/lib/python2.7/logging/__init__.pyc, but /usr/local/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module pytz was already imported from /usr/local/lib/python2.7/dist-packages/pytz/__init__.pyc, but /usr/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+brew.py:222: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  io.setup(power_pin,io.OUT)
+list of temps
+[80]
+list of times
+[1]
+time left: 3600.0 seconds
+time left: 3540.0 seconds
+time left: 3480.0 seconds
+time left: 3420.0 seconds
+time left: 3360.0 seconds
+time left: 3300.0 seconds
+43.5866
+turning off the fridge
+time left: 3240.0 seconds
+time left: 3180.0 seconds
+time left: 3120.0 seconds
+time left: 3060.0 seconds
+time left: 3000.0 seconds
+44.15
+turning off the fridge
+time left: 2939.0 seconds
+time left: 2879.0 seconds
+time left: 2819.0 seconds
+time left: 2759.0 seconds
+time left: 2699.0 seconds
+44.9366
+turning off the fridge
+time left: 2639.0 seconds
+time left: 2579.0 seconds
+time left: 2519.0 seconds
+time left: 2459.0 seconds
+45.725
+turning off the fridge
+time left: 2399.0 seconds
+time left: 2339.0 seconds
+time left: 2279.0 seconds
+time left: 2219.0 seconds
+time left: 2159.0 seconds
+46.5116
+turning off the fridge
+time left: 2099.0 seconds
+time left: 2039.0 seconds
+time left: 1979.0 seconds
+time left: 1919.0 seconds
+time left: 1859.0 seconds
+47.1866
+turning off the fridge
+time left: 1799.0 seconds
+time left: 1739.0 seconds
+time left: 1679.0 seconds
+time left: 1619.0 seconds
+time left: 1559.0 seconds
+47.75
+turning off the fridge
+time left: 1499.0 seconds
+time left: 1439.0 seconds
+time left: 1378.0 seconds
+time left: 1318.0 seconds
+time left: 1258.0 seconds
+48.0866
+turning off the fridge
+time left: 1198.0 seconds
+time left: 1138.0 seconds
+time left: 1078.0 seconds
+time left: 1018.0 seconds
+time left: 958.0 seconds
+48.2
+turning off the fridge
+time left: 898.0 seconds
+time left: 838.0 seconds
+time left: 778.0 seconds
+time left: 718.0 seconds
+time left: 658.0 seconds
+48.2
+turning off the fridge
+time left: 598.0 seconds
+time left: 538.0 seconds
+time left: 478.0 seconds
+time left: 418.0 seconds
+time left: 358.0 seconds
+48.2
+turning off the fridge
+time left: 298.0 seconds
+time left: 238.0 seconds
+time left: 178.0 seconds
+time left: 118.0 seconds
+time left: 58.0 seconds
+48.2
+turning off the fridge
+program done. fermenter shutting down.
+Traceback (most recent call last):
+  File "brew.py", line 272, in <module>
+    email_sched.unschedule_job(send_email)
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 437, in unschedule_job
+    raise KeyError('Job "%s" is not scheduled in any job store' % job)
+KeyError: 'Job "<function send_email at 0x1da31b0>" is not scheduled in any job store'

@@ -1,0 +1,6116 @@
+nohup: ignoring input
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module email was already imported from /usr/lib/python2.7/email/__init__.pyc, but /usr/local/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module logging was already imported from /usr/lib/python2.7/logging/__init__.pyc, but /usr/local/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module pytz was already imported from /usr/local/lib/python2.7/dist-packages/pytz/__init__.pyc, but /usr/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+brew.py:222: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  io.setup(power_pin,io.OUT)
+Traceback (most recent call last):
+  File "brew.py", line 250, in <module>
+    send_email("starting brew log.")
+  File "brew.py", line 114, in send_email
+    server.login(fromaddr, "dubbeltrouble")
+  File "/usr/lib/python2.7/smtplib.py", line 613, in login
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (534, '5.7.14 <https://accounts.google.com/ContinueSignIn?sarp=1&scc=1&plt=AKgnsbsnf\n5.7.14 XAwLY8vPBCde7r7CNHV2KgdL-dwBVeo90JvPo0wz6HG6rfS5I7-QekOrTo7D6mgk8bTogT\n5.7.14 4zqPKDzgjt9sYbTPzhm8mG1qvhy0MqmU6rxKPhgYIYLpMy_1mTn236GXfYFQFNvne6OZ9X\n5.7.14 lpR1F29KEkqM-ajL9Lmgw6N3P3qq4JshCmzv09Egc4mcU92HGn71WEBlGE5iahnXqA5eIc\n5.7.14 7TpJvJOf8eRKmWaWGcGbnqTnpft8> Please log in via your web browser and\n5.7.14 then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 ik9sm1296338obc.1 - gsmtp')
+nohup: ignoring input
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module email was already imported from /usr/lib/python2.7/email/__init__.pyc, but /usr/local/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module logging was already imported from /usr/lib/python2.7/logging/__init__.pyc, but /usr/local/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module pytz was already imported from /usr/local/lib/python2.7/dist-packages/pytz/__init__.pyc, but /usr/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+brew.py:222: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  io.setup(power_pin,io.OUT)
+Traceback (most recent call last):
+  File "brew.py", line 250, in <module>
+    send_email("starting brew log.")
+  File "brew.py", line 114, in send_email
+    server.login(fromaddr, "dubbeltrouble")
+  File "/usr/lib/python2.7/smtplib.py", line 613, in login
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (534, '5.7.14 <https://accounts.google.com/ContinueSignIn?sarp=1&scc=1&plt=AKgnsbsnM\n5.7.14 VjnftPgtWvRzaGxV1XxXiaMLQyZRlPuORXnrLfmcQr6ssuwRp5xwMRv3D6wNFokb0GNr5J\n5.7.14 IMAx2dOtmWorC7cQfkJj-QLO4XqaU-w4C1Tcq6u_eY1nLakI178ElTdN-VHbc49fKerF3v\n5.7.14 4sc18Mb-TnQWK-hQ_6DSjn1EQFuW8MoEvW0rduMRRJ-mq_K3FTaoZw4FkkiSt8xbxVqShx\n5.7.14 AXzSPNVoZyZ2zcagz-8tlUHjTNf8> Please log in via your web browser and\n5.7.14 then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 dh3sm1260600obb.29 - gsmtp')
+nohup: ignoring input
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module email was already imported from /usr/lib/python2.7/email/__init__.pyc, but /usr/local/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module logging was already imported from /usr/lib/python2.7/logging/__init__.pyc, but /usr/local/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module pytz was already imported from /usr/local/lib/python2.7/dist-packages/pytz/__init__.pyc, but /usr/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+brew.py:222: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  io.setup(power_pin,io.OUT)
+Traceback (most recent call last):
+  File "brew.py", line 250, in <module>
+    send_email("starting brew log.")
+  File "brew.py", line 114, in send_email
+    server.login(fromaddr, "dubbeltrouble")
+  File "/usr/lib/python2.7/smtplib.py", line 613, in login
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (534, '5.7.14 <https://accounts.google.com/ContinueSignIn?sarp=1&scc=1&plt=AKgnsbsfA\n5.7.14 uLIky2PeJtH0KWxos3ryymAh_SGOw3RXehsNTlRd9PaIkx2yRJIJkB0bQy5r5DYYniYxwD\n5.7.14 ddHwmA153uuqVYlNN70uKYoH-HFJX2fWYz8Pr4FpAW5249l3ROUl8JdfyXyQaSDHdpIHwU\n5.7.14 AI1Cpv7EPZ5tlZPfuIZO9qAkdms-zCZhoGRePWzHHH-6AdIbNel2_PpuPstfaDkxbA4ntA\n5.7.14 m9D68E8MhibPPwUyY7jRUu7yRzm8> Please log in via your web browser and\n5.7.14 then try again.\n5.7.14  Learn more at\n5.7.14  https://support.google.com/mail/answer/78754 t7sm1285511obd.14 - gsmtp')
+nohup: ignoring input
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module email was already imported from /usr/lib/python2.7/email/__init__.pyc, but /usr/local/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module logging was already imported from /usr/lib/python2.7/logging/__init__.pyc, but /usr/local/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+/usr/local/lib/python2.7/dist-packages/pytz/__init__.py:29: UserWarning: Module pytz was already imported from /usr/local/lib/python2.7/dist-packages/pytz/__init__.pyc, but /usr/lib/python2.7/dist-packages is being added to sys.path
+  from pkg_resources import resource_stream
+brew.py:222: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  io.setup(power_pin,io.OUT)
+list of temps
+[40]
+list of times
+[72]
+time left: 259200.0 seconds
+time left: 259140.0 seconds
+time left: 259080.0 seconds
+time left: 259020.0 seconds
+time left: 258960.0 seconds
+time left: 258900.0 seconds
+73.5116
+turning on the fridge
+time left: 258840.0 seconds
+time left: 258780.0 seconds
+time left: 258720.0 seconds
+time left: 258660.0 seconds
+time left: 258600.0 seconds
+72.95
+turning on the fridge
+time left: 258540.0 seconds
+time left: 258480.0 seconds
+time left: 258419.0 seconds
+time left: 258359.0 seconds
+time left: 258299.0 seconds
+71.2616
+turning on the fridge
+time left: 258239.0 seconds
+time left: 258179.0 seconds
+time left: 258119.0 seconds
+time left: 258059.0 seconds
+time left: 257999.0 seconds
+69.125
+turning on the fridge
+time left: 257939.0 seconds
+time left: 257879.0 seconds
+time left: 257819.0 seconds
+time left: 257759.0 seconds
+67.325
+turning on the fridge
+time left: 257699.0 seconds
+time left: 257639.0 seconds
+time left: 257579.0 seconds
+time left: 257519.0 seconds
+time left: 257459.0 seconds
+65.975
+turning on the fridge
+time left: 257399.0 seconds
+time left: 257339.0 seconds
+time left: 257279.0 seconds
+time left: 257219.0 seconds
+time left: 257159.0 seconds
+65.075
+turning on the fridge
+time left: 257099.0 seconds
+time left: 257039.0 seconds
+time left: 256979.0 seconds
+time left: 256918.0 seconds
+time left: 256858.0 seconds
+64.2866
+turning on the fridge
+time left: 256798.0 seconds
+time left: 256738.0 seconds
+time left: 256678.0 seconds
+time left: 256618.0 seconds
+time left: 256558.0 seconds
+63.8366
+turning on the fridge
+time left: 256498.0 seconds
+time left: 256438.0 seconds
+time left: 256378.0 seconds
+time left: 256318.0 seconds
+time left: 256258.0 seconds
+63.5
+turning on the fridge
+time left: 256198.0 seconds
+time left: 256138.0 seconds
+time left: 256078.0 seconds
+time left: 256018.0 seconds
+time left: 255958.0 seconds
+63.1616
+turning on the fridge
+time left: 255898.0 seconds
+time left: 255838.0 seconds
+time left: 255778.0 seconds
+time left: 255718.0 seconds
+time left: 255658.0 seconds
+62.825
+turning on the fridge
+time left: 255598.0 seconds
+time left: 255537.0 seconds
+time left: 255477.0 seconds
+time left: 255417.0 seconds
+time left: 255357.0 seconds
+62.6
+turning on the fridge
+time left: 255297.0 seconds
+time left: 255237.0 seconds
+time left: 255177.0 seconds
+time left: 255117.0 seconds
+time left: 255057.0 seconds
+62.4866
+turning on the fridge
+time left: 254997.0 seconds
+time left: 254937.0 seconds
+time left: 254877.0 seconds
+time left: 254817.0 seconds
+time left: 254757.0 seconds
+62.2616
+turning on the fridge
+time left: 254697.0 seconds
+time left: 254637.0 seconds
+time left: 254577.0 seconds
+time left: 254517.0 seconds
+time left: 254457.0 seconds
+62.15
+turning on the fridge
+time left: 254397.0 seconds
+time left: 254337.0 seconds
+time left: 254276.0 seconds
+time left: 254216.0 seconds
+time left: 254156.0 seconds
+61.925
+turning on the fridge
+time left: 254096.0 seconds
+time left: 254036.0 seconds
+time left: 253976.0 seconds
+time left: 253916.0 seconds
+time left: 253856.0 seconds
+61.8116
+turning on the fridge
+time left: 253796.0 seconds
+time left: 253736.0 seconds
+time left: 253676.0 seconds
+time left: 253616.0 seconds
+time left: 253556.0 seconds
+61.7
+turning on the fridge
+time left: 253496.0 seconds
+time left: 253436.0 seconds
+time left: 253376.0 seconds
+time left: 253316.0 seconds
+time left: 253256.0 seconds
+61.475
+turning on the fridge
+time left: 253196.0 seconds
+time left: 253136.0 seconds
+time left: 253075.0 seconds
+time left: 253015.0 seconds
+time left: 252955.0 seconds
+61.3616
+turning on the fridge
+time left: 252895.0 seconds
+time left: 252835.0 seconds
+time left: 252775.0 seconds
+time left: 252715.0 seconds
+time left: 252655.0 seconds
+61.25
+turning on the fridge
+time left: 252595.0 seconds
+time left: 252535.0 seconds
+time left: 252475.0 seconds
+time left: 252415.0 seconds
+time left: 252355.0 seconds
+61.1366
+turning on the fridge
+time left: 252295.0 seconds
+time left: 252235.0 seconds
+time left: 252175.0 seconds
+time left: 252115.0 seconds
+time left: 252055.0 seconds
+61.025
+turning on the fridge
+time left: 251995.0 seconds
+time left: 251935.0 seconds
+time left: 251874.0 seconds
+time left: 251814.0 seconds
+time left: 251754.0 seconds
+60.9116
+turning on the fridge
+time left: 251694.0 seconds
+time left: 251634.0 seconds
+time left: 251574.0 seconds
+time left: 251514.0 seconds
+time left: 251454.0 seconds
+60.8
+turning on the fridge
+time left: 251394.0 seconds
+time left: 251334.0 seconds
+time left: 251274.0 seconds
+time left: 251214.0 seconds
+time left: 251154.0 seconds
+60.6866
+turning on the fridge
+time left: 251094.0 seconds
+time left: 251034.0 seconds
+time left: 250974.0 seconds
+time left: 250914.0 seconds
+time left: 250854.0 seconds
+60.4616
+turning on the fridge
+time left: 250794.0 seconds
+time left: 250734.0 seconds
+time left: 250673.0 seconds
+time left: 250613.0 seconds
+time left: 250553.0 seconds
+60.35
+turning on the fridge
+time left: 250493.0 seconds
+time left: 250433.0 seconds
+time left: 250373.0 seconds
+time left: 250313.0 seconds
+time left: 250253.0 seconds
+60.2366
+turning on the fridge
+time left: 250193.0 seconds
+time left: 250133.0 seconds
+time left: 250073.0 seconds
+time left: 250013.0 seconds
+time left: 249953.0 seconds
+60.125
+turning on the fridge
+time left: 249893.0 seconds
+time left: 249833.0 seconds
+time left: 249773.0 seconds
+time left: 249713.0 seconds
+time left: 249653.0 seconds
+60.0116
+turning on the fridge
+time left: 249593.0 seconds
+time left: 249533.0 seconds
+time left: 249473.0 seconds
+time left: 249413.0 seconds
+time left: 249352.0 seconds
+59.7866
+turning on the fridge
+time left: 249292.0 seconds
+time left: 249232.0 seconds
+time left: 249172.0 seconds
+time left: 249112.0 seconds
+time left: 249052.0 seconds
+59.7866
+turning on the fridge
+time left: 248992.0 seconds
+time left: 248932.0 seconds
+time left: 248872.0 seconds
+time left: 248812.0 seconds
+time left: 248752.0 seconds
+59.675
+turning on the fridge
+time left: 248692.0 seconds
+time left: 248632.0 seconds
+time left: 248572.0 seconds
+time left: 248512.0 seconds
+time left: 248452.0 seconds
+59.5616
+turning on the fridge
+time left: 248392.0 seconds
+time left: 248332.0 seconds
+time left: 248272.0 seconds
+time left: 248212.0 seconds
+time left: 248152.0 seconds
+59.45
+turning on the fridge
+time left: 248092.0 seconds
+time left: 248032.0 seconds
+time left: 247971.0 seconds
+time left: 247911.0 seconds
+time left: 247851.0 seconds
+59.3366
+turning on the fridge
+time left: 247791.0 seconds
+time left: 247731.0 seconds
+time left: 247671.0 seconds
+time left: 247611.0 seconds
+time left: 247551.0 seconds
+59.225
+turning on the fridge
+time left: 247491.0 seconds
+time left: 247431.0 seconds
+time left: 247371.0 seconds
+time left: 247311.0 seconds
+time left: 247251.0 seconds
+59.225
+turning on the fridge
+time left: 247191.0 seconds
+time left: 247131.0 seconds
+time left: 247071.0 seconds
+time left: 247011.0 seconds
+time left: 246951.0 seconds
+59.1116
+turning on the fridge
+time left: 246891.0 seconds
+time left: 246831.0 seconds
+time left: 246771.0 seconds
+time left: 246710.0 seconds
+time left: 246650.0 seconds
+59.0
+turning on the fridge
+time left: 246590.0 seconds
+time left: 246530.0 seconds
+time left: 246470.0 seconds
+time left: 246410.0 seconds
+time left: 246350.0 seconds
+58.8866
+turning on the fridge
+time left: 246290.0 seconds
+time left: 246230.0 seconds
+time left: 246170.0 seconds
+time left: 246110.0 seconds
+time left: 246050.0 seconds
+58.8866
+turning on the fridge
+time left: 245990.0 seconds
+time left: 245930.0 seconds
+time left: 245870.0 seconds
+time left: 245810.0 seconds
+time left: 245750.0 seconds
+58.775
+turning on the fridge
+time left: 245690.0 seconds
+time left: 245630.0 seconds
+time left: 245570.0 seconds
+time left: 245509.0 seconds
+time left: 245449.0 seconds
+58.6616
+turning on the fridge
+time left: 245389.0 seconds
+time left: 245329.0 seconds
+time left: 245269.0 seconds
+time left: 245209.0 seconds
+time left: 245149.0 seconds
+58.6616
+turning on the fridge
+time left: 245089.0 seconds
+time left: 245029.0 seconds
+time left: 244969.0 seconds
+time left: 244909.0 seconds
+time left: 244849.0 seconds
+58.55
+turning on the fridge
+time left: 244789.0 seconds
+time left: 244729.0 seconds
+time left: 244669.0 seconds
+time left: 244609.0 seconds
+time left: 244549.0 seconds
+58.4366
+turning on the fridge
+time left: 244489.0 seconds
+time left: 244429.0 seconds
+time left: 244368.0 seconds
+time left: 244308.0 seconds
+time left: 244248.0 seconds
+58.4366
+turning on the fridge
+time left: 244188.0 seconds
+time left: 244128.0 seconds
+time left: 244068.0 seconds
+time left: 244008.0 seconds
+time left: 243948.0 seconds
+58.4366
+turning on the fridge
+time left: 243888.0 seconds
+time left: 243828.0 seconds
+time left: 243768.0 seconds
+time left: 243708.0 seconds
+time left: 243648.0 seconds
+58.325
+turning on the fridge
+time left: 243588.0 seconds
+time left: 243528.0 seconds
+time left: 243468.0 seconds
+time left: 243408.0 seconds
+time left: 243348.0 seconds
+58.325
+turning on the fridge
+time left: 243288.0 seconds
+time left: 243228.0 seconds
+time left: 243167.0 seconds
+time left: 243107.0 seconds
+time left: 243047.0 seconds
+58.325
+turning on the fridge
+time left: 242987.0 seconds
+time left: 242927.0 seconds
+time left: 242867.0 seconds
+time left: 242807.0 seconds
+time left: 242747.0 seconds
+58.2116
+turning on the fridge
+time left: 242687.0 seconds
+time left: 242627.0 seconds
+time left: 242567.0 seconds
+time left: 242507.0 seconds
+time left: 242447.0 seconds
+58.2116
+turning on the fridge
+time left: 242387.0 seconds
+time left: 242327.0 seconds
+time left: 242267.0 seconds
+time left: 242207.0 seconds
+time left: 242147.0 seconds
+58.2116
+turning on the fridge
+time left: 242087.0 seconds
+time left: 242027.0 seconds
+time left: 241966.0 seconds
+time left: 241906.0 seconds
+time left: 241846.0 seconds
+58.1
+turning on the fridge
+time left: 241786.0 seconds
+time left: 241726.0 seconds
+time left: 241666.0 seconds
+time left: 241606.0 seconds
+time left: 241546.0 seconds
+58.1
+turning on the fridge
+time left: 241486.0 seconds
+time left: 241426.0 seconds
+time left: 241366.0 seconds
+time left: 241306.0 seconds
+time left: 241246.0 seconds
+57.9866
+turning on the fridge
+time left: 241186.0 seconds
+time left: 241126.0 seconds
+time left: 241066.0 seconds
+time left: 241006.0 seconds
+time left: 240946.0 seconds
+57.9866
+turning on the fridge
+time left: 240886.0 seconds
+time left: 240826.0 seconds
+time left: 240765.0 seconds
+time left: 240705.0 seconds
+time left: 240645.0 seconds
+57.9866
+turning on the fridge
+time left: 240585.0 seconds
+time left: 240525.0 seconds
+time left: 240465.0 seconds
+time left: 240405.0 seconds
+time left: 240345.0 seconds
+57.9866
+turning on the fridge
+time left: 240285.0 seconds
+time left: 240225.0 seconds
+time left: 240165.0 seconds
+time left: 240105.0 seconds
+time left: 240045.0 seconds
+57.875
+turning on the fridge
+time left: 239985.0 seconds
+time left: 239925.0 seconds
+time left: 239865.0 seconds
+time left: 239805.0 seconds
+time left: 239745.0 seconds
+57.875
+turning on the fridge
+time left: 239685.0 seconds
+time left: 239625.0 seconds
+time left: 239565.0 seconds
+time left: 239505.0 seconds
+time left: 239444.0 seconds
+57.875
+turning on the fridge
+time left: 239384.0 seconds
+time left: 239324.0 seconds
+time left: 239264.0 seconds
+time left: 239204.0 seconds
+time left: 239144.0 seconds
+57.875
+turning on the fridge
+time left: 239084.0 seconds
+time left: 239024.0 seconds
+time left: 238964.0 seconds
+time left: 238904.0 seconds
+time left: 238844.0 seconds
+57.875
+turning on the fridge
+time left: 238784.0 seconds
+time left: 238724.0 seconds
+time left: 238664.0 seconds
+time left: 238604.0 seconds
+time left: 238544.0 seconds
+57.7616
+turning on the fridge
+time left: 238484.0 seconds
+time left: 238424.0 seconds
+time left: 238364.0 seconds
+time left: 238304.0 seconds
+time left: 238243.0 seconds
+57.875
+turning on the fridge
+time left: 238183.0 seconds
+time left: 238123.0 seconds
+time left: 238063.0 seconds
+time left: 238003.0 seconds
+time left: 237943.0 seconds
+57.7616
+turning on the fridge
+time left: 237883.0 seconds
+time left: 237823.0 seconds
+time left: 237763.0 seconds
+time left: 237703.0 seconds
+time left: 237643.0 seconds
+57.7616
+turning on the fridge
+time left: 237583.0 seconds
+time left: 237523.0 seconds
+time left: 237463.0 seconds
+time left: 237403.0 seconds
+time left: 237343.0 seconds
+57.7616
+turning on the fridge
+time left: 237283.0 seconds
+time left: 237223.0 seconds
+time left: 237163.0 seconds
+time left: 237103.0 seconds
+time left: 237043.0 seconds
+57.7616
+turning on the fridge
+time left: 236983.0 seconds
+time left: 236923.0 seconds
+time left: 236863.0 seconds
+time left: 236802.0 seconds
+time left: 236742.0 seconds
+57.65
+turning on the fridge
+time left: 236682.0 seconds
+time left: 236622.0 seconds
+time left: 236562.0 seconds
+time left: 236502.0 seconds
+time left: 236442.0 seconds
+57.65
+turning on the fridge
+time left: 236382.0 seconds
+time left: 236322.0 seconds
+time left: 236262.0 seconds
+time left: 236202.0 seconds
+time left: 236142.0 seconds
+57.65
+turning on the fridge
+time left: 236082.0 seconds
+time left: 236022.0 seconds
+time left: 235962.0 seconds
+time left: 235902.0 seconds
+time left: 235842.0 seconds
+57.7616
+turning on the fridge
+time left: 235782.0 seconds
+time left: 235722.0 seconds
+time left: 235662.0 seconds
+time left: 235602.0 seconds
+time left: 235542.0 seconds
+57.65
+turning on the fridge
+time left: 235482.0 seconds
+time left: 235422.0 seconds
+time left: 235362.0 seconds
+time left: 235301.0 seconds
+time left: 235241.0 seconds
+57.65
+turning on the fridge
+time left: 235181.0 seconds
+time left: 235121.0 seconds
+time left: 235061.0 seconds
+time left: 235001.0 seconds
+time left: 234941.0 seconds
+57.65
+turning on the fridge
+time left: 234881.0 seconds
+time left: 234821.0 seconds
+time left: 234761.0 seconds
+time left: 234701.0 seconds
+time left: 234641.0 seconds
+57.65
+turning on the fridge
+time left: 234581.0 seconds
+time left: 234521.0 seconds
+time left: 234461.0 seconds
+time left: 234401.0 seconds
+time left: 234341.0 seconds
+57.65
+turning on the fridge
+time left: 234281.0 seconds
+time left: 234221.0 seconds
+time left: 234161.0 seconds
+time left: 234101.0 seconds
+time left: 234041.0 seconds
+57.65
+turning on the fridge
+time left: 233980.0 seconds
+time left: 233920.0 seconds
+time left: 233860.0 seconds
+time left: 233800.0 seconds
+time left: 233740.0 seconds
+57.65
+turning on the fridge
+time left: 233680.0 seconds
+time left: 233620.0 seconds
+time left: 233560.0 seconds
+time left: 233500.0 seconds
+time left: 233440.0 seconds
+57.65
+turning on the fridge
+time left: 233380.0 seconds
+time left: 233320.0 seconds
+time left: 233260.0 seconds
+time left: 233200.0 seconds
+time left: 233140.0 seconds
+57.65
+turning on the fridge
+time left: 233080.0 seconds
+time left: 233020.0 seconds
+time left: 232960.0 seconds
+time left: 232900.0 seconds
+time left: 232840.0 seconds
+57.65
+turning on the fridge
+time left: 232779.0 seconds
+time left: 232719.0 seconds
+time left: 232659.0 seconds
+time left: 232599.0 seconds
+time left: 232539.0 seconds
+57.65
+turning on the fridge
+time left: 232479.0 seconds
+time left: 232419.0 seconds
+time left: 232359.0 seconds
+time left: 232299.0 seconds
+time left: 232239.0 seconds
+57.65
+turning on the fridge
+time left: 232179.0 seconds
+time left: 232119.0 seconds
+time left: 232059.0 seconds
+time left: 231999.0 seconds
+time left: 231939.0 seconds
+57.65
+turning on the fridge
+time left: 231879.0 seconds
+time left: 231819.0 seconds
+time left: 231759.0 seconds
+time left: 231699.0 seconds
+time left: 231639.0 seconds
+57.65
+turning on the fridge
+time left: 231578.0 seconds
+time left: 231518.0 seconds
+time left: 231458.0 seconds
+time left: 231398.0 seconds
+time left: 231338.0 seconds
+57.65
+turning on the fridge
+time left: 231278.0 seconds
+time left: 231218.0 seconds
+time left: 231158.0 seconds
+time left: 231098.0 seconds
+time left: 231038.0 seconds
+57.65
+turning on the fridge
+time left: 230978.0 seconds
+time left: 230918.0 seconds
+time left: 230858.0 seconds
+time left: 230798.0 seconds
+time left: 230738.0 seconds
+57.65
+turning on the fridge
+time left: 230678.0 seconds
+time left: 230618.0 seconds
+time left: 230558.0 seconds
+time left: 230498.0 seconds
+time left: 230438.0 seconds
+57.65
+turning on the fridge
+time left: 230378.0 seconds
+time left: 230317.0 seconds
+time left: 230257.0 seconds
+time left: 230197.0 seconds
+time left: 230137.0 seconds
+57.65
+turning on the fridge
+time left: 230077.0 seconds
+time left: 230017.0 seconds
+time left: 229957.0 seconds
+time left: 229897.0 seconds
+time left: 229837.0 seconds
+57.7616
+turning on the fridge
+time left: 229777.0 seconds
+time left: 229717.0 seconds
+time left: 229657.0 seconds
+time left: 229597.0 seconds
+time left: 229537.0 seconds
+57.7616
+turning on the fridge
+time left: 229477.0 seconds
+time left: 229417.0 seconds
+time left: 229357.0 seconds
+time left: 229297.0 seconds
+time left: 229237.0 seconds
+57.7616
+turning on the fridge
+time left: 229177.0 seconds
+time left: 229117.0 seconds
+time left: 229057.0 seconds
+time left: 228996.0 seconds
+time left: 228936.0 seconds
+57.65
+turning on the fridge
+time left: 228876.0 seconds
+time left: 228816.0 seconds
+time left: 228756.0 seconds
+time left: 228696.0 seconds
+time left: 228636.0 seconds
+57.7616
+turning on the fridge
+time left: 228576.0 seconds
+time left: 228516.0 seconds
+time left: 228456.0 seconds
+time left: 228396.0 seconds
+time left: 228336.0 seconds
+57.7616
+turning on the fridge
+time left: 228276.0 seconds
+time left: 228216.0 seconds
+time left: 228156.0 seconds
+time left: 228096.0 seconds
+time left: 228036.0 seconds
+57.7616
+turning on the fridge
+time left: 227976.0 seconds
+time left: 227916.0 seconds
+time left: 227856.0 seconds
+time left: 227796.0 seconds
+time left: 227736.0 seconds
+57.7616
+turning on the fridge
+time left: 227676.0 seconds
+time left: 227615.0 seconds
+time left: 227555.0 seconds
+time left: 227495.0 seconds
+time left: 227435.0 seconds
+57.7616
+turning on the fridge
+time left: 227375.0 seconds
+time left: 227315.0 seconds
+time left: 227255.0 seconds
+time left: 227195.0 seconds
+time left: 227135.0 seconds
+57.7616
+turning on the fridge
+time left: 227075.0 seconds
+time left: 227015.0 seconds
+time left: 226955.0 seconds
+time left: 226895.0 seconds
+time left: 226835.0 seconds
+57.7616
+turning on the fridge
+time left: 226775.0 seconds
+time left: 226715.0 seconds
+time left: 226655.0 seconds
+time left: 226595.0 seconds
+time left: 226535.0 seconds
+57.7616
+turning on the fridge
+time left: 226475.0 seconds
+time left: 226415.0 seconds
+time left: 226354.0 seconds
+time left: 226294.0 seconds
+time left: 226234.0 seconds
+57.7616
+turning on the fridge
+time left: 226174.0 seconds
+time left: 226114.0 seconds
+time left: 226054.0 seconds
+time left: 225994.0 seconds
+time left: 225934.0 seconds
+57.7616
+turning on the fridge
+time left: 225874.0 seconds
+time left: 225814.0 seconds
+time left: 225754.0 seconds
+time left: 225694.0 seconds
+time left: 225634.0 seconds
+57.875
+turning on the fridge
+time left: 225574.0 seconds
+time left: 225514.0 seconds
+time left: 225454.0 seconds
+time left: 225394.0 seconds
+time left: 225334.0 seconds
+57.7616
+turning on the fridge
+time left: 225274.0 seconds
+time left: 225214.0 seconds
+time left: 225154.0 seconds
+time left: 225094.0 seconds
+time left: 225034.0 seconds
+57.7616
+turning on the fridge
+time left: 224973.0 seconds
+time left: 224913.0 seconds
+time left: 224853.0 seconds
+time left: 224793.0 seconds
+time left: 224733.0 seconds
+57.7616
+turning on the fridge
+time left: 224673.0 seconds
+time left: 224613.0 seconds
+time left: 224553.0 seconds
+time left: 224493.0 seconds
+time left: 224433.0 seconds
+57.875
+turning on the fridge
+time left: 224373.0 seconds
+time left: 224313.0 seconds
+time left: 224253.0 seconds
+time left: 224193.0 seconds
+time left: 224133.0 seconds
+57.875
+turning on the fridge
+time left: 224073.0 seconds
+time left: 224013.0 seconds
+time left: 223953.0 seconds
+time left: 223893.0 seconds
+time left: 223833.0 seconds
+57.875
+turning on the fridge
+time left: 223773.0 seconds
+time left: 223712.0 seconds
+time left: 223652.0 seconds
+time left: 223592.0 seconds
+time left: 223532.0 seconds
+57.875
+turning on the fridge
+time left: 223472.0 seconds
+time left: 223412.0 seconds
+time left: 223352.0 seconds
+time left: 223292.0 seconds
+time left: 223232.0 seconds
+57.875
+turning on the fridge
+time left: 223172.0 seconds
+time left: 223112.0 seconds
+time left: 223052.0 seconds
+time left: 222992.0 seconds
+time left: 222932.0 seconds
+57.875
+turning on the fridge
+time left: 222872.0 seconds
+time left: 222812.0 seconds
+time left: 222752.0 seconds
+time left: 222692.0 seconds
+time left: 222632.0 seconds
+57.9866
+turning on the fridge
+time left: 222572.0 seconds
+time left: 222512.0 seconds
+time left: 222452.0 seconds
+time left: 222392.0 seconds
+time left: 222331.0 seconds
+57.9866
+turning on the fridge
+time left: 222271.0 seconds
+time left: 222211.0 seconds
+time left: 222151.0 seconds
+time left: 222091.0 seconds
+time left: 222031.0 seconds
+57.9866
+turning on the fridge
+time left: 221971.0 seconds
+time left: 221911.0 seconds
+time left: 221851.0 seconds
+time left: 221791.0 seconds
+time left: 221731.0 seconds
+57.9866
+turning on the fridge
+time left: 221671.0 seconds
+time left: 221611.0 seconds
+time left: 221551.0 seconds
+time left: 221491.0 seconds
+time left: 221431.0 seconds
+57.9866
+turning on the fridge
+time left: 221371.0 seconds
+time left: 221311.0 seconds
+time left: 221251.0 seconds
+time left: 221191.0 seconds
+time left: 221130.0 seconds
+57.9866
+turning on the fridge
+time left: 221070.0 seconds
+time left: 221010.0 seconds
+time left: 220950.0 seconds
+time left: 220890.0 seconds
+time left: 220830.0 seconds
+57.9866
+turning on the fridge
+time left: 220770.0 seconds
+time left: 220710.0 seconds
+time left: 220650.0 seconds
+time left: 220590.0 seconds
+time left: 220530.0 seconds
+57.9866
+turning on the fridge
+time left: 220470.0 seconds
+time left: 220410.0 seconds
+time left: 220350.0 seconds
+time left: 220290.0 seconds
+time left: 220230.0 seconds
+57.9866
+turning on the fridge
+time left: 220170.0 seconds
+time left: 220110.0 seconds
+time left: 220050.0 seconds
+time left: 219990.0 seconds
+time left: 219929.0 seconds
+57.9866
+turning on the fridge
+time left: 219869.0 seconds
+time left: 219809.0 seconds
+time left: 219749.0 seconds
+time left: 219689.0 seconds
+time left: 219629.0 seconds
+58.1
+turning on the fridge
+time left: 219569.0 seconds
+time left: 219509.0 seconds
+time left: 219449.0 seconds
+time left: 219389.0 seconds
+time left: 219329.0 seconds
+57.9866
+turning on the fridge
+time left: 219269.0 seconds
+time left: 219209.0 seconds
+time left: 219149.0 seconds
+time left: 219089.0 seconds
+time left: 219029.0 seconds
+57.9866
+turning on the fridge
+time left: 218969.0 seconds
+time left: 218909.0 seconds
+time left: 218849.0 seconds
+time left: 218789.0 seconds
+time left: 218728.0 seconds
+58.1
+turning on the fridge
+time left: 218668.0 seconds
+time left: 218608.0 seconds
+time left: 218548.0 seconds
+time left: 218488.0 seconds
+time left: 218428.0 seconds
+58.1
+turning on the fridge
+time left: 218368.0 seconds
+time left: 218308.0 seconds
+time left: 218248.0 seconds
+time left: 218188.0 seconds
+time left: 218128.0 seconds
+58.1
+turning on the fridge
+time left: 218068.0 seconds
+time left: 218008.0 seconds
+time left: 217948.0 seconds
+time left: 217888.0 seconds
+time left: 217828.0 seconds
+58.1
+turning on the fridge
+time left: 217768.0 seconds
+time left: 217707.0 seconds
+time left: 217647.0 seconds
+time left: 217587.0 seconds
+time left: 217527.0 seconds
+58.1
+turning on the fridge
+time left: 217467.0 seconds
+time left: 217407.0 seconds
+time left: 217347.0 seconds
+time left: 217287.0 seconds
+time left: 217227.0 seconds
+58.1
+turning on the fridge
+time left: 217167.0 seconds
+time left: 217107.0 seconds
+time left: 217047.0 seconds
+time left: 216987.0 seconds
+time left: 216927.0 seconds
+58.1
+turning on the fridge
+time left: 216867.0 seconds
+time left: 216807.0 seconds
+time left: 216747.0 seconds
+time left: 216687.0 seconds
+time left: 216627.0 seconds
+58.1
+turning on the fridge
+time left: 216566.0 seconds
+time left: 216506.0 seconds
+time left: 216446.0 seconds
+time left: 216386.0 seconds
+time left: 216326.0 seconds
+58.1
+turning on the fridge
+time left: 216266.0 seconds
+time left: 216206.0 seconds
+time left: 216146.0 seconds
+time left: 216086.0 seconds
+time left: 216026.0 seconds
+58.1
+turning on the fridge
+time left: 215966.0 seconds
+time left: 215906.0 seconds
+time left: 215846.0 seconds
+time left: 215786.0 seconds
+time left: 215726.0 seconds
+58.1
+turning on the fridge
+time left: 215666.0 seconds
+time left: 215606.0 seconds
+time left: 215546.0 seconds
+time left: 215486.0 seconds
+time left: 215426.0 seconds
+58.1
+turning on the fridge
+time left: 215366.0 seconds
+time left: 215306.0 seconds
+time left: 215246.0 seconds
+time left: 215186.0 seconds
+time left: 215126.0 seconds
+58.1
+turning on the fridge
+time left: 215065.0 seconds
+time left: 215005.0 seconds
+time left: 214945.0 seconds
+time left: 214885.0 seconds
+time left: 214825.0 seconds
+58.1
+turning on the fridge
+time left: 214765.0 seconds
+time left: 214705.0 seconds
+time left: 214645.0 seconds
+time left: 214585.0 seconds
+time left: 214525.0 seconds
+58.1
+turning on the fridge
+time left: 214465.0 seconds
+time left: 214405.0 seconds
+time left: 214345.0 seconds
+time left: 214285.0 seconds
+time left: 214225.0 seconds
+58.1
+turning on the fridge
+time left: 214165.0 seconds
+time left: 214105.0 seconds
+time left: 214045.0 seconds
+time left: 213985.0 seconds
+time left: 213925.0 seconds
+58.2116
+turning on the fridge
+time left: 213865.0 seconds
+time left: 213805.0 seconds
+time left: 213745.0 seconds
+time left: 213685.0 seconds
+time left: 213624.0 seconds
+58.1
+turning on the fridge
+time left: 213564.0 seconds
+time left: 213504.0 seconds
+time left: 213444.0 seconds
+time left: 213384.0 seconds
+time left: 213324.0 seconds
+58.1
+turning on the fridge
+time left: 213264.0 seconds
+time left: 213204.0 seconds
+time left: 213144.0 seconds
+time left: 213084.0 seconds
+time left: 213024.0 seconds
+58.2116
+turning on the fridge
+time left: 212964.0 seconds
+time left: 212904.0 seconds
+time left: 212844.0 seconds
+time left: 212784.0 seconds
+time left: 212724.0 seconds
+58.2116
+turning on the fridge
+time left: 212664.0 seconds
+time left: 212604.0 seconds
+time left: 212544.0 seconds
+time left: 212484.0 seconds
+time left: 212424.0 seconds
+58.1
+turning on the fridge
+time left: 212364.0 seconds
+time left: 212304.0 seconds
+time left: 212243.0 seconds
+time left: 212183.0 seconds
+time left: 212123.0 seconds
+58.2116
+turning on the fridge
+time left: 212063.0 seconds
+time left: 212003.0 seconds
+time left: 211943.0 seconds
+time left: 211883.0 seconds
+time left: 211823.0 seconds
+58.2116
+turning on the fridge
+time left: 211763.0 seconds
+time left: 211703.0 seconds
+time left: 211643.0 seconds
+time left: 211583.0 seconds
+time left: 211523.0 seconds
+58.325
+turning on the fridge
+time left: 211463.0 seconds
+time left: 211403.0 seconds
+time left: 211343.0 seconds
+time left: 211283.0 seconds
+time left: 211223.0 seconds
+58.325
+turning on the fridge
+time left: 211163.0 seconds
+time left: 211103.0 seconds
+time left: 211043.0 seconds
+time left: 210983.0 seconds
+time left: 210922.0 seconds
+58.325
+turning on the fridge
+time left: 210862.0 seconds
+time left: 210802.0 seconds
+time left: 210742.0 seconds
+time left: 210682.0 seconds
+time left: 210622.0 seconds
+58.2116
+turning on the fridge
+time left: 210562.0 seconds
+time left: 210502.0 seconds
+time left: 210442.0 seconds
+time left: 210382.0 seconds
+time left: 210322.0 seconds
+58.325
+turning on the fridge
+time left: 210262.0 seconds
+time left: 210202.0 seconds
+time left: 210142.0 seconds
+time left: 210082.0 seconds
+time left: 210022.0 seconds
+58.325
+turning on the fridge
+time left: 209962.0 seconds
+time left: 209902.0 seconds
+time left: 209842.0 seconds
+time left: 209782.0 seconds
+time left: 209721.0 seconds
+58.325
+turning on the fridge
+time left: 209661.0 seconds
+time left: 209601.0 seconds
+time left: 209541.0 seconds
+time left: 209481.0 seconds
+time left: 209421.0 seconds
+58.325
+turning on the fridge
+time left: 209361.0 seconds
+time left: 209301.0 seconds
+time left: 209241.0 seconds
+time left: 209181.0 seconds
+time left: 209121.0 seconds
+58.2116
+turning on the fridge
+time left: 209061.0 seconds
+time left: 209001.0 seconds
+time left: 208941.0 seconds
+time left: 208881.0 seconds
+time left: 208821.0 seconds
+58.325
+turning on the fridge
+time left: 208761.0 seconds
+time left: 208701.0 seconds
+time left: 208641.0 seconds
+time left: 208581.0 seconds
+time left: 208521.0 seconds
+58.325
+turning on the fridge
+time left: 208461.0 seconds
+time left: 208401.0 seconds
+time left: 208341.0 seconds
+time left: 208281.0 seconds
+time left: 208220.0 seconds
+58.325
+turning on the fridge
+time left: 208160.0 seconds
+time left: 208100.0 seconds
+time left: 208040.0 seconds
+time left: 207980.0 seconds
+time left: 207920.0 seconds
+58.325
+turning on the fridge
+time left: 207860.0 seconds
+time left: 207800.0 seconds
+time left: 207740.0 seconds
+time left: 207680.0 seconds
+time left: 207620.0 seconds
+58.325
+turning on the fridge
+time left: 207560.0 seconds
+time left: 207500.0 seconds
+time left: 207440.0 seconds
+time left: 207380.0 seconds
+time left: 207320.0 seconds
+58.325
+turning on the fridge
+time left: 207260.0 seconds
+time left: 207200.0 seconds
+time left: 207140.0 seconds
+time left: 207080.0 seconds
+time left: 207020.0 seconds
+58.325
+turning on the fridge
+time left: 206960.0 seconds
+time left: 206900.0 seconds
+time left: 206840.0 seconds
+time left: 206779.0 seconds
+time left: 206719.0 seconds
+58.325
+turning on the fridge
+time left: 206659.0 seconds
+time left: 206599.0 seconds
+time left: 206539.0 seconds
+time left: 206479.0 seconds
+time left: 206419.0 seconds
+58.325
+turning on the fridge
+time left: 206359.0 seconds
+time left: 206299.0 seconds
+time left: 206239.0 seconds
+time left: 206179.0 seconds
+time left: 206119.0 seconds
+58.325
+turning on the fridge
+time left: 206059.0 seconds
+time left: 205999.0 seconds
+time left: 205939.0 seconds
+time left: 205879.0 seconds
+time left: 205819.0 seconds
+58.325
+turning on the fridge
+time left: 205759.0 seconds
+time left: 205699.0 seconds
+time left: 205639.0 seconds
+time left: 205579.0 seconds
+time left: 205519.0 seconds
+58.325
+turning on the fridge
+time left: 205459.0 seconds
+time left: 205399.0 seconds
+time left: 205338.0 seconds
+time left: 205278.0 seconds
+time left: 205218.0 seconds
+58.325
+turning on the fridge
+time left: 205158.0 seconds
+time left: 205098.0 seconds
+time left: 205038.0 seconds
+time left: 204978.0 seconds
+time left: 204918.0 seconds
+58.325
+turning on the fridge
+time left: 204858.0 seconds
+time left: 204798.0 seconds
+time left: 204738.0 seconds
+time left: 204678.0 seconds
+time left: 204618.0 seconds
+58.325
+turning on the fridge
+time left: 204558.0 seconds
+time left: 204498.0 seconds
+time left: 204438.0 seconds
+time left: 204378.0 seconds
+time left: 204318.0 seconds
+58.325
+turning on the fridge
+time left: 204258.0 seconds
+time left: 204198.0 seconds
+time left: 204138.0 seconds
+time left: 204078.0 seconds
+time left: 204018.0 seconds
+58.325
+turning on the fridge
+time left: 203957.0 seconds
+time left: 203897.0 seconds
+time left: 203837.0 seconds
+time left: 203777.0 seconds
+time left: 203717.0 seconds
+58.325
+turning on the fridge
+time left: 203657.0 seconds
+time left: 203597.0 seconds
+time left: 203537.0 seconds
+time left: 203477.0 seconds
+time left: 203417.0 seconds
+58.325
+turning on the fridge
+time left: 203357.0 seconds
+time left: 203297.0 seconds
+time left: 203237.0 seconds
+time left: 203177.0 seconds
+time left: 203117.0 seconds
+58.325
+turning on the fridge
+time left: 203057.0 seconds
+time left: 202997.0 seconds
+time left: 202937.0 seconds
+time left: 202877.0 seconds
+time left: 202817.0 seconds
+58.325
+turning on the fridge
+time left: 202757.0 seconds
+time left: 202697.0 seconds
+time left: 202637.0 seconds
+time left: 202576.0 seconds
+time left: 202516.0 seconds
+58.325
+turning on the fridge
+time left: 202456.0 seconds
+time left: 202396.0 seconds
+time left: 202336.0 seconds
+time left: 202276.0 seconds
+time left: 202216.0 seconds
+58.325
+turning on the fridge
+time left: 202156.0 seconds
+time left: 202096.0 seconds
+time left: 202036.0 seconds
+time left: 201976.0 seconds
+time left: 201916.0 seconds
+58.2116
+turning on the fridge
+time left: 201856.0 seconds
+time left: 201796.0 seconds
+time left: 201736.0 seconds
+time left: 201676.0 seconds
+time left: 201616.0 seconds
+58.325
+turning on the fridge
+time left: 201556.0 seconds
+time left: 201496.0 seconds
+time left: 201436.0 seconds
+time left: 201376.0 seconds
+time left: 201316.0 seconds
+58.2116
+turning on the fridge
+time left: 201256.0 seconds
+time left: 201195.0 seconds
+time left: 201135.0 seconds
+time left: 201075.0 seconds
+time left: 201015.0 seconds
+58.2116
+turning on the fridge
+time left: 200955.0 seconds
+time left: 200895.0 seconds
+time left: 200835.0 seconds
+time left: 200775.0 seconds
+time left: 200715.0 seconds
+58.2116
+turning on the fridge
+time left: 200655.0 seconds
+time left: 200595.0 seconds
+time left: 200535.0 seconds
+time left: 200475.0 seconds
+time left: 200415.0 seconds
+58.2116
+turning on the fridge
+time left: 200355.0 seconds
+time left: 200295.0 seconds
+time left: 200235.0 seconds
+time left: 200175.0 seconds
+time left: 200115.0 seconds
+58.2116
+turning on the fridge
+time left: 200055.0 seconds
+time left: 199995.0 seconds
+time left: 199935.0 seconds
+time left: 199875.0 seconds
+time left: 199815.0 seconds
+58.2116
+turning on the fridge
+time left: 199754.0 seconds
+time left: 199694.0 seconds
+time left: 199634.0 seconds
+time left: 199574.0 seconds
+time left: 199514.0 seconds
+58.2116
+turning on the fridge
+time left: 199454.0 seconds
+time left: 199394.0 seconds
+time left: 199334.0 seconds
+time left: 199274.0 seconds
+time left: 199214.0 seconds
+58.2116
+turning on the fridge
+time left: 199154.0 seconds
+time left: 199094.0 seconds
+time left: 199034.0 seconds
+time left: 198974.0 seconds
+time left: 198914.0 seconds
+58.2116
+turning on the fridge
+time left: 198854.0 seconds
+time left: 198794.0 seconds
+time left: 198734.0 seconds
+time left: 198673.0 seconds
+time left: 198613.0 seconds
+58.2116
+turning on the fridge
+time left: 198553.0 seconds
+time left: 198493.0 seconds
+time left: 198433.0 seconds
+time left: 198373.0 seconds
+time left: 198313.0 seconds
+58.2116
+turning on the fridge
+time left: 198253.0 seconds
+time left: 198193.0 seconds
+time left: 198133.0 seconds
+time left: 198073.0 seconds
+time left: 198013.0 seconds
+58.2116
+turning on the fridge
+time left: 197953.0 seconds
+time left: 197893.0 seconds
+time left: 197833.0 seconds
+time left: 197773.0 seconds
+time left: 197713.0 seconds
+58.2116
+turning on the fridge
+time left: 197653.0 seconds
+time left: 197593.0 seconds
+time left: 197533.0 seconds
+time left: 197473.0 seconds
+time left: 197412.0 seconds
+58.2116
+turning on the fridge
+time left: 197352.0 seconds
+time left: 197292.0 seconds
+time left: 197232.0 seconds
+time left: 197172.0 seconds
+time left: 197112.0 seconds
+58.2116
+turning on the fridge
+time left: 197052.0 seconds
+time left: 196992.0 seconds
+time left: 196932.0 seconds
+time left: 196872.0 seconds
+time left: 196812.0 seconds
+58.1
+turning on the fridge
+time left: 196752.0 seconds
+time left: 196692.0 seconds
+time left: 196632.0 seconds
+time left: 196572.0 seconds
+time left: 196512.0 seconds
+58.2116
+turning on the fridge
+time left: 196452.0 seconds
+time left: 196392.0 seconds
+time left: 196332.0 seconds
+time left: 196272.0 seconds
+time left: 196212.0 seconds
+58.2116
+turning on the fridge
+time left: 196152.0 seconds
+time left: 196092.0 seconds
+time left: 196032.0 seconds
+time left: 195972.0 seconds
+time left: 195912.0 seconds
+58.2116
+turning on the fridge
+time left: 195852.0 seconds
+time left: 195792.0 seconds
+time left: 195732.0 seconds
+time left: 195672.0 seconds
+time left: 195611.0 seconds
+58.2116
+turning on the fridge
+time left: 195551.0 seconds
+time left: 195491.0 seconds
+time left: 195431.0 seconds
+time left: 195371.0 seconds
+time left: 195311.0 seconds
+58.1
+turning on the fridge
+time left: 195251.0 seconds
+time left: 195191.0 seconds
+time left: 195131.0 seconds
+time left: 195071.0 seconds
+time left: 195011.0 seconds
+58.1
+turning on the fridge
+time left: 194951.0 seconds
+time left: 194891.0 seconds
+time left: 194831.0 seconds
+time left: 194771.0 seconds
+time left: 194711.0 seconds
+58.1
+turning on the fridge
+time left: 194651.0 seconds
+time left: 194591.0 seconds
+time left: 194531.0 seconds
+time left: 194471.0 seconds
+time left: 194411.0 seconds
+58.1
+turning on the fridge
+time left: 194351.0 seconds
+time left: 194291.0 seconds
+time left: 194231.0 seconds
+time left: 194171.0 seconds
+time left: 194111.0 seconds
+58.1
+turning on the fridge
+time left: 194051.0 seconds
+time left: 193991.0 seconds
+time left: 193931.0 seconds
+time left: 193871.0 seconds
+time left: 193811.0 seconds
+58.1
+turning on the fridge
+time left: 193750.0 seconds
+time left: 193690.0 seconds
+time left: 193630.0 seconds
+time left: 193570.0 seconds
+time left: 193510.0 seconds
+58.1
+turning on the fridge
+time left: 193450.0 seconds
+time left: 193390.0 seconds
+time left: 193330.0 seconds
+time left: 193270.0 seconds
+time left: 193210.0 seconds
+58.1
+turning on the fridge
+time left: 193150.0 seconds
+time left: 193090.0 seconds
+time left: 193030.0 seconds
+time left: 192970.0 seconds
+time left: 192910.0 seconds
+58.1
+turning on the fridge
+time left: 192850.0 seconds
+time left: 192790.0 seconds
+time left: 192730.0 seconds
+time left: 192670.0 seconds
+time left: 192610.0 seconds
+58.1
+turning on the fridge
+time left: 192550.0 seconds
+time left: 192490.0 seconds
+time left: 192430.0 seconds
+time left: 192370.0 seconds
+time left: 192310.0 seconds
+58.1
+turning on the fridge
+time left: 192250.0 seconds
+time left: 192190.0 seconds
+time left: 192129.0 seconds
+time left: 192069.0 seconds
+time left: 192009.0 seconds
+58.1
+turning on the fridge
+time left: 191949.0 seconds
+time left: 191889.0 seconds
+time left: 191829.0 seconds
+time left: 191769.0 seconds
+time left: 191709.0 seconds
+58.1
+turning on the fridge
+time left: 191649.0 seconds
+time left: 191589.0 seconds
+time left: 191529.0 seconds
+time left: 191469.0 seconds
+time left: 191409.0 seconds
+58.1
+turning on the fridge
+time left: 191349.0 seconds
+time left: 191289.0 seconds
+time left: 191229.0 seconds
+time left: 191169.0 seconds
+time left: 191109.0 seconds
+58.1
+turning on the fridge
+time left: 191049.0 seconds
+time left: 190989.0 seconds
+time left: 190929.0 seconds
+time left: 190868.0 seconds
+time left: 190808.0 seconds
+58.1
+turning on the fridge
+time left: 190748.0 seconds
+time left: 190688.0 seconds
+time left: 190628.0 seconds
+time left: 190568.0 seconds
+time left: 190508.0 seconds
+58.1
+turning on the fridge
+time left: 190448.0 seconds
+time left: 190388.0 seconds
+time left: 190328.0 seconds
+time left: 190268.0 seconds
+time left: 190208.0 seconds
+58.1
+turning on the fridge
+time left: 190148.0 seconds
+time left: 190088.0 seconds
+time left: 190028.0 seconds
+time left: 189968.0 seconds
+time left: 189908.0 seconds
+58.1
+turning on the fridge
+time left: 189848.0 seconds
+time left: 189787.0 seconds
+time left: 189727.0 seconds
+time left: 189667.0 seconds
+time left: 189607.0 seconds
+58.1
+turning on the fridge
+time left: 189547.0 seconds
+time left: 189487.0 seconds
+time left: 189427.0 seconds
+time left: 189367.0 seconds
+time left: 189307.0 seconds
+58.1
+turning on the fridge
+time left: 189247.0 seconds
+time left: 189187.0 seconds
+time left: 189127.0 seconds
+time left: 189067.0 seconds
+time left: 189007.0 seconds
+58.1
+turning on the fridge
+time left: 188947.0 seconds
+time left: 188887.0 seconds
+time left: 188827.0 seconds
+time left: 188767.0 seconds
+time left: 188707.0 seconds
+58.1
+turning on the fridge
+time left: 188647.0 seconds
+time left: 188586.0 seconds
+time left: 188526.0 seconds
+time left: 188466.0 seconds
+time left: 188406.0 seconds
+58.1
+turning on the fridge
+time left: 188346.0 seconds
+time left: 188286.0 seconds
+time left: 188226.0 seconds
+time left: 188166.0 seconds
+time left: 188106.0 seconds
+58.1
+turning on the fridge
+time left: 188046.0 seconds
+time left: 187986.0 seconds
+time left: 187926.0 seconds
+time left: 187866.0 seconds
+time left: 187806.0 seconds
+58.1
+turning on the fridge
+time left: 187746.0 seconds
+time left: 187686.0 seconds
+time left: 187626.0 seconds
+time left: 187566.0 seconds
+time left: 187506.0 seconds
+58.1
+turning on the fridge
+time left: 187446.0 seconds
+time left: 187386.0 seconds
+time left: 187326.0 seconds
+time left: 187266.0 seconds
+time left: 187206.0 seconds
+58.1
+turning on the fridge
+time left: 187146.0 seconds
+time left: 187086.0 seconds
+time left: 187026.0 seconds
+time left: 186966.0 seconds
+time left: 186906.0 seconds
+58.1
+turning on the fridge
+time left: 186846.0 seconds
+time left: 186786.0 seconds
+time left: 186726.0 seconds
+time left: 186666.0 seconds
+time left: 186605.0 seconds
+57.9866
+turning on the fridge
+time left: 186545.0 seconds
+time left: 186485.0 seconds
+time left: 186425.0 seconds
+time left: 186365.0 seconds
+time left: 186305.0 seconds
+57.9866
+turning on the fridge
+time left: 186245.0 seconds
+time left: 186185.0 seconds
+time left: 186125.0 seconds
+time left: 186065.0 seconds
+time left: 186005.0 seconds
+58.1
+turning on the fridge
+time left: 185945.0 seconds
+time left: 185885.0 seconds
+time left: 185825.0 seconds
+time left: 185765.0 seconds
+time left: 185705.0 seconds
+58.1
+turning on the fridge
+time left: 185645.0 seconds
+time left: 185585.0 seconds
+time left: 185525.0 seconds
+time left: 185465.0 seconds
+time left: 185405.0 seconds
+58.1
+turning on the fridge
+time left: 185345.0 seconds
+time left: 185285.0 seconds
+time left: 185225.0 seconds
+time left: 185165.0 seconds
+time left: 185105.0 seconds
+58.1
+turning on the fridge
+time left: 185044.0 seconds
+time left: 184984.0 seconds
+time left: 184924.0 seconds
+time left: 184864.0 seconds
+time left: 184804.0 seconds
+58.1
+turning on the fridge
+time left: 184744.0 seconds
+time left: 184684.0 seconds
+time left: 184624.0 seconds
+time left: 184564.0 seconds
+time left: 184504.0 seconds
+57.9866
+turning on the fridge
+time left: 184444.0 seconds
+time left: 184384.0 seconds
+time left: 184324.0 seconds
+time left: 184264.0 seconds
+time left: 184204.0 seconds
+57.9866
+turning on the fridge
+time left: 184144.0 seconds
+time left: 184084.0 seconds
+time left: 184024.0 seconds
+time left: 183964.0 seconds
+time left: 183904.0 seconds
+57.9866
+turning on the fridge
+time left: 183844.0 seconds
+time left: 183784.0 seconds
+time left: 183724.0 seconds
+time left: 183663.0 seconds
+time left: 183603.0 seconds
+57.9866
+turning on the fridge
+time left: 183543.0 seconds
+time left: 183483.0 seconds
+time left: 183423.0 seconds
+time left: 183363.0 seconds
+time left: 183303.0 seconds
+57.9866
+turning on the fridge
+time left: 183243.0 seconds
+time left: 183183.0 seconds
+time left: 183123.0 seconds
+time left: 183063.0 seconds
+time left: 183003.0 seconds
+58.1
+turning on the fridge
+time left: 182943.0 seconds
+time left: 182883.0 seconds
+time left: 182823.0 seconds
+time left: 182763.0 seconds
+time left: 182703.0 seconds
+57.9866
+turning on the fridge
+time left: 182643.0 seconds
+time left: 182583.0 seconds
+time left: 182523.0 seconds
+time left: 182463.0 seconds
+time left: 182403.0 seconds
+57.9866
+turning on the fridge
+time left: 182343.0 seconds
+time left: 182282.0 seconds
+time left: 182222.0 seconds
+time left: 182162.0 seconds
+time left: 182102.0 seconds
+57.9866
+turning on the fridge
+time left: 182042.0 seconds
+time left: 181982.0 seconds
+time left: 181922.0 seconds
+time left: 181862.0 seconds
+time left: 181802.0 seconds
+58.1
+turning on the fridge
+time left: 181742.0 seconds
+time left: 181682.0 seconds
+time left: 181622.0 seconds
+time left: 181562.0 seconds
+time left: 181502.0 seconds
+57.9866
+turning on the fridge
+time left: 181442.0 seconds
+time left: 181382.0 seconds
+time left: 181322.0 seconds
+time left: 181262.0 seconds
+time left: 181202.0 seconds
+58.1
+turning on the fridge
+time left: 181142.0 seconds
+time left: 181082.0 seconds
+time left: 181022.0 seconds
+time left: 180962.0 seconds
+time left: 180902.0 seconds
+57.9866
+turning on the fridge
+time left: 180842.0 seconds
+time left: 180782.0 seconds
+time left: 180722.0 seconds
+time left: 180662.0 seconds
+time left: 180601.0 seconds
+58.1
+turning on the fridge
+time left: 180541.0 seconds
+time left: 180481.0 seconds
+time left: 180421.0 seconds
+time left: 180361.0 seconds
+time left: 180301.0 seconds
+58.1
+turning on the fridge
+time left: 180241.0 seconds
+time left: 180181.0 seconds
+time left: 180121.0 seconds
+time left: 180061.0 seconds
+time left: 180001.0 seconds
+58.1
+turning on the fridge
+time left: 179941.0 seconds
+time left: 179881.0 seconds
+time left: 179821.0 seconds
+time left: 179761.0 seconds
+time left: 179701.0 seconds
+58.1
+turning on the fridge
+time left: 179641.0 seconds
+time left: 179581.0 seconds
+time left: 179521.0 seconds
+time left: 179461.0 seconds
+time left: 179401.0 seconds
+58.1
+turning on the fridge
+time left: 179341.0 seconds
+time left: 179281.0 seconds
+time left: 179221.0 seconds
+time left: 179161.0 seconds
+time left: 179101.0 seconds
+58.1
+turning on the fridge
+time left: 179041.0 seconds
+time left: 178981.0 seconds
+time left: 178921.0 seconds
+time left: 178861.0 seconds
+time left: 178801.0 seconds
+58.1
+turning on the fridge
+time left: 178741.0 seconds
+time left: 178681.0 seconds
+time left: 178621.0 seconds
+time left: 178561.0 seconds
+time left: 178501.0 seconds
+58.1
+turning on the fridge
+time left: 178441.0 seconds
+time left: 178381.0 seconds
+time left: 178321.0 seconds
+time left: 178261.0 seconds
+time left: 178201.0 seconds
+58.1
+turning on the fridge
+time left: 178140.0 seconds
+time left: 178080.0 seconds
+time left: 178020.0 seconds
+time left: 177960.0 seconds
+time left: 177900.0 seconds
+58.1
+turning on the fridge
+time left: 177840.0 seconds
+time left: 177780.0 seconds
+time left: 177720.0 seconds
+time left: 177660.0 seconds
+time left: 177600.0 seconds
+58.1
+turning on the fridge
+time left: 177540.0 seconds
+time left: 177480.0 seconds
+time left: 177420.0 seconds
+time left: 177360.0 seconds
+time left: 177300.0 seconds
+58.1
+turning on the fridge
+time left: 177240.0 seconds
+time left: 177180.0 seconds
+time left: 177120.0 seconds
+time left: 177060.0 seconds
+time left: 177000.0 seconds
+58.1
+turning on the fridge
+time left: 176940.0 seconds
+time left: 176880.0 seconds
+time left: 176820.0 seconds
+time left: 176760.0 seconds
+time left: 176700.0 seconds
+58.1
+turning on the fridge
+time left: 176640.0 seconds
+time left: 176580.0 seconds
+time left: 176520.0 seconds
+time left: 176460.0 seconds
+time left: 176400.0 seconds
+58.1
+turning on the fridge
+time left: 176340.0 seconds
+time left: 176280.0 seconds
+time left: 176220.0 seconds
+time left: 176160.0 seconds
+time left: 176099.0 seconds
+58.1
+turning on the fridge
+time left: 176039.0 seconds
+time left: 175979.0 seconds
+time left: 175919.0 seconds
+time left: 175859.0 seconds
+time left: 175799.0 seconds
+58.1
+turning on the fridge
+time left: 175739.0 seconds
+time left: 175679.0 seconds
+time left: 175619.0 seconds
+time left: 175559.0 seconds
+58.1
+turning on the fridge
+time left: 175499.0 seconds
+time left: 175439.0 seconds
+time left: 175379.0 seconds
+time left: 175319.0 seconds
+time left: 175259.0 seconds
+58.1
+turning on the fridge
+time left: 175199.0 seconds
+time left: 175139.0 seconds
+time left: 175079.0 seconds
+time left: 175019.0 seconds
+time left: 174959.0 seconds
+58.1
+turning on the fridge
+time left: 174899.0 seconds
+time left: 174839.0 seconds
+time left: 174779.0 seconds
+time left: 174719.0 seconds
+time left: 174659.0 seconds
+58.1
+turning on the fridge
+time left: 174599.0 seconds
+time left: 174539.0 seconds
+time left: 174479.0 seconds
+time left: 174418.0 seconds
+time left: 174358.0 seconds
+58.1
+turning on the fridge
+time left: 174298.0 seconds
+time left: 174238.0 seconds
+time left: 174178.0 seconds
+time left: 174118.0 seconds
+time left: 174058.0 seconds
+58.2116
+turning on the fridge
+time left: 173998.0 seconds
+time left: 173938.0 seconds
+time left: 173878.0 seconds
+time left: 173818.0 seconds
+time left: 173758.0 seconds
+58.2116
+turning on the fridge
+time left: 173698.0 seconds
+time left: 173638.0 seconds
+time left: 173578.0 seconds
+time left: 173518.0 seconds
+time left: 173458.0 seconds
+58.2116
+turning on the fridge
+time left: 173398.0 seconds
+time left: 173338.0 seconds
+time left: 173278.0 seconds
+time left: 173218.0 seconds
+time left: 173158.0 seconds
+58.1
+turning on the fridge
+time left: 173098.0 seconds
+time left: 173038.0 seconds
+time left: 172978.0 seconds
+time left: 172917.0 seconds
+time left: 172857.0 seconds
+58.1
+turning on the fridge
+time left: 172797.0 seconds
+time left: 172737.0 seconds
+time left: 172677.0 seconds
+time left: 172617.0 seconds
+time left: 172557.0 seconds
+58.1
+turning on the fridge
+time left: 172497.0 seconds
+time left: 172437.0 seconds
+time left: 172377.0 seconds
+time left: 172317.0 seconds
+time left: 172257.0 seconds
+58.2116
+turning on the fridge
+time left: 172197.0 seconds
+time left: 172137.0 seconds
+time left: 172077.0 seconds
+time left: 172017.0 seconds
+time left: 171957.0 seconds
+58.2116
+turning on the fridge
+time left: 171897.0 seconds
+time left: 171837.0 seconds
+time left: 171776.0 seconds
+time left: 171716.0 seconds
+time left: 171656.0 seconds
+58.2116
+turning on the fridge
+time left: 171596.0 seconds
+time left: 171536.0 seconds
+time left: 171476.0 seconds
+time left: 171416.0 seconds
+time left: 171356.0 seconds
+58.1
+turning on the fridge
+time left: 171296.0 seconds
+time left: 171236.0 seconds
+time left: 171176.0 seconds
+time left: 171116.0 seconds
+time left: 171056.0 seconds
+58.2116
+turning on the fridge
+time left: 170996.0 seconds
+time left: 170936.0 seconds
+time left: 170876.0 seconds
+time left: 170816.0 seconds
+time left: 170756.0 seconds
+58.2116
+turning on the fridge
+time left: 170696.0 seconds
+time left: 170636.0 seconds
+time left: 170576.0 seconds
+time left: 170515.0 seconds
+time left: 170455.0 seconds
+58.2116
+turning on the fridge
+time left: 170395.0 seconds
+time left: 170335.0 seconds
+time left: 170275.0 seconds
+time left: 170215.0 seconds
+time left: 170155.0 seconds
+58.2116
+turning on the fridge
+time left: 170095.0 seconds
+time left: 170035.0 seconds
+time left: 169975.0 seconds
+time left: 169915.0 seconds
+time left: 169855.0 seconds
+58.2116
+turning on the fridge
+time left: 169795.0 seconds
+time left: 169735.0 seconds
+time left: 169675.0 seconds
+time left: 169615.0 seconds
+time left: 169555.0 seconds
+58.2116
+turning on the fridge
+time left: 169495.0 seconds
+time left: 169435.0 seconds
+time left: 169375.0 seconds
+time left: 169315.0 seconds
+time left: 169254.0 seconds
+58.2116
+turning on the fridge
+time left: 169194.0 seconds
+time left: 169134.0 seconds
+time left: 169074.0 seconds
+time left: 169014.0 seconds
+time left: 168954.0 seconds
+58.2116
+turning on the fridge
+time left: 168894.0 seconds
+time left: 168834.0 seconds
+time left: 168774.0 seconds
+time left: 168714.0 seconds
+time left: 168654.0 seconds
+58.2116
+turning on the fridge
+time left: 168594.0 seconds
+time left: 168534.0 seconds
+time left: 168474.0 seconds
+time left: 168414.0 seconds
+time left: 168354.0 seconds
+58.2116
+turning on the fridge
+time left: 168294.0 seconds
+time left: 168234.0 seconds
+time left: 168174.0 seconds
+time left: 168114.0 seconds
+time left: 168054.0 seconds
+58.2116
+turning on the fridge
+time left: 167994.0 seconds
+time left: 167934.0 seconds
+time left: 167874.0 seconds
+time left: 167814.0 seconds
+time left: 167754.0 seconds
+58.2116
+turning on the fridge
+time left: 167694.0 seconds
+time left: 167634.0 seconds
+time left: 167574.0 seconds
+time left: 167514.0 seconds
+time left: 167453.0 seconds
+58.2116
+turning on the fridge
+time left: 167393.0 seconds
+time left: 167333.0 seconds
+time left: 167273.0 seconds
+time left: 167213.0 seconds
+time left: 167153.0 seconds
+58.325
+turning on the fridge
+time left: 167093.0 seconds
+time left: 167033.0 seconds
+time left: 166973.0 seconds
+time left: 166913.0 seconds
+time left: 166853.0 seconds
+58.2116
+turning on the fridge
+time left: 166793.0 seconds
+time left: 166733.0 seconds
+time left: 166673.0 seconds
+time left: 166613.0 seconds
+time left: 166553.0 seconds
+58.2116
+turning on the fridge
+time left: 166493.0 seconds
+time left: 166433.0 seconds
+time left: 166373.0 seconds
+time left: 166313.0 seconds
+time left: 166253.0 seconds
+58.325
+turning on the fridge
+time left: 166192.0 seconds
+time left: 166132.0 seconds
+time left: 166072.0 seconds
+time left: 166012.0 seconds
+time left: 165952.0 seconds
+58.325
+turning on the fridge
+time left: 165892.0 seconds
+time left: 165832.0 seconds
+time left: 165772.0 seconds
+time left: 165712.0 seconds
+time left: 165652.0 seconds
+58.325
+turning on the fridge
+time left: 165592.0 seconds
+time left: 165532.0 seconds
+time left: 165472.0 seconds
+time left: 165412.0 seconds
+time left: 165352.0 seconds
+58.325
+turning on the fridge
+time left: 165292.0 seconds
+time left: 165232.0 seconds
+time left: 165172.0 seconds
+time left: 165112.0 seconds
+time left: 165052.0 seconds
+58.325
+turning on the fridge
+time left: 164991.0 seconds
+time left: 164931.0 seconds
+time left: 164871.0 seconds
+time left: 164811.0 seconds
+time left: 164751.0 seconds
+58.325
+turning on the fridge
+time left: 164691.0 seconds
+time left: 164631.0 seconds
+time left: 164571.0 seconds
+time left: 164511.0 seconds
+time left: 164451.0 seconds
+58.325
+turning on the fridge
+time left: 164391.0 seconds
+time left: 164331.0 seconds
+time left: 164271.0 seconds
+time left: 164211.0 seconds
+time left: 164151.0 seconds
+58.325
+turning on the fridge
+time left: 164091.0 seconds
+time left: 164031.0 seconds
+time left: 163971.0 seconds
+time left: 163911.0 seconds
+time left: 163851.0 seconds
+58.325
+turning on the fridge
+time left: 163791.0 seconds
+time left: 163731.0 seconds
+time left: 163671.0 seconds
+time left: 163611.0 seconds
+time left: 163551.0 seconds
+58.325
+turning on the fridge
+time left: 163490.0 seconds
+time left: 163430.0 seconds
+time left: 163370.0 seconds
+time left: 163310.0 seconds
+time left: 163250.0 seconds
+58.325
+turning on the fridge
+time left: 163190.0 seconds
+time left: 163130.0 seconds
+time left: 163070.0 seconds
+time left: 163010.0 seconds
+time left: 162950.0 seconds
+58.325
+turning on the fridge
+time left: 162890.0 seconds
+time left: 162830.0 seconds
+time left: 162770.0 seconds
+time left: 162710.0 seconds
+time left: 162650.0 seconds
+58.4366
+turning on the fridge
+time left: 162590.0 seconds
+time left: 162530.0 seconds
+time left: 162470.0 seconds
+time left: 162410.0 seconds
+time left: 162350.0 seconds
+58.4366
+turning on the fridge
+time left: 162290.0 seconds
+time left: 162230.0 seconds
+time left: 162170.0 seconds
+time left: 162110.0 seconds
+time left: 162050.0 seconds
+58.4366
+turning on the fridge
+time left: 161989.0 seconds
+time left: 161929.0 seconds
+time left: 161869.0 seconds
+time left: 161809.0 seconds
+time left: 161749.0 seconds
+58.4366
+turning on the fridge
+time left: 161689.0 seconds
+time left: 161629.0 seconds
+time left: 161569.0 seconds
+time left: 161509.0 seconds
+time left: 161449.0 seconds
+58.4366
+turning on the fridge
+time left: 161389.0 seconds
+time left: 161329.0 seconds
+time left: 161269.0 seconds
+time left: 161209.0 seconds
+time left: 161149.0 seconds
+58.4366
+turning on the fridge
+time left: 161089.0 seconds
+time left: 161029.0 seconds
+time left: 160969.0 seconds
+time left: 160909.0 seconds
+time left: 160849.0 seconds
+58.4366
+turning on the fridge
+time left: 160789.0 seconds
+time left: 160729.0 seconds
+time left: 160669.0 seconds
+time left: 160609.0 seconds
+time left: 160549.0 seconds
+58.4366
+turning on the fridge
+time left: 160489.0 seconds
+time left: 160429.0 seconds
+time left: 160369.0 seconds
+time left: 160309.0 seconds
+time left: 160249.0 seconds
+58.4366
+turning on the fridge
+time left: 160188.0 seconds
+time left: 160128.0 seconds
+time left: 160068.0 seconds
+time left: 160008.0 seconds
+time left: 159948.0 seconds
+58.4366
+turning on the fridge
+time left: 159888.0 seconds
+time left: 159828.0 seconds
+time left: 159768.0 seconds
+time left: 159708.0 seconds
+time left: 159648.0 seconds
+58.55
+turning on the fridge
+time left: 159588.0 seconds
+time left: 159528.0 seconds
+time left: 159468.0 seconds
+time left: 159408.0 seconds
+time left: 159348.0 seconds
+58.55
+turning on the fridge
+time left: 159288.0 seconds
+time left: 159228.0 seconds
+time left: 159168.0 seconds
+time left: 159108.0 seconds
+time left: 159048.0 seconds
+58.55
+turning on the fridge
+time left: 158988.0 seconds
+time left: 158928.0 seconds
+time left: 158868.0 seconds
+time left: 158808.0 seconds
+time left: 158748.0 seconds
+58.55
+turning on the fridge
+time left: 158688.0 seconds
+time left: 158628.0 seconds
+time left: 158568.0 seconds
+time left: 158508.0 seconds
+time left: 158448.0 seconds
+58.6616
+turning on the fridge
+time left: 158388.0 seconds
+time left: 158328.0 seconds
+time left: 158268.0 seconds
+time left: 158208.0 seconds
+time left: 158147.0 seconds
+58.6616
+turning on the fridge
+time left: 158087.0 seconds
+time left: 158027.0 seconds
+time left: 157967.0 seconds
+time left: 157907.0 seconds
+time left: 157847.0 seconds
+58.6616
+turning on the fridge
+time left: 157787.0 seconds
+time left: 157727.0 seconds
+time left: 157667.0 seconds
+time left: 157607.0 seconds
+time left: 157547.0 seconds
+58.6616
+turning on the fridge
+time left: 157487.0 seconds
+time left: 157427.0 seconds
+time left: 157367.0 seconds
+time left: 157307.0 seconds
+time left: 157247.0 seconds
+58.6616
+turning on the fridge
+time left: 157187.0 seconds
+time left: 157127.0 seconds
+time left: 157067.0 seconds
+time left: 157007.0 seconds
+time left: 156947.0 seconds
+58.775
+turning on the fridge
+time left: 156887.0 seconds
+time left: 156827.0 seconds
+time left: 156767.0 seconds
+time left: 156707.0 seconds
+time left: 156647.0 seconds
+58.775
+turning on the fridge
+time left: 156587.0 seconds
+time left: 156527.0 seconds
+time left: 156467.0 seconds
+time left: 156407.0 seconds
+time left: 156347.0 seconds
+58.775
+turning on the fridge
+time left: 156287.0 seconds
+time left: 156227.0 seconds
+time left: 156166.0 seconds
+time left: 156106.0 seconds
+time left: 156046.0 seconds
+58.775
+turning on the fridge
+time left: 155986.0 seconds
+time left: 155926.0 seconds
+time left: 155866.0 seconds
+time left: 155806.0 seconds
+time left: 155746.0 seconds
+58.8866
+turning on the fridge
+time left: 155686.0 seconds
+time left: 155626.0 seconds
+time left: 155566.0 seconds
+time left: 155506.0 seconds
+time left: 155446.0 seconds
+58.8866
+turning on the fridge
+time left: 155386.0 seconds
+time left: 155326.0 seconds
+time left: 155266.0 seconds
+time left: 155206.0 seconds
+time left: 155146.0 seconds
+58.8866
+turning on the fridge
+time left: 155086.0 seconds
+time left: 155026.0 seconds
+time left: 154966.0 seconds
+time left: 154906.0 seconds
+time left: 154846.0 seconds
+58.8866
+turning on the fridge
+time left: 154786.0 seconds
+time left: 154726.0 seconds
+time left: 154666.0 seconds
+time left: 154606.0 seconds
+time left: 154546.0 seconds
+59.0
+turning on the fridge
+time left: 154485.0 seconds
+time left: 154425.0 seconds
+time left: 154365.0 seconds
+time left: 154305.0 seconds
+time left: 154245.0 seconds
+59.0
+turning on the fridge
+time left: 154185.0 seconds
+time left: 154125.0 seconds
+time left: 154065.0 seconds
+time left: 154005.0 seconds
+time left: 153945.0 seconds
+59.0
+turning on the fridge
+time left: 153885.0 seconds
+time left: 153825.0 seconds
+time left: 153765.0 seconds
+time left: 153705.0 seconds
+time left: 153645.0 seconds
+59.0
+turning on the fridge
+time left: 153585.0 seconds
+time left: 153525.0 seconds
+time left: 153465.0 seconds
+time left: 153405.0 seconds
+time left: 153345.0 seconds
+59.1116
+turning on the fridge
+time left: 153285.0 seconds
+time left: 153225.0 seconds
+time left: 153165.0 seconds
+time left: 153105.0 seconds
+time left: 153045.0 seconds
+59.1116
+turning on the fridge
+time left: 152984.0 seconds
+time left: 152924.0 seconds
+time left: 152864.0 seconds
+time left: 152804.0 seconds
+time left: 152744.0 seconds
+59.1116
+turning on the fridge
+time left: 152684.0 seconds
+time left: 152624.0 seconds
+time left: 152564.0 seconds
+time left: 152504.0 seconds
+time left: 152444.0 seconds
+59.1116
+turning on the fridge
+time left: 152384.0 seconds
+time left: 152324.0 seconds
+time left: 152264.0 seconds
+time left: 152204.0 seconds
+time left: 152144.0 seconds
+59.225
+turning on the fridge
+time left: 152084.0 seconds
+time left: 152024.0 seconds
+time left: 151964.0 seconds
+time left: 151903.0 seconds
+time left: 151843.0 seconds
+59.225
+turning on the fridge
+time left: 151783.0 seconds
+time left: 151723.0 seconds
+time left: 151663.0 seconds
+time left: 151603.0 seconds
+time left: 151543.0 seconds
+59.225
+turning on the fridge
+time left: 151483.0 seconds
+time left: 151423.0 seconds
+time left: 151363.0 seconds
+time left: 151303.0 seconds
+time left: 151243.0 seconds
+59.225
+turning on the fridge
+time left: 151183.0 seconds
+time left: 151123.0 seconds
+time left: 151063.0 seconds
+time left: 151003.0 seconds
+time left: 150943.0 seconds
+59.225
+turning on the fridge
+time left: 150883.0 seconds
+time left: 150823.0 seconds
+time left: 150762.0 seconds
+time left: 150702.0 seconds
+time left: 150642.0 seconds
+59.3366
+turning on the fridge
+time left: 150582.0 seconds
+time left: 150522.0 seconds
+time left: 150462.0 seconds
+time left: 150402.0 seconds
+time left: 150342.0 seconds
+59.3366
+turning on the fridge
+time left: 150282.0 seconds
+time left: 150222.0 seconds
+time left: 150162.0 seconds
+time left: 150102.0 seconds
+time left: 150042.0 seconds
+59.3366
+turning on the fridge
+time left: 149982.0 seconds
+time left: 149922.0 seconds
+time left: 149862.0 seconds
+time left: 149802.0 seconds
+time left: 149742.0 seconds
+59.45
+turning on the fridge
+time left: 149682.0 seconds
+time left: 149622.0 seconds
+time left: 149561.0 seconds
+time left: 149501.0 seconds
+time left: 149441.0 seconds
+59.45
+turning on the fridge
+time left: 149381.0 seconds
+time left: 149321.0 seconds
+time left: 149261.0 seconds
+time left: 149201.0 seconds
+time left: 149141.0 seconds
+59.45
+turning on the fridge
+time left: 149081.0 seconds
+time left: 149021.0 seconds
+time left: 148961.0 seconds
+time left: 148901.0 seconds
+time left: 148841.0 seconds
+59.45
+turning on the fridge
+time left: 148781.0 seconds
+time left: 148721.0 seconds
+time left: 148661.0 seconds
+time left: 148601.0 seconds
+time left: 148541.0 seconds
+59.45
+turning on the fridge
+time left: 148481.0 seconds
+time left: 148421.0 seconds
+time left: 148361.0 seconds
+time left: 148300.0 seconds
+time left: 148240.0 seconds
+59.5616
+turning on the fridge
+time left: 148180.0 seconds
+time left: 148120.0 seconds
+time left: 148060.0 seconds
+time left: 148000.0 seconds
+time left: 147940.0 seconds
+59.5616
+turning on the fridge
+time left: 147880.0 seconds
+time left: 147820.0 seconds
+time left: 147760.0 seconds
+time left: 147700.0 seconds
+time left: 147640.0 seconds
+59.675
+turning on the fridge
+time left: 147580.0 seconds
+time left: 147520.0 seconds
+time left: 147460.0 seconds
+time left: 147400.0 seconds
+time left: 147340.0 seconds
+59.675
+turning on the fridge
+time left: 147280.0 seconds
+time left: 147220.0 seconds
+time left: 147160.0 seconds
+time left: 147099.0 seconds
+time left: 147039.0 seconds
+59.675
+turning on the fridge
+time left: 146979.0 seconds
+time left: 146919.0 seconds
+time left: 146859.0 seconds
+time left: 146799.0 seconds
+time left: 146739.0 seconds
+59.7866
+turning on the fridge
+time left: 146679.0 seconds
+time left: 146619.0 seconds
+time left: 146559.0 seconds
+time left: 146499.0 seconds
+time left: 146439.0 seconds
+59.675
+turning on the fridge
+time left: 146379.0 seconds
+time left: 146319.0 seconds
+time left: 146259.0 seconds
+time left: 146199.0 seconds
+time left: 146139.0 seconds
+59.7866
+turning on the fridge
+time left: 146079.0 seconds
+time left: 146019.0 seconds
+time left: 145959.0 seconds
+time left: 145899.0 seconds
+time left: 145839.0 seconds
+59.7866
+turning on the fridge
+time left: 145779.0 seconds
+time left: 145718.0 seconds
+time left: 145658.0 seconds
+time left: 145598.0 seconds
+time left: 145538.0 seconds
+59.7866
+turning on the fridge
+time left: 145478.0 seconds
+time left: 145418.0 seconds
+time left: 145358.0 seconds
+time left: 145298.0 seconds
+time left: 145238.0 seconds
+59.9
+turning on the fridge
+time left: 145178.0 seconds
+time left: 145118.0 seconds
+time left: 145058.0 seconds
+time left: 144998.0 seconds
+time left: 144938.0 seconds
+59.9
+turning on the fridge
+time left: 144878.0 seconds
+time left: 144818.0 seconds
+time left: 144758.0 seconds
+time left: 144698.0 seconds
+time left: 144638.0 seconds
+59.9
+turning on the fridge
+time left: 144577.0 seconds
+time left: 144517.0 seconds
+time left: 144457.0 seconds
+time left: 144397.0 seconds
+time left: 144337.0 seconds
+59.9
+turning on the fridge
+time left: 144277.0 seconds
+time left: 144217.0 seconds
+time left: 144157.0 seconds
+time left: 144097.0 seconds
+time left: 144037.0 seconds
+59.9
+turning on the fridge
+time left: 143977.0 seconds
+time left: 143917.0 seconds
+time left: 143857.0 seconds
+time left: 143797.0 seconds
+time left: 143737.0 seconds
+60.0116
+turning on the fridge
+time left: 143677.0 seconds
+time left: 143617.0 seconds
+time left: 143556.0 seconds
+time left: 143496.0 seconds
+time left: 143436.0 seconds
+60.0116
+turning on the fridge
+time left: 143376.0 seconds
+time left: 143316.0 seconds
+time left: 143256.0 seconds
+time left: 143196.0 seconds
+time left: 143136.0 seconds
+60.125
+turning on the fridge
+time left: 143076.0 seconds
+time left: 143016.0 seconds
+time left: 142956.0 seconds
+time left: 142896.0 seconds
+time left: 142836.0 seconds
+60.125
+turning on the fridge
+time left: 142776.0 seconds
+time left: 142716.0 seconds
+time left: 142656.0 seconds
+time left: 142596.0 seconds
+time left: 142536.0 seconds
+60.125
+turning on the fridge
+time left: 142476.0 seconds
+time left: 142416.0 seconds
+time left: 142355.0 seconds
+time left: 142295.0 seconds
+time left: 142235.0 seconds
+60.125
+turning on the fridge
+time left: 142175.0 seconds
+time left: 142115.0 seconds
+time left: 142055.0 seconds
+time left: 141995.0 seconds
+time left: 141935.0 seconds
+60.125
+turning on the fridge
+time left: 141875.0 seconds
+time left: 141815.0 seconds
+time left: 141755.0 seconds
+time left: 141695.0 seconds
+time left: 141635.0 seconds
+60.2366
+turning on the fridge
+time left: 141575.0 seconds
+time left: 141515.0 seconds
+time left: 141455.0 seconds
+time left: 141395.0 seconds
+time left: 141335.0 seconds
+60.2366
+turning on the fridge
+time left: 141275.0 seconds
+time left: 141214.0 seconds
+time left: 141154.0 seconds
+time left: 141094.0 seconds
+time left: 141034.0 seconds
+60.2366
+turning on the fridge
+time left: 140974.0 seconds
+time left: 140914.0 seconds
+time left: 140854.0 seconds
+time left: 140794.0 seconds
+time left: 140734.0 seconds
+60.2366
+turning on the fridge
+time left: 140674.0 seconds
+time left: 140614.0 seconds
+time left: 140554.0 seconds
+time left: 140494.0 seconds
+time left: 140434.0 seconds
+60.35
+turning on the fridge
+time left: 140374.0 seconds
+time left: 140314.0 seconds
+time left: 140254.0 seconds
+time left: 140194.0 seconds
+time left: 140134.0 seconds
+60.2366
+turning on the fridge
+time left: 140074.0 seconds
+time left: 140014.0 seconds
+time left: 139954.0 seconds
+time left: 139894.0 seconds
+time left: 139834.0 seconds
+60.35
+turning on the fridge
+time left: 139774.0 seconds
+time left: 139713.0 seconds
+time left: 139653.0 seconds
+time left: 139593.0 seconds
+time left: 139533.0 seconds
+60.35
+turning on the fridge
+time left: 139473.0 seconds
+time left: 139413.0 seconds
+time left: 139353.0 seconds
+time left: 139293.0 seconds
+time left: 139233.0 seconds
+60.35
+turning on the fridge
+time left: 139173.0 seconds
+time left: 139113.0 seconds
+time left: 139053.0 seconds
+time left: 138993.0 seconds
+time left: 138933.0 seconds
+60.4616
+turning on the fridge
+time left: 138873.0 seconds
+time left: 138813.0 seconds
+time left: 138753.0 seconds
+time left: 138693.0 seconds
+time left: 138633.0 seconds
+60.35
+turning on the fridge
+time left: 138573.0 seconds
+time left: 138513.0 seconds
+time left: 138453.0 seconds
+time left: 138393.0 seconds
+time left: 138333.0 seconds
+60.4616
+turning on the fridge
+time left: 138273.0 seconds
+time left: 138213.0 seconds
+time left: 138153.0 seconds
+time left: 138093.0 seconds
+time left: 138033.0 seconds
+60.4616
+turning on the fridge
+time left: 137973.0 seconds
+time left: 137913.0 seconds
+time left: 137853.0 seconds
+time left: 137793.0 seconds
+time left: 137733.0 seconds
+60.4616
+turning on the fridge
+time left: 137673.0 seconds
+time left: 137613.0 seconds
+time left: 137553.0 seconds
+time left: 137493.0 seconds
+time left: 137433.0 seconds
+60.575
+turning on the fridge
+time left: 137373.0 seconds
+time left: 137313.0 seconds
+time left: 137253.0 seconds
+time left: 137192.0 seconds
+time left: 137132.0 seconds
+60.575
+turning on the fridge
+time left: 137072.0 seconds
+time left: 137012.0 seconds
+time left: 136952.0 seconds
+time left: 136892.0 seconds
+time left: 136832.0 seconds
+60.4616
+turning on the fridge
+time left: 136772.0 seconds
+time left: 136712.0 seconds
+time left: 136652.0 seconds
+time left: 136592.0 seconds
+time left: 136532.0 seconds
+60.575
+turning on the fridge
+time left: 136472.0 seconds
+time left: 136412.0 seconds
+time left: 136352.0 seconds
+time left: 136292.0 seconds
+time left: 136232.0 seconds
+60.575
+turning on the fridge
+time left: 136172.0 seconds
+time left: 136112.0 seconds
+time left: 136052.0 seconds
+time left: 135992.0 seconds
+time left: 135932.0 seconds
+60.575
+turning on the fridge
+time left: 135872.0 seconds
+time left: 135812.0 seconds
+time left: 135752.0 seconds
+time left: 135692.0 seconds
+time left: 135632.0 seconds
+60.575
+turning on the fridge
+time left: 135572.0 seconds
+time left: 135511.0 seconds
+time left: 135451.0 seconds
+time left: 135391.0 seconds
+time left: 135331.0 seconds
+60.575
+turning on the fridge
+time left: 135271.0 seconds
+time left: 135211.0 seconds
+time left: 135151.0 seconds
+time left: 135091.0 seconds
+time left: 135031.0 seconds
+60.575
+turning on the fridge
+time left: 134971.0 seconds
+time left: 134911.0 seconds
+time left: 134851.0 seconds
+time left: 134791.0 seconds
+time left: 134731.0 seconds
+60.6866
+turning on the fridge
+time left: 134671.0 seconds
+time left: 134611.0 seconds
+time left: 134551.0 seconds
+time left: 134491.0 seconds
+time left: 134431.0 seconds
+60.6866
+turning on the fridge
+time left: 134371.0 seconds
+time left: 134311.0 seconds
+time left: 134251.0 seconds
+time left: 134191.0 seconds
+time left: 134131.0 seconds
+60.6866
+turning on the fridge
+time left: 134071.0 seconds
+time left: 134011.0 seconds
+time left: 133951.0 seconds
+time left: 133890.0 seconds
+time left: 133830.0 seconds
+60.6866
+turning on the fridge
+time left: 133770.0 seconds
+time left: 133710.0 seconds
+time left: 133650.0 seconds
+time left: 133590.0 seconds
+time left: 133530.0 seconds
+60.6866
+turning on the fridge
+time left: 133470.0 seconds
+time left: 133410.0 seconds
+time left: 133350.0 seconds
+time left: 133290.0 seconds
+time left: 133230.0 seconds
+60.6866
+turning on the fridge
+time left: 133170.0 seconds
+time left: 133110.0 seconds
+time left: 133050.0 seconds
+time left: 132990.0 seconds
+time left: 132930.0 seconds
+60.6866
+turning on the fridge
+time left: 132870.0 seconds
+time left: 132810.0 seconds
+time left: 132750.0 seconds
+time left: 132690.0 seconds
+time left: 132630.0 seconds
+60.6866
+turning on the fridge
+time left: 132569.0 seconds
+time left: 132509.0 seconds
+time left: 132449.0 seconds
+time left: 132389.0 seconds
+time left: 132329.0 seconds
+60.6866
+turning on the fridge
+time left: 132269.0 seconds
+time left: 132209.0 seconds
+time left: 132149.0 seconds
+time left: 132089.0 seconds
+time left: 132029.0 seconds
+60.8
+turning on the fridge
+time left: 131969.0 seconds
+time left: 131909.0 seconds
+time left: 131849.0 seconds
+time left: 131789.0 seconds
+time left: 131729.0 seconds
+60.6866
+turning on the fridge
+time left: 131669.0 seconds
+time left: 131609.0 seconds
+time left: 131549.0 seconds
+time left: 131489.0 seconds
+time left: 131429.0 seconds
+60.8
+turning on the fridge
+time left: 131369.0 seconds
+time left: 131309.0 seconds
+time left: 131248.0 seconds
+time left: 131188.0 seconds
+time left: 131128.0 seconds
+60.8
+turning on the fridge
+time left: 131068.0 seconds
+time left: 131008.0 seconds
+time left: 130948.0 seconds
+time left: 130888.0 seconds
+time left: 130828.0 seconds
+60.6866
+turning on the fridge
+time left: 130768.0 seconds
+time left: 130708.0 seconds
+time left: 130648.0 seconds
+time left: 130588.0 seconds
+time left: 130528.0 seconds
+60.8
+turning on the fridge
+time left: 130468.0 seconds
+time left: 130408.0 seconds
+time left: 130348.0 seconds
+time left: 130288.0 seconds
+time left: 130228.0 seconds
+60.8
+turning on the fridge
+time left: 130167.0 seconds
+time left: 130107.0 seconds
+time left: 130047.0 seconds
+time left: 129987.0 seconds
+time left: 129927.0 seconds
+60.8
+turning on the fridge
+time left: 129867.0 seconds
+time left: 129807.0 seconds
+time left: 129747.0 seconds
+time left: 129687.0 seconds
+time left: 129627.0 seconds
+60.8
+turning on the fridge
+time left: 129567.0 seconds
+time left: 129507.0 seconds
+time left: 129447.0 seconds
+time left: 129387.0 seconds
+time left: 129327.0 seconds
+60.8
+turning on the fridge
+time left: 129267.0 seconds
+time left: 129207.0 seconds
+time left: 129147.0 seconds
+time left: 129087.0 seconds
+time left: 129026.0 seconds
+60.8
+turning on the fridge
+time left: 128966.0 seconds
+time left: 128906.0 seconds
+time left: 128846.0 seconds
+time left: 128786.0 seconds
+time left: 128726.0 seconds
+60.8
+turning on the fridge
+time left: 128666.0 seconds
+time left: 128606.0 seconds
+time left: 128546.0 seconds
+time left: 128486.0 seconds
+time left: 128426.0 seconds
+60.8
+turning on the fridge
+time left: 128366.0 seconds
+time left: 128306.0 seconds
+time left: 128246.0 seconds
+time left: 128186.0 seconds
+time left: 128126.0 seconds
+60.8
+turning on the fridge
+time left: 128066.0 seconds
+time left: 128006.0 seconds
+time left: 127945.0 seconds
+time left: 127885.0 seconds
+time left: 127825.0 seconds
+60.8
+turning on the fridge
+time left: 127765.0 seconds
+time left: 127705.0 seconds
+time left: 127645.0 seconds
+time left: 127585.0 seconds
+time left: 127525.0 seconds
+60.8
+turning on the fridge
+time left: 127465.0 seconds
+time left: 127405.0 seconds
+time left: 127345.0 seconds
+time left: 127285.0 seconds
+time left: 127225.0 seconds
+60.8
+turning on the fridge
+time left: 127165.0 seconds
+time left: 127105.0 seconds
+time left: 127045.0 seconds
+time left: 126985.0 seconds
+time left: 126925.0 seconds
+60.8
+turning on the fridge
+time left: 126864.0 seconds
+time left: 126804.0 seconds
+time left: 126744.0 seconds
+time left: 126684.0 seconds
+time left: 126624.0 seconds
+60.8
+turning on the fridge
+time left: 126564.0 seconds
+time left: 126504.0 seconds
+time left: 126444.0 seconds
+time left: 126384.0 seconds
+time left: 126324.0 seconds
+60.8
+turning on the fridge
+time left: 126264.0 seconds
+time left: 126204.0 seconds
+time left: 126144.0 seconds
+time left: 126084.0 seconds
+time left: 126024.0 seconds
+60.8
+turning on the fridge
+time left: 125964.0 seconds
+time left: 125904.0 seconds
+time left: 125844.0 seconds
+time left: 125784.0 seconds
+time left: 125723.0 seconds
+60.8
+turning on the fridge
+time left: 125663.0 seconds
+time left: 125603.0 seconds
+time left: 125543.0 seconds
+time left: 125483.0 seconds
+time left: 125423.0 seconds
+60.8
+turning on the fridge
+time left: 125363.0 seconds
+time left: 125303.0 seconds
+time left: 125243.0 seconds
+time left: 125183.0 seconds
+time left: 125123.0 seconds
+60.8
+turning on the fridge
+time left: 125063.0 seconds
+time left: 125003.0 seconds
+time left: 124943.0 seconds
+time left: 124883.0 seconds
+time left: 124823.0 seconds
+60.8
+turning on the fridge
+time left: 124763.0 seconds
+time left: 124703.0 seconds
+time left: 124642.0 seconds
+time left: 124582.0 seconds
+time left: 124522.0 seconds
+60.8
+turning on the fridge
+time left: 124462.0 seconds
+time left: 124402.0 seconds
+time left: 124342.0 seconds
+time left: 124282.0 seconds
+time left: 124222.0 seconds
+60.8
+turning on the fridge
+time left: 124162.0 seconds
+time left: 124102.0 seconds
+time left: 124042.0 seconds
+time left: 123982.0 seconds
+time left: 123922.0 seconds
+60.8
+turning on the fridge
+time left: 123862.0 seconds
+time left: 123802.0 seconds
+time left: 123742.0 seconds
+time left: 123682.0 seconds
+time left: 123622.0 seconds
+60.8
+turning on the fridge
+time left: 123562.0 seconds
+time left: 123502.0 seconds
+time left: 123442.0 seconds
+time left: 123382.0 seconds
+time left: 123322.0 seconds
+60.8
+turning on the fridge
+time left: 123262.0 seconds
+time left: 123202.0 seconds
+time left: 123142.0 seconds
+time left: 123082.0 seconds
+time left: 123022.0 seconds
+60.8
+turning on the fridge
+time left: 122962.0 seconds
+time left: 122901.0 seconds
+time left: 122841.0 seconds
+time left: 122781.0 seconds
+time left: 122721.0 seconds
+60.8
+turning on the fridge
+time left: 122661.0 seconds
+time left: 122601.0 seconds
+time left: 122541.0 seconds
+time left: 122481.0 seconds
+time left: 122421.0 seconds
+60.8
+turning on the fridge
+time left: 122361.0 seconds
+time left: 122301.0 seconds
+time left: 122241.0 seconds
+time left: 122181.0 seconds
+time left: 122121.0 seconds
+60.8
+turning on the fridge
+time left: 122061.0 seconds
+time left: 122001.0 seconds
+time left: 121941.0 seconds
+time left: 121881.0 seconds
+time left: 121821.0 seconds
+60.8
+turning on the fridge
+time left: 121761.0 seconds
+time left: 121701.0 seconds
+time left: 121641.0 seconds
+time left: 121580.0 seconds
+time left: 121520.0 seconds
+60.8
+turning on the fridge
+time left: 121460.0 seconds
+time left: 121400.0 seconds
+time left: 121340.0 seconds
+time left: 121280.0 seconds
+time left: 121220.0 seconds
+60.8
+turning on the fridge
+time left: 121160.0 seconds
+time left: 121100.0 seconds
+time left: 121040.0 seconds
+time left: 120980.0 seconds
+time left: 120920.0 seconds
+60.8
+turning on the fridge
+time left: 120860.0 seconds
+time left: 120800.0 seconds
+time left: 120740.0 seconds
+time left: 120680.0 seconds
+time left: 120620.0 seconds
+60.8
+turning on the fridge
+time left: 120560.0 seconds
+time left: 120500.0 seconds
+time left: 120440.0 seconds
+time left: 120380.0 seconds
+time left: 120320.0 seconds
+60.8
+turning on the fridge
+time left: 120259.0 seconds
+time left: 120199.0 seconds
+time left: 120139.0 seconds
+time left: 120079.0 seconds
+time left: 120019.0 seconds
+60.8
+turning on the fridge
+time left: 119959.0 seconds
+time left: 119899.0 seconds
+time left: 119839.0 seconds
+time left: 119779.0 seconds
+time left: 119719.0 seconds
+60.6866
+turning on the fridge
+time left: 119659.0 seconds
+time left: 119599.0 seconds
+time left: 119539.0 seconds
+time left: 119479.0 seconds
+time left: 119419.0 seconds
+60.8
+turning on the fridge
+time left: 119359.0 seconds
+time left: 119299.0 seconds
+time left: 119239.0 seconds
+time left: 119179.0 seconds
+time left: 119119.0 seconds
+60.6866
+turning on the fridge
+time left: 119059.0 seconds
+time left: 118999.0 seconds
+time left: 118939.0 seconds
+time left: 118879.0 seconds
+time left: 118819.0 seconds
+60.6866
+turning on the fridge
+time left: 118759.0 seconds
+time left: 118699.0 seconds
+time left: 118639.0 seconds
+time left: 118579.0 seconds
+time left: 118519.0 seconds
+60.6866
+turning on the fridge
+time left: 118458.0 seconds
+time left: 118398.0 seconds
+time left: 118338.0 seconds
+time left: 118278.0 seconds
+time left: 118218.0 seconds
+60.6866
+turning on the fridge
+time left: 118158.0 seconds
+time left: 118098.0 seconds
+time left: 118038.0 seconds
+time left: 117978.0 seconds
+time left: 117918.0 seconds
+60.6866
+turning on the fridge
+time left: 117858.0 seconds
+time left: 117798.0 seconds
+time left: 117738.0 seconds
+time left: 117678.0 seconds
+time left: 117618.0 seconds
+60.6866
+turning on the fridge
+time left: 117558.0 seconds
+time left: 117498.0 seconds
+time left: 117438.0 seconds
+time left: 117378.0 seconds
+time left: 117318.0 seconds
+60.6866
+turning on the fridge
+time left: 117258.0 seconds
+time left: 117198.0 seconds
+time left: 117138.0 seconds
+time left: 117078.0 seconds
+time left: 117018.0 seconds
+60.6866
+turning on the fridge
+time left: 116957.0 seconds
+time left: 116897.0 seconds
+time left: 116837.0 seconds
+time left: 116777.0 seconds
+time left: 116717.0 seconds
+60.6866
+turning on the fridge
+time left: 116657.0 seconds
+time left: 116597.0 seconds
+time left: 116537.0 seconds
+time left: 116477.0 seconds
+time left: 116417.0 seconds
+60.575
+turning on the fridge
+time left: 116357.0 seconds
+time left: 116297.0 seconds
+time left: 116237.0 seconds
+time left: 116177.0 seconds
+time left: 116117.0 seconds
+60.6866
+turning on the fridge
+time left: 116057.0 seconds
+time left: 115997.0 seconds
+time left: 115937.0 seconds
+time left: 115877.0 seconds
+time left: 115817.0 seconds
+60.575
+turning on the fridge
+time left: 115757.0 seconds
+time left: 115697.0 seconds
+time left: 115637.0 seconds
+time left: 115577.0 seconds
+time left: 115517.0 seconds
+60.575
+turning on the fridge
+time left: 115457.0 seconds
+time left: 115397.0 seconds
+time left: 115336.0 seconds
+time left: 115276.0 seconds
+time left: 115216.0 seconds
+60.575
+turning on the fridge
+time left: 115156.0 seconds
+time left: 115096.0 seconds
+time left: 115036.0 seconds
+time left: 114976.0 seconds
+time left: 114916.0 seconds
+60.575
+turning on the fridge
+time left: 114856.0 seconds
+time left: 114796.0 seconds
+time left: 114736.0 seconds
+time left: 114676.0 seconds
+time left: 114616.0 seconds
+60.575
+turning on the fridge
+time left: 114556.0 seconds
+time left: 114496.0 seconds
+time left: 114436.0 seconds
+time left: 114376.0 seconds
+time left: 114316.0 seconds
+60.575
+turning on the fridge
+time left: 114256.0 seconds
+time left: 114196.0 seconds
+time left: 114136.0 seconds
+time left: 114076.0 seconds
+time left: 114016.0 seconds
+60.4616
+turning on the fridge
+time left: 113956.0 seconds
+time left: 113896.0 seconds
+time left: 113836.0 seconds
+time left: 113776.0 seconds
+time left: 113716.0 seconds
+60.4616
+turning on the fridge
+time left: 113656.0 seconds
+time left: 113596.0 seconds
+time left: 113536.0 seconds
+time left: 113476.0 seconds
+time left: 113415.0 seconds
+60.575
+turning on the fridge
+time left: 113355.0 seconds
+time left: 113295.0 seconds
+time left: 113235.0 seconds
+time left: 113175.0 seconds
+time left: 113115.0 seconds
+60.4616
+turning on the fridge
+time left: 113055.0 seconds
+time left: 112995.0 seconds
+time left: 112935.0 seconds
+time left: 112875.0 seconds
+time left: 112815.0 seconds
+60.4616
+turning on the fridge
+time left: 112755.0 seconds
+time left: 112695.0 seconds
+time left: 112635.0 seconds
+time left: 112575.0 seconds
+time left: 112515.0 seconds
+60.4616
+turning on the fridge
+time left: 112455.0 seconds
+time left: 112395.0 seconds
+time left: 112335.0 seconds
+time left: 112275.0 seconds
+time left: 112215.0 seconds
+60.4616
+turning on the fridge
+time left: 112155.0 seconds
+time left: 112095.0 seconds
+time left: 112035.0 seconds
+time left: 111975.0 seconds
+time left: 111915.0 seconds
+60.35
+turning on the fridge
+time left: 111855.0 seconds
+time left: 111795.0 seconds
+time left: 111735.0 seconds
+time left: 111675.0 seconds
+time left: 111615.0 seconds
+60.4616
+turning on the fridge
+time left: 111555.0 seconds
+time left: 111495.0 seconds
+time left: 111434.0 seconds
+time left: 111374.0 seconds
+time left: 111314.0 seconds
+60.35
+turning on the fridge
+time left: 111254.0 seconds
+time left: 111194.0 seconds
+time left: 111134.0 seconds
+time left: 111074.0 seconds
+time left: 111014.0 seconds
+60.35
+turning on the fridge
+time left: 110954.0 seconds
+time left: 110894.0 seconds
+time left: 110834.0 seconds
+time left: 110774.0 seconds
+time left: 110714.0 seconds
+60.35
+turning on the fridge
+time left: 110654.0 seconds
+time left: 110594.0 seconds
+time left: 110534.0 seconds
+time left: 110474.0 seconds
+time left: 110414.0 seconds
+60.35
+turning on the fridge
+time left: 110354.0 seconds
+time left: 110294.0 seconds
+time left: 110234.0 seconds
+time left: 110174.0 seconds
+time left: 110114.0 seconds
+60.35
+turning on the fridge
+time left: 110054.0 seconds
+time left: 109993.0 seconds
+time left: 109933.0 seconds
+time left: 109873.0 seconds
+time left: 109813.0 seconds
+60.2366
+turning on the fridge
+time left: 109753.0 seconds
+time left: 109693.0 seconds
+time left: 109633.0 seconds
+time left: 109573.0 seconds
+time left: 109513.0 seconds
+60.2366
+turning on the fridge
+time left: 109453.0 seconds
+time left: 109393.0 seconds
+time left: 109333.0 seconds
+time left: 109273.0 seconds
+time left: 109213.0 seconds
+60.2366
+turning on the fridge
+time left: 109153.0 seconds
+time left: 109093.0 seconds
+time left: 109033.0 seconds
+time left: 108973.0 seconds
+time left: 108913.0 seconds
+60.2366
+turning on the fridge
+time left: 108853.0 seconds
+time left: 108793.0 seconds
+time left: 108732.0 seconds
+time left: 108672.0 seconds
+time left: 108612.0 seconds
+60.2366
+turning on the fridge
+time left: 108552.0 seconds
+time left: 108492.0 seconds
+time left: 108432.0 seconds
+time left: 108372.0 seconds
+time left: 108312.0 seconds
+60.2366
+turning on the fridge
+time left: 108252.0 seconds
+time left: 108192.0 seconds
+time left: 108132.0 seconds
+time left: 108072.0 seconds
+time left: 108012.0 seconds
+60.125
+turning on the fridge
+time left: 107952.0 seconds
+time left: 107892.0 seconds
+time left: 107832.0 seconds
+time left: 107772.0 seconds
+time left: 107712.0 seconds
+60.2366
+turning on the fridge
+time left: 107652.0 seconds
+time left: 107592.0 seconds
+time left: 107532.0 seconds
+time left: 107472.0 seconds
+time left: 107412.0 seconds
+60.125
+turning on the fridge
+time left: 107351.0 seconds
+time left: 107291.0 seconds
+time left: 107231.0 seconds
+time left: 107171.0 seconds
+time left: 107111.0 seconds
+60.125
+turning on the fridge
+time left: 107051.0 seconds
+time left: 106991.0 seconds
+time left: 106931.0 seconds
+time left: 106871.0 seconds
+time left: 106811.0 seconds
+60.125
+turning on the fridge
+time left: 106751.0 seconds
+time left: 106691.0 seconds
+time left: 106631.0 seconds
+time left: 106571.0 seconds
+time left: 106511.0 seconds
+60.125
+turning on the fridge
+time left: 106451.0 seconds
+time left: 106391.0 seconds
+time left: 106331.0 seconds
+time left: 106271.0 seconds
+time left: 106211.0 seconds
+60.0116
+turning on the fridge
+time left: 106151.0 seconds
+time left: 106091.0 seconds
+time left: 106031.0 seconds
+time left: 105971.0 seconds
+time left: 105910.0 seconds
+60.0116
+turning on the fridge
+time left: 105850.0 seconds
+time left: 105790.0 seconds
+time left: 105730.0 seconds
+time left: 105670.0 seconds
+time left: 105610.0 seconds
+60.0116
+turning on the fridge
+time left: 105550.0 seconds
+time left: 105490.0 seconds
+time left: 105430.0 seconds
+time left: 105370.0 seconds
+time left: 105310.0 seconds
+60.0116
+turning on the fridge
+time left: 105250.0 seconds
+time left: 105190.0 seconds
+time left: 105130.0 seconds
+time left: 105070.0 seconds
+time left: 105010.0 seconds
+60.0116
+turning on the fridge
+time left: 104950.0 seconds
+time left: 104890.0 seconds
+time left: 104829.0 seconds
+time left: 104769.0 seconds
+time left: 104709.0 seconds
+60.0116
+turning on the fridge
+time left: 104649.0 seconds
+time left: 104589.0 seconds
+time left: 104529.0 seconds
+time left: 104469.0 seconds
+time left: 104409.0 seconds
+59.9
+turning on the fridge
+time left: 104349.0 seconds
+time left: 104289.0 seconds
+time left: 104229.0 seconds
+time left: 104169.0 seconds
+time left: 104109.0 seconds
+59.9
+turning on the fridge
+time left: 104049.0 seconds
+time left: 103989.0 seconds
+time left: 103929.0 seconds
+time left: 103869.0 seconds
+time left: 103809.0 seconds
+59.7866
+turning on the fridge
+time left: 103749.0 seconds
+time left: 103689.0 seconds
+time left: 103629.0 seconds
+time left: 103569.0 seconds
+time left: 103509.0 seconds
+59.7866
+turning on the fridge
+time left: 103449.0 seconds
+time left: 103388.0 seconds
+time left: 103328.0 seconds
+time left: 103268.0 seconds
+time left: 103208.0 seconds
+59.7866
+turning on the fridge
+time left: 103148.0 seconds
+time left: 103088.0 seconds
+time left: 103028.0 seconds
+time left: 102968.0 seconds
+time left: 102908.0 seconds
+59.7866
+turning on the fridge
+time left: 102848.0 seconds
+time left: 102788.0 seconds
+time left: 102728.0 seconds
+time left: 102668.0 seconds
+time left: 102608.0 seconds
+59.7866
+turning on the fridge
+time left: 102548.0 seconds
+time left: 102488.0 seconds
+time left: 102428.0 seconds
+time left: 102368.0 seconds
+time left: 102308.0 seconds
+59.7866
+turning on the fridge
+time left: 102248.0 seconds
+time left: 102188.0 seconds
+time left: 102128.0 seconds
+time left: 102068.0 seconds
+time left: 102007.0 seconds
+59.7866
+turning on the fridge
+time left: 101947.0 seconds
+time left: 101887.0 seconds
+time left: 101827.0 seconds
+time left: 101767.0 seconds
+time left: 101707.0 seconds
+59.7866
+turning on the fridge
+time left: 101647.0 seconds
+time left: 101587.0 seconds
+time left: 101527.0 seconds
+time left: 101467.0 seconds
+time left: 101407.0 seconds
+59.675
+turning on the fridge
+time left: 101347.0 seconds
+time left: 101287.0 seconds
+time left: 101227.0 seconds
+time left: 101167.0 seconds
+time left: 101107.0 seconds
+59.675
+turning on the fridge
+time left: 101047.0 seconds
+time left: 100987.0 seconds
+time left: 100927.0 seconds
+time left: 100867.0 seconds
+time left: 100807.0 seconds
+59.675
+turning on the fridge
+time left: 100747.0 seconds
+time left: 100687.0 seconds
+time left: 100627.0 seconds
+time left: 100567.0 seconds
+time left: 100507.0 seconds
+59.675
+turning on the fridge
+time left: 100447.0 seconds
+time left: 100387.0 seconds
+time left: 100327.0 seconds
+time left: 100267.0 seconds
+time left: 100207.0 seconds
+59.675
+turning on the fridge
+time left: 100147.0 seconds
+time left: 100087.0 seconds
+time left: 100027.0 seconds
+time left: 99966.0 seconds
+time left: 99906.0 seconds
+59.675
+turning on the fridge
+time left: 99846.0 seconds
+time left: 99786.0 seconds
+time left: 99726.0 seconds
+time left: 99666.0 seconds
+time left: 99606.0 seconds
+59.5616
+turning on the fridge
+time left: 99546.0 seconds
+time left: 99486.0 seconds
+time left: 99426.0 seconds
+time left: 99366.0 seconds
+time left: 99306.0 seconds
+59.5616
+turning on the fridge
+time left: 99246.0 seconds
+time left: 99186.0 seconds
+time left: 99126.0 seconds
+time left: 99066.0 seconds
+time left: 99006.0 seconds
+59.675
+turning on the fridge
+time left: 98946.0 seconds
+time left: 98886.0 seconds
+time left: 98826.0 seconds
+time left: 98766.0 seconds
+time left: 98706.0 seconds
+59.5616
+turning on the fridge
+time left: 98646.0 seconds
+time left: 98585.0 seconds
+time left: 98525.0 seconds
+time left: 98465.0 seconds
+time left: 98405.0 seconds
+59.5616
+turning on the fridge
+time left: 98345.0 seconds
+time left: 98285.0 seconds
+time left: 98225.0 seconds
+time left: 98165.0 seconds
+time left: 98105.0 seconds
+59.5616
+turning on the fridge
+time left: 98045.0 seconds
+time left: 97985.0 seconds
+time left: 97925.0 seconds
+time left: 97865.0 seconds
+time left: 97805.0 seconds
+59.45
+turning on the fridge
+time left: 97745.0 seconds
+time left: 97685.0 seconds
+time left: 97625.0 seconds
+time left: 97565.0 seconds
+time left: 97505.0 seconds
+59.45
+turning on the fridge
+time left: 97445.0 seconds
+time left: 97385.0 seconds
+time left: 97325.0 seconds
+time left: 97265.0 seconds
+time left: 97205.0 seconds
+59.45
+turning on the fridge
+time left: 97145.0 seconds
+time left: 97085.0 seconds
+time left: 97024.0 seconds
+time left: 96964.0 seconds
+time left: 96904.0 seconds
+59.45
+turning on the fridge
+time left: 96844.0 seconds
+time left: 96784.0 seconds
+time left: 96724.0 seconds
+time left: 96664.0 seconds
+time left: 96604.0 seconds
+59.45
+turning on the fridge
+time left: 96544.0 seconds
+time left: 96484.0 seconds
+time left: 96424.0 seconds
+time left: 96364.0 seconds
+time left: 96304.0 seconds
+59.45
+turning on the fridge
+time left: 96244.0 seconds
+time left: 96184.0 seconds
+time left: 96124.0 seconds
+time left: 96064.0 seconds
+time left: 96004.0 seconds
+59.3366
+turning on the fridge
+time left: 95944.0 seconds
+time left: 95884.0 seconds
+time left: 95824.0 seconds
+time left: 95764.0 seconds
+time left: 95704.0 seconds
+59.3366
+turning on the fridge
+time left: 95644.0 seconds
+time left: 95583.0 seconds
+time left: 95523.0 seconds
+time left: 95463.0 seconds
+time left: 95403.0 seconds
+59.45
+turning on the fridge
+time left: 95343.0 seconds
+time left: 95283.0 seconds
+time left: 95223.0 seconds
+time left: 95163.0 seconds
+time left: 95103.0 seconds
+59.45
+turning on the fridge
+time left: 95043.0 seconds
+time left: 94983.0 seconds
+time left: 94923.0 seconds
+time left: 94863.0 seconds
+time left: 94803.0 seconds
+59.3366
+turning on the fridge
+time left: 94743.0 seconds
+time left: 94683.0 seconds
+time left: 94623.0 seconds
+time left: 94562.0 seconds
+time left: 94502.0 seconds
+59.3366
+turning on the fridge
+time left: 94442.0 seconds
+time left: 94382.0 seconds
+time left: 94322.0 seconds
+time left: 94262.0 seconds
+time left: 94202.0 seconds
+59.3366
+turning on the fridge
+time left: 94142.0 seconds
+time left: 94082.0 seconds
+time left: 94022.0 seconds
+time left: 93962.0 seconds
+time left: 93902.0 seconds
+59.3366
+turning on the fridge
+time left: 93842.0 seconds
+time left: 93782.0 seconds
+time left: 93722.0 seconds
+time left: 93662.0 seconds
+time left: 93602.0 seconds
+59.3366
+turning on the fridge
+time left: 93542.0 seconds
+time left: 93482.0 seconds
+time left: 93422.0 seconds
+time left: 93362.0 seconds
+time left: 93302.0 seconds
+59.3366
+turning on the fridge
+time left: 93242.0 seconds
+time left: 93181.0 seconds
+time left: 93121.0 seconds
+time left: 93061.0 seconds
+time left: 93001.0 seconds
+59.3366
+turning on the fridge
+time left: 92941.0 seconds
+time left: 92881.0 seconds
+time left: 92821.0 seconds
+time left: 92761.0 seconds
+time left: 92701.0 seconds
+59.225
+turning on the fridge
+time left: 92641.0 seconds
+time left: 92581.0 seconds
+time left: 92521.0 seconds
+time left: 92461.0 seconds
+time left: 92401.0 seconds
+59.225
+turning on the fridge
+time left: 92341.0 seconds
+time left: 92281.0 seconds
+time left: 92221.0 seconds
+time left: 92161.0 seconds
+time left: 92101.0 seconds
+59.225
+turning on the fridge
+time left: 92041.0 seconds
+time left: 91981.0 seconds
+time left: 91921.0 seconds
+time left: 91861.0 seconds
+time left: 91801.0 seconds
+59.225
+turning on the fridge
+time left: 91740.0 seconds
+time left: 91680.0 seconds
+time left: 91620.0 seconds
+time left: 91560.0 seconds
+time left: 91500.0 seconds
+59.225
+turning on the fridge
+time left: 91440.0 seconds
+time left: 91380.0 seconds
+time left: 91320.0 seconds
+time left: 91260.0 seconds
+time left: 91200.0 seconds
+59.225
+turning on the fridge
+time left: 91140.0 seconds
+time left: 91080.0 seconds
+time left: 91020.0 seconds
+time left: 90960.0 seconds
+time left: 90900.0 seconds
+59.225
+turning on the fridge
+time left: 90840.0 seconds
+time left: 90780.0 seconds
+time left: 90720.0 seconds
+time left: 90660.0 seconds
+time left: 90600.0 seconds
+59.225
+turning on the fridge
+time left: 90540.0 seconds
+time left: 90480.0 seconds
+time left: 90420.0 seconds
+time left: 90360.0 seconds
+time left: 90300.0 seconds
+59.225
+turning on the fridge
+time left: 90240.0 seconds
+time left: 90180.0 seconds
+time left: 90120.0 seconds
+time left: 90060.0 seconds
+time left: 90000.0 seconds
+59.225
+turning on the fridge
+time left: 89940.0 seconds
+time left: 89880.0 seconds
+time left: 89820.0 seconds
+time left: 89760.0 seconds
+time left: 89699.0 seconds
+59.1116
+turning on the fridge
+time left: 89639.0 seconds
+time left: 89579.0 seconds
+time left: 89519.0 seconds
+time left: 89459.0 seconds
+time left: 89399.0 seconds
+59.225
+turning on the fridge
+time left: 89339.0 seconds
+time left: 89279.0 seconds
+time left: 89219.0 seconds
+time left: 89159.0 seconds
+59.225
+turning on the fridge
+time left: 89099.0 seconds
+time left: 89039.0 seconds
+time left: 88979.0 seconds
+time left: 88919.0 seconds
+time left: 88859.0 seconds
+59.1116
+turning on the fridge
+time left: 88799.0 seconds
+time left: 88739.0 seconds
+time left: 88679.0 seconds
+time left: 88619.0 seconds
+time left: 88559.0 seconds
+59.225
+turning on the fridge
+time left: 88499.0 seconds
+time left: 88439.0 seconds
+time left: 88379.0 seconds
+time left: 88319.0 seconds
+time left: 88258.0 seconds
+59.225
+turning on the fridge
+time left: 88198.0 seconds
+time left: 88138.0 seconds
+time left: 88078.0 seconds
+time left: 88018.0 seconds
+time left: 87958.0 seconds
+59.225
+turning on the fridge
+time left: 87898.0 seconds
+time left: 87838.0 seconds
+time left: 87778.0 seconds
+time left: 87718.0 seconds
+time left: 87658.0 seconds
+59.225
+turning on the fridge
+time left: 87598.0 seconds
+time left: 87538.0 seconds
+time left: 87478.0 seconds
+time left: 87418.0 seconds
+time left: 87358.0 seconds
+59.225
+turning on the fridge
+time left: 87298.0 seconds
+time left: 87238.0 seconds
+time left: 87178.0 seconds
+time left: 87118.0 seconds
+time left: 87058.0 seconds
+59.225
+turning on the fridge
+time left: 86998.0 seconds
+time left: 86938.0 seconds
+time left: 86878.0 seconds
+time left: 86818.0 seconds
+time left: 86758.0 seconds
+59.1116
+turning on the fridge
+time left: 86697.0 seconds
+time left: 86637.0 seconds
+time left: 86577.0 seconds
+time left: 86517.0 seconds
+time left: 86457.0 seconds
+59.1116
+turning on the fridge
+time left: 86397.0 seconds
+time left: 86337.0 seconds
+time left: 86277.0 seconds
+time left: 86217.0 seconds
+time left: 86157.0 seconds
+59.1116
+turning on the fridge
+time left: 86097.0 seconds
+time left: 86037.0 seconds
+time left: 85977.0 seconds
+time left: 85917.0 seconds
+time left: 85857.0 seconds
+59.1116
+turning on the fridge
+time left: 85797.0 seconds
+time left: 85737.0 seconds
+time left: 85677.0 seconds
+time left: 85617.0 seconds
+time left: 85557.0 seconds
+59.1116
+turning on the fridge
+time left: 85497.0 seconds
+time left: 85437.0 seconds
+time left: 85376.0 seconds
+time left: 85316.0 seconds
+time left: 85256.0 seconds
+59.1116
+turning on the fridge
+time left: 85196.0 seconds
+time left: 85136.0 seconds
+time left: 85076.0 seconds
+time left: 85016.0 seconds
+time left: 84956.0 seconds
+59.1116
+turning on the fridge
+time left: 84896.0 seconds
+time left: 84836.0 seconds
+time left: 84776.0 seconds
+time left: 84716.0 seconds
+time left: 84656.0 seconds
+59.1116
+turning on the fridge
+time left: 84596.0 seconds
+time left: 84536.0 seconds
+time left: 84476.0 seconds
+time left: 84416.0 seconds
+time left: 84356.0 seconds
+59.1116
+turning on the fridge
+time left: 84296.0 seconds
+time left: 84236.0 seconds
+time left: 84175.0 seconds
+time left: 84115.0 seconds
+time left: 84055.0 seconds
+59.1116
+turning on the fridge
+time left: 83995.0 seconds
+time left: 83935.0 seconds
+time left: 83875.0 seconds
+time left: 83815.0 seconds
+time left: 83755.0 seconds
+59.225
+turning on the fridge
+time left: 83695.0 seconds
+time left: 83635.0 seconds
+time left: 83575.0 seconds
+time left: 83515.0 seconds
+time left: 83455.0 seconds
+59.1116
+turning on the fridge
+time left: 83395.0 seconds
+time left: 83335.0 seconds
+time left: 83275.0 seconds
+time left: 83215.0 seconds
+time left: 83155.0 seconds
+59.1116
+turning on the fridge
+time left: 83095.0 seconds
+time left: 83035.0 seconds
+time left: 82974.0 seconds
+time left: 82914.0 seconds
+time left: 82854.0 seconds
+59.1116
+turning on the fridge
+time left: 82794.0 seconds
+time left: 82734.0 seconds
+time left: 82674.0 seconds
+time left: 82614.0 seconds
+time left: 82554.0 seconds
+59.1116
+turning on the fridge
+time left: 82494.0 seconds
+time left: 82434.0 seconds
+time left: 82374.0 seconds
+time left: 82314.0 seconds
+time left: 82254.0 seconds
+59.1116
+turning on the fridge
+time left: 82194.0 seconds
+time left: 82134.0 seconds
+time left: 82074.0 seconds
+time left: 82014.0 seconds
+time left: 81954.0 seconds
+59.1116
+turning on the fridge
+time left: 81894.0 seconds
+time left: 81834.0 seconds
+time left: 81774.0 seconds
+time left: 81713.0 seconds
+time left: 81653.0 seconds
+59.1116
+turning on the fridge
+time left: 81593.0 seconds
+time left: 81533.0 seconds
+time left: 81473.0 seconds
+time left: 81413.0 seconds
+time left: 81353.0 seconds
+59.1116
+turning on the fridge
+time left: 81293.0 seconds
+time left: 81233.0 seconds
+time left: 81173.0 seconds
+time left: 81113.0 seconds
+time left: 81053.0 seconds
+59.1116
+turning on the fridge
+time left: 80993.0 seconds
+time left: 80933.0 seconds
+time left: 80873.0 seconds
+time left: 80813.0 seconds
+time left: 80753.0 seconds
+59.1116
+turning on the fridge
+time left: 80693.0 seconds
+time left: 80633.0 seconds
+time left: 80573.0 seconds
+time left: 80513.0 seconds
+time left: 80453.0 seconds
+59.1116
+turning on the fridge
+time left: 80393.0 seconds
+time left: 80333.0 seconds
+time left: 80273.0 seconds
+time left: 80212.0 seconds
+time left: 80152.0 seconds
+59.1116
+turning on the fridge
+time left: 80092.0 seconds
+time left: 80032.0 seconds
+time left: 79972.0 seconds
+time left: 79912.0 seconds
+time left: 79852.0 seconds
+59.225
+turning on the fridge
+time left: 79792.0 seconds
+time left: 79732.0 seconds
+time left: 79672.0 seconds
+time left: 79612.0 seconds
+time left: 79552.0 seconds
+59.1116
+turning on the fridge
+time left: 79492.0 seconds
+time left: 79432.0 seconds
+time left: 79372.0 seconds
+time left: 79312.0 seconds
+time left: 79252.0 seconds
+59.225
+turning on the fridge
+time left: 79192.0 seconds
+time left: 79132.0 seconds
+time left: 79072.0 seconds
+time left: 79012.0 seconds
+time left: 78952.0 seconds
+59.225
+turning on the fridge
+time left: 78892.0 seconds
+time left: 78832.0 seconds
+time left: 78771.0 seconds
+time left: 78711.0 seconds
+time left: 78651.0 seconds
+59.225
+turning on the fridge
+time left: 78591.0 seconds
+time left: 78531.0 seconds
+time left: 78471.0 seconds
+time left: 78411.0 seconds
+time left: 78351.0 seconds
+59.225
+turning on the fridge
+time left: 78291.0 seconds
+time left: 78231.0 seconds
+time left: 78171.0 seconds
+time left: 78111.0 seconds
+time left: 78051.0 seconds
+59.225
+turning on the fridge
+time left: 77991.0 seconds
+time left: 77931.0 seconds
+time left: 77871.0 seconds
+time left: 77811.0 seconds
+time left: 77751.0 seconds
+59.225
+turning on the fridge
+time left: 77691.0 seconds
+time left: 77631.0 seconds
+time left: 77571.0 seconds
+time left: 77511.0 seconds
+time left: 77451.0 seconds
+59.225
+turning on the fridge
+time left: 77391.0 seconds
+time left: 77331.0 seconds
+time left: 77271.0 seconds
+time left: 77210.0 seconds
+time left: 77150.0 seconds
+59.225
+turning on the fridge
+time left: 77090.0 seconds
+time left: 77030.0 seconds
+time left: 76970.0 seconds
+time left: 76910.0 seconds
+time left: 76850.0 seconds
+59.225
+turning on the fridge
+time left: 76790.0 seconds
+time left: 76730.0 seconds
+time left: 76670.0 seconds
+time left: 76610.0 seconds
+time left: 76550.0 seconds
+59.3366
+turning on the fridge
+time left: 76490.0 seconds
+time left: 76430.0 seconds
+time left: 76370.0 seconds
+time left: 76310.0 seconds
+time left: 76250.0 seconds
+59.3366
+turning on the fridge
+time left: 76190.0 seconds
+time left: 76130.0 seconds
+time left: 76070.0 seconds
+time left: 76010.0 seconds
+time left: 75950.0 seconds
+59.3366
+turning on the fridge
+time left: 75889.0 seconds
+time left: 75829.0 seconds
+time left: 75769.0 seconds
+time left: 75709.0 seconds
+time left: 75649.0 seconds
+59.3366
+turning on the fridge
+time left: 75589.0 seconds
+time left: 75529.0 seconds
+time left: 75469.0 seconds
+time left: 75409.0 seconds
+time left: 75349.0 seconds
+59.3366
+turning on the fridge
+time left: 75289.0 seconds
+time left: 75229.0 seconds
+time left: 75169.0 seconds
+time left: 75109.0 seconds
+time left: 75049.0 seconds
+59.3366
+turning on the fridge
+time left: 74989.0 seconds
+time left: 74929.0 seconds
+time left: 74869.0 seconds
+time left: 74809.0 seconds
+time left: 74749.0 seconds
+59.45
+turning on the fridge
+time left: 74689.0 seconds
+time left: 74629.0 seconds
+time left: 74569.0 seconds
+time left: 74509.0 seconds
+time left: 74449.0 seconds
+59.45
+turning on the fridge
+time left: 74388.0 seconds
+time left: 74328.0 seconds
+time left: 74268.0 seconds
+time left: 74208.0 seconds
+time left: 74148.0 seconds
+59.45
+turning on the fridge
+time left: 74088.0 seconds
+time left: 74028.0 seconds
+time left: 73968.0 seconds
+time left: 73908.0 seconds
+time left: 73848.0 seconds
+59.45
+turning on the fridge
+time left: 73788.0 seconds
+time left: 73728.0 seconds
+time left: 73668.0 seconds
+time left: 73608.0 seconds
+time left: 73548.0 seconds
+59.45
+turning on the fridge
+time left: 73488.0 seconds
+time left: 73428.0 seconds
+time left: 73368.0 seconds
+time left: 73308.0 seconds
+time left: 73248.0 seconds
+59.45
+turning on the fridge
+time left: 73188.0 seconds
+time left: 73128.0 seconds
+time left: 73068.0 seconds
+time left: 73008.0 seconds
+time left: 72948.0 seconds
+59.5616
+turning on the fridge
+time left: 72888.0 seconds
+time left: 72828.0 seconds
+time left: 72768.0 seconds
+time left: 72708.0 seconds
+time left: 72648.0 seconds
+59.5616
+turning on the fridge
+time left: 72588.0 seconds
+time left: 72527.0 seconds
+time left: 72467.0 seconds
+time left: 72407.0 seconds
+time left: 72347.0 seconds
+59.5616
+turning on the fridge
+time left: 72287.0 seconds
+time left: 72227.0 seconds
+time left: 72167.0 seconds
+time left: 72107.0 seconds
+time left: 72047.0 seconds
+59.5616
+turning on the fridge
+time left: 71987.0 seconds
+time left: 71927.0 seconds
+time left: 71867.0 seconds
+time left: 71807.0 seconds
+time left: 71747.0 seconds
+59.5616
+turning on the fridge
+time left: 71687.0 seconds
+time left: 71627.0 seconds
+time left: 71567.0 seconds
+time left: 71507.0 seconds
+time left: 71447.0 seconds
+59.675
+turning on the fridge
+time left: 71387.0 seconds
+time left: 71327.0 seconds
+time left: 71267.0 seconds
+time left: 71207.0 seconds
+time left: 71147.0 seconds
+59.675
+turning on the fridge
+time left: 71087.0 seconds
+time left: 71027.0 seconds
+time left: 70966.0 seconds
+time left: 70906.0 seconds
+time left: 70846.0 seconds
+59.5616
+turning on the fridge
+time left: 70786.0 seconds
+time left: 70726.0 seconds
+time left: 70666.0 seconds
+time left: 70606.0 seconds
+time left: 70546.0 seconds
+59.5616
+turning on the fridge
+time left: 70486.0 seconds
+time left: 70426.0 seconds
+time left: 70366.0 seconds
+time left: 70306.0 seconds
+time left: 70246.0 seconds
+59.675
+turning on the fridge
+time left: 70186.0 seconds
+time left: 70126.0 seconds
+time left: 70066.0 seconds
+time left: 70006.0 seconds
+time left: 69946.0 seconds
+59.675
+turning on the fridge
+time left: 69886.0 seconds
+time left: 69826.0 seconds
+time left: 69766.0 seconds
+time left: 69706.0 seconds
+time left: 69645.0 seconds
+59.675
+turning on the fridge
+time left: 69585.0 seconds
+time left: 69525.0 seconds
+time left: 69465.0 seconds
+time left: 69405.0 seconds
+time left: 69345.0 seconds
+59.675
+turning on the fridge
+time left: 69285.0 seconds
+time left: 69225.0 seconds
+time left: 69165.0 seconds
+time left: 69105.0 seconds
+time left: 69045.0 seconds
+59.675
+turning on the fridge
+time left: 68985.0 seconds
+time left: 68925.0 seconds
+time left: 68865.0 seconds
+time left: 68805.0 seconds
+time left: 68745.0 seconds
+59.675
+turning on the fridge
+time left: 68685.0 seconds
+time left: 68625.0 seconds
+time left: 68565.0 seconds
+time left: 68505.0 seconds
+time left: 68445.0 seconds
+59.675
+turning on the fridge
+time left: 68385.0 seconds
+time left: 68325.0 seconds
+time left: 68265.0 seconds
+time left: 68205.0 seconds
+time left: 68145.0 seconds
+59.675
+turning on the fridge
+time left: 68085.0 seconds
+time left: 68025.0 seconds
+time left: 67965.0 seconds
+time left: 67905.0 seconds
+time left: 67845.0 seconds
+59.7866
+turning on the fridge
+time left: 67785.0 seconds
+time left: 67725.0 seconds
+time left: 67665.0 seconds
+time left: 67605.0 seconds
+time left: 67544.0 seconds
+59.7866
+turning on the fridge
+time left: 67484.0 seconds
+time left: 67424.0 seconds
+time left: 67364.0 seconds
+time left: 67304.0 seconds
+time left: 67244.0 seconds
+59.9
+turning on the fridge
+time left: 67184.0 seconds
+time left: 67124.0 seconds
+time left: 67064.0 seconds
+time left: 67004.0 seconds
+time left: 66944.0 seconds
+59.9
+turning on the fridge
+time left: 66884.0 seconds
+time left: 66824.0 seconds
+time left: 66764.0 seconds
+time left: 66704.0 seconds
+time left: 66644.0 seconds
+59.9
+turning on the fridge
+time left: 66584.0 seconds
+time left: 66524.0 seconds
+time left: 66464.0 seconds
+time left: 66404.0 seconds
+time left: 66344.0 seconds
+59.9
+turning on the fridge
+time left: 66284.0 seconds
+time left: 66224.0 seconds
+time left: 66164.0 seconds
+time left: 66104.0 seconds
+time left: 66044.0 seconds
+59.9
+turning on the fridge
+time left: 65983.0 seconds
+time left: 65923.0 seconds
+time left: 65863.0 seconds
+time left: 65803.0 seconds
+time left: 65743.0 seconds
+59.9
+turning on the fridge
+time left: 65683.0 seconds
+time left: 65623.0 seconds
+time left: 65563.0 seconds
+time left: 65503.0 seconds
+time left: 65443.0 seconds
+59.9
+turning on the fridge
+time left: 65383.0 seconds
+time left: 65323.0 seconds
+time left: 65263.0 seconds
+time left: 65203.0 seconds
+time left: 65143.0 seconds
+59.9
+turning on the fridge
+time left: 65083.0 seconds
+time left: 65023.0 seconds
+time left: 64963.0 seconds
+time left: 64903.0 seconds
+time left: 64842.0 seconds
+59.9
+turning on the fridge
+time left: 64782.0 seconds
+time left: 64722.0 seconds
+time left: 64662.0 seconds
+time left: 64602.0 seconds
+time left: 64542.0 seconds
+59.9
+turning on the fridge
+time left: 64482.0 seconds
+time left: 64422.0 seconds
+time left: 64362.0 seconds
+time left: 64302.0 seconds
+time left: 64242.0 seconds
+59.9
+turning on the fridge
+time left: 64182.0 seconds
+time left: 64122.0 seconds
+time left: 64062.0 seconds
+time left: 64002.0 seconds
+time left: 63942.0 seconds
+59.9
+turning on the fridge
+time left: 63882.0 seconds
+time left: 63822.0 seconds
+time left: 63762.0 seconds
+time left: 63701.0 seconds
+time left: 63641.0 seconds
+59.9
+turning on the fridge
+time left: 63581.0 seconds
+time left: 63521.0 seconds
+time left: 63461.0 seconds
+time left: 63401.0 seconds
+time left: 63341.0 seconds
+59.9
+turning on the fridge
+time left: 63281.0 seconds
+time left: 63221.0 seconds
+time left: 63161.0 seconds
+time left: 63101.0 seconds
+time left: 63041.0 seconds
+60.0116
+turning on the fridge
+time left: 62981.0 seconds
+time left: 62921.0 seconds
+time left: 62861.0 seconds
+time left: 62801.0 seconds
+time left: 62741.0 seconds
+60.0116
+turning on the fridge
+time left: 62681.0 seconds
+time left: 62621.0 seconds
+time left: 62560.0 seconds
+time left: 62500.0 seconds
+time left: 62440.0 seconds
+59.9
+turning on the fridge
+time left: 62380.0 seconds
+time left: 62320.0 seconds
+time left: 62260.0 seconds
+time left: 62200.0 seconds
+time left: 62140.0 seconds
+60.0116
+turning on the fridge
+time left: 62080.0 seconds
+time left: 62020.0 seconds
+time left: 61960.0 seconds
+time left: 61900.0 seconds
+time left: 61840.0 seconds
+60.0116
+turning on the fridge
+time left: 61780.0 seconds
+time left: 61720.0 seconds
+time left: 61660.0 seconds
+time left: 61600.0 seconds
+time left: 61540.0 seconds
+60.0116
+turning on the fridge
+time left: 61480.0 seconds
+time left: 61420.0 seconds
+time left: 61359.0 seconds
+time left: 61299.0 seconds
+time left: 61239.0 seconds
+60.0116
+turning on the fridge
+time left: 61179.0 seconds
+time left: 61119.0 seconds
+time left: 61059.0 seconds
+time left: 60999.0 seconds
+time left: 60939.0 seconds
+60.0116
+turning on the fridge
+time left: 60879.0 seconds
+time left: 60819.0 seconds
+time left: 60759.0 seconds
+time left: 60699.0 seconds
+time left: 60639.0 seconds
+60.0116
+turning on the fridge
+time left: 60579.0 seconds
+time left: 60519.0 seconds
+time left: 60459.0 seconds
+time left: 60399.0 seconds
+time left: 60339.0 seconds
+60.125
+turning on the fridge
+time left: 60279.0 seconds
+time left: 60218.0 seconds
+time left: 60158.0 seconds
+time left: 60098.0 seconds
+time left: 60038.0 seconds
+60.125
+turning on the fridge
+time left: 59978.0 seconds
+time left: 59918.0 seconds
+time left: 59858.0 seconds
+time left: 59798.0 seconds
+time left: 59738.0 seconds
+60.0116
+turning on the fridge
+time left: 59678.0 seconds
+time left: 59618.0 seconds
+time left: 59558.0 seconds
+time left: 59498.0 seconds
+time left: 59438.0 seconds
+60.125
+turning on the fridge
+time left: 59378.0 seconds
+time left: 59318.0 seconds
+time left: 59258.0 seconds
+time left: 59198.0 seconds
+time left: 59138.0 seconds
+60.125
+turning on the fridge
+time left: 59077.0 seconds
+time left: 59017.0 seconds
+time left: 58957.0 seconds
+time left: 58897.0 seconds
+time left: 58837.0 seconds
+60.125
+turning on the fridge
+time left: 58777.0 seconds
+time left: 58717.0 seconds
+time left: 58657.0 seconds
+time left: 58597.0 seconds
+time left: 58537.0 seconds
+60.125
+turning on the fridge
+time left: 58477.0 seconds
+time left: 58417.0 seconds
+time left: 58357.0 seconds
+time left: 58297.0 seconds
+time left: 58237.0 seconds
+60.2366
+turning on the fridge
+time left: 58177.0 seconds
+time left: 58117.0 seconds
+time left: 58057.0 seconds
+time left: 57996.0 seconds
+time left: 57936.0 seconds
+60.125
+turning on the fridge
+time left: 57876.0 seconds
+time left: 57816.0 seconds
+time left: 57756.0 seconds
+time left: 57696.0 seconds
+time left: 57636.0 seconds
+60.2366
+turning on the fridge
+time left: 57576.0 seconds
+time left: 57516.0 seconds
+time left: 57456.0 seconds
+time left: 57396.0 seconds
+time left: 57336.0 seconds
+60.2366
+turning on the fridge
+time left: 57276.0 seconds
+time left: 57216.0 seconds
+time left: 57156.0 seconds
+time left: 57096.0 seconds
+time left: 57036.0 seconds
+60.2366
+turning on the fridge
+time left: 56976.0 seconds
+time left: 56916.0 seconds
+time left: 56856.0 seconds
+time left: 56796.0 seconds
+time left: 56736.0 seconds
+60.2366
+turning on the fridge
+time left: 56676.0 seconds
+time left: 56616.0 seconds
+time left: 56556.0 seconds
+time left: 56495.0 seconds
+time left: 56435.0 seconds
+60.35
+turning on the fridge
+time left: 56375.0 seconds
+time left: 56315.0 seconds
+time left: 56255.0 seconds
+time left: 56195.0 seconds
+time left: 56135.0 seconds
+60.2366
+turning on the fridge
+time left: 56075.0 seconds
+time left: 56015.0 seconds
+time left: 55955.0 seconds
+time left: 55895.0 seconds
+time left: 55835.0 seconds
+60.2366
+turning on the fridge
+time left: 55775.0 seconds
+time left: 55715.0 seconds
+time left: 55655.0 seconds
+time left: 55595.0 seconds
+time left: 55535.0 seconds
+60.35
+turning on the fridge
+time left: 55475.0 seconds
+time left: 55415.0 seconds
+time left: 55355.0 seconds
+time left: 55295.0 seconds
+time left: 55235.0 seconds
+60.35
+turning on the fridge
+time left: 55175.0 seconds
+time left: 55115.0 seconds
+time left: 55055.0 seconds
+time left: 54995.0 seconds
+time left: 54935.0 seconds
+60.35
+turning on the fridge
+time left: 54875.0 seconds
+time left: 54815.0 seconds
+time left: 54755.0 seconds
+time left: 54694.0 seconds
+time left: 54634.0 seconds
+60.35
+turning on the fridge
+time left: 54574.0 seconds
+time left: 54514.0 seconds
+time left: 54454.0 seconds
+time left: 54394.0 seconds
+time left: 54334.0 seconds
+60.35
+turning on the fridge
+time left: 54274.0 seconds
+time left: 54214.0 seconds
+time left: 54154.0 seconds
+time left: 54094.0 seconds
+time left: 54034.0 seconds
+60.35
+turning on the fridge
+time left: 53974.0 seconds
+time left: 53914.0 seconds
+time left: 53854.0 seconds
+time left: 53794.0 seconds
+time left: 53734.0 seconds
+60.35
+turning on the fridge
+time left: 53674.0 seconds
+time left: 53614.0 seconds
+time left: 53554.0 seconds
+time left: 53494.0 seconds
+time left: 53434.0 seconds
+60.35
+turning on the fridge
+time left: 53374.0 seconds
+time left: 53314.0 seconds
+time left: 53254.0 seconds
+time left: 53194.0 seconds
+time left: 53134.0 seconds
+60.4616
+turning on the fridge
+time left: 53073.0 seconds
+time left: 53013.0 seconds
+time left: 52953.0 seconds
+time left: 52893.0 seconds
+time left: 52833.0 seconds
+60.35
+turning on the fridge
+time left: 52773.0 seconds
+time left: 52713.0 seconds
+time left: 52653.0 seconds
+time left: 52593.0 seconds
+time left: 52533.0 seconds
+60.4616
+turning on the fridge
+time left: 52473.0 seconds
+time left: 52413.0 seconds
+time left: 52353.0 seconds
+time left: 52293.0 seconds
+time left: 52233.0 seconds
+60.4616
+turning on the fridge
+time left: 52173.0 seconds
+time left: 52113.0 seconds
+time left: 52053.0 seconds
+time left: 51993.0 seconds
+time left: 51933.0 seconds
+60.4616
+turning on the fridge
+time left: 51873.0 seconds
+time left: 51813.0 seconds
+time left: 51753.0 seconds
+time left: 51693.0 seconds
+time left: 51633.0 seconds
+60.4616
+turning on the fridge
+time left: 51573.0 seconds
+time left: 51513.0 seconds
+time left: 51453.0 seconds
+time left: 51393.0 seconds
+time left: 51332.0 seconds
+60.4616
+turning on the fridge
+time left: 51272.0 seconds
+time left: 51212.0 seconds
+time left: 51152.0 seconds
+time left: 51092.0 seconds
+time left: 51032.0 seconds
+60.4616
+turning on the fridge
+time left: 50972.0 seconds
+time left: 50912.0 seconds
+time left: 50852.0 seconds
+time left: 50792.0 seconds
+time left: 50732.0 seconds
+60.575
+turning on the fridge
+time left: 50672.0 seconds
+time left: 50612.0 seconds
+time left: 50552.0 seconds
+time left: 50492.0 seconds
+time left: 50432.0 seconds
+60.4616
+turning on the fridge
+time left: 50372.0 seconds
+time left: 50312.0 seconds
+time left: 50252.0 seconds
+time left: 50192.0 seconds
+time left: 50132.0 seconds
+60.4616
+turning on the fridge
+time left: 50072.0 seconds
+time left: 50012.0 seconds
+time left: 49951.0 seconds
+time left: 49891.0 seconds
+time left: 49831.0 seconds
+60.575
+turning on the fridge
+time left: 49771.0 seconds
+time left: 49711.0 seconds
+time left: 49651.0 seconds
+time left: 49591.0 seconds
+time left: 49531.0 seconds
+60.575
+turning on the fridge
+time left: 49471.0 seconds
+time left: 49411.0 seconds
+time left: 49351.0 seconds
+time left: 49291.0 seconds
+time left: 49231.0 seconds
+60.575
+turning on the fridge
+time left: 49171.0 seconds
+time left: 49111.0 seconds
+time left: 49051.0 seconds
+time left: 48991.0 seconds
+time left: 48931.0 seconds
+60.575
+turning on the fridge
+time left: 48871.0 seconds
+time left: 48811.0 seconds
+time left: 48751.0 seconds
+time left: 48691.0 seconds
+time left: 48631.0 seconds
+60.575
+turning on the fridge
+time left: 48571.0 seconds
+time left: 48511.0 seconds
+time left: 48451.0 seconds
+time left: 48391.0 seconds
+time left: 48331.0 seconds
+60.575
+turning on the fridge
+time left: 48271.0 seconds
+time left: 48211.0 seconds
+time left: 48150.0 seconds
+time left: 48090.0 seconds
+time left: 48030.0 seconds
+60.575
+turning on the fridge
+time left: 47970.0 seconds
+time left: 47910.0 seconds
+time left: 47850.0 seconds
+time left: 47790.0 seconds
+time left: 47730.0 seconds
+60.575
+turning on the fridge
+time left: 47670.0 seconds
+time left: 47610.0 seconds
+time left: 47550.0 seconds
+time left: 47490.0 seconds
+time left: 47430.0 seconds
+60.575
+turning on the fridge
+time left: 47370.0 seconds
+time left: 47310.0 seconds
+time left: 47250.0 seconds
+time left: 47190.0 seconds
+time left: 47130.0 seconds
+60.6866
+turning on the fridge
+time left: 47070.0 seconds
+time left: 47010.0 seconds
+time left: 46950.0 seconds
+time left: 46890.0 seconds
+time left: 46830.0 seconds
+60.6866
+turning on the fridge
+time left: 46770.0 seconds
+time left: 46710.0 seconds
+time left: 46650.0 seconds
+time left: 46590.0 seconds
+time left: 46529.0 seconds
+60.575
+turning on the fridge
+time left: 46469.0 seconds
+time left: 46409.0 seconds
+time left: 46349.0 seconds
+time left: 46289.0 seconds
+time left: 46229.0 seconds
+60.6866
+turning on the fridge
+time left: 46169.0 seconds
+time left: 46109.0 seconds
+time left: 46049.0 seconds
+time left: 45989.0 seconds
+time left: 45929.0 seconds
+60.6866
+turning on the fridge
+time left: 45869.0 seconds
+time left: 45809.0 seconds
+time left: 45749.0 seconds
+time left: 45689.0 seconds
+time left: 45629.0 seconds
+60.6866
+turning on the fridge
+time left: 45569.0 seconds
+time left: 45509.0 seconds
+time left: 45449.0 seconds
+time left: 45389.0 seconds
+time left: 45328.0 seconds
+60.6866
+turning on the fridge
+time left: 45268.0 seconds
+time left: 45208.0 seconds
+time left: 45148.0 seconds
+time left: 45088.0 seconds
+time left: 45028.0 seconds
+60.6866
+turning on the fridge
+time left: 44968.0 seconds
+time left: 44908.0 seconds
+time left: 44848.0 seconds
+time left: 44788.0 seconds
+time left: 44728.0 seconds
+60.6866
+turning on the fridge
+time left: 44668.0 seconds
+time left: 44608.0 seconds
+time left: 44548.0 seconds
+time left: 44488.0 seconds
+time left: 44428.0 seconds
+60.8
+turning on the fridge
+time left: 44368.0 seconds
+time left: 44308.0 seconds
+time left: 44247.0 seconds
+time left: 44187.0 seconds
+time left: 44127.0 seconds
+60.6866
+turning on the fridge
+time left: 44067.0 seconds
+time left: 44007.0 seconds
+time left: 43947.0 seconds
+time left: 43887.0 seconds
+time left: 43827.0 seconds
+60.6866
+turning on the fridge
+time left: 43767.0 seconds
+time left: 43707.0 seconds
+time left: 43647.0 seconds
+time left: 43587.0 seconds
+time left: 43527.0 seconds
+60.6866
+turning on the fridge
+time left: 43467.0 seconds
+time left: 43407.0 seconds
+time left: 43347.0 seconds
+time left: 43287.0 seconds
+time left: 43227.0 seconds
+60.6866
+turning on the fridge
+time left: 43167.0 seconds
+time left: 43107.0 seconds
+time left: 43047.0 seconds
+time left: 42986.0 seconds
+time left: 42926.0 seconds
+60.6866
+turning on the fridge
+time left: 42866.0 seconds
+time left: 42806.0 seconds
+time left: 42746.0 seconds
+time left: 42686.0 seconds
+time left: 42626.0 seconds
+60.8
+turning on the fridge
+time left: 42566.0 seconds
+time left: 42506.0 seconds
+time left: 42446.0 seconds
+time left: 42386.0 seconds
+time left: 42326.0 seconds
+60.6866
+turning on the fridge
+time left: 42266.0 seconds
+time left: 42206.0 seconds
+time left: 42146.0 seconds
+time left: 42086.0 seconds
+time left: 42026.0 seconds
+60.6866
+turning on the fridge
+time left: 41966.0 seconds
+time left: 41906.0 seconds
+time left: 41846.0 seconds
+time left: 41786.0 seconds
+time left: 41726.0 seconds
+60.8
+turning on the fridge
+time left: 41666.0 seconds
+time left: 41606.0 seconds
+time left: 41546.0 seconds
+time left: 41486.0 seconds
+time left: 41425.0 seconds
+60.8
+turning on the fridge
+time left: 41365.0 seconds
+time left: 41305.0 seconds
+time left: 41245.0 seconds
+time left: 41185.0 seconds
+time left: 41125.0 seconds
+60.8
+turning on the fridge
+time left: 41065.0 seconds
+time left: 41005.0 seconds
+time left: 40945.0 seconds
+time left: 40885.0 seconds
+time left: 40825.0 seconds
+60.6866
+turning on the fridge
+time left: 40765.0 seconds
+time left: 40705.0 seconds
+time left: 40645.0 seconds
+time left: 40585.0 seconds
+time left: 40525.0 seconds
+60.8
+turning on the fridge
+time left: 40465.0 seconds
+time left: 40405.0 seconds
+time left: 40345.0 seconds
+time left: 40285.0 seconds
+time left: 40225.0 seconds
+60.6866
+turning on the fridge
+time left: 40165.0 seconds
+time left: 40105.0 seconds
+time left: 40045.0 seconds
+time left: 39985.0 seconds
+time left: 39924.0 seconds
+60.6866
+turning on the fridge
+time left: 39864.0 seconds
+time left: 39804.0 seconds
+time left: 39744.0 seconds
+time left: 39684.0 seconds
+time left: 39624.0 seconds
+60.8
+turning on the fridge
+time left: 39564.0 seconds
+time left: 39504.0 seconds
+time left: 39444.0 seconds
+time left: 39384.0 seconds
+time left: 39324.0 seconds
+60.8
+turning on the fridge
+time left: 39264.0 seconds
+time left: 39204.0 seconds
+time left: 39144.0 seconds
+time left: 39084.0 seconds
+time left: 39024.0 seconds
+60.8
+turning on the fridge
+time left: 38964.0 seconds
+time left: 38904.0 seconds
+time left: 38844.0 seconds
+time left: 38783.0 seconds
+time left: 38723.0 seconds
+60.8
+turning on the fridge
+time left: 38663.0 seconds
+time left: 38603.0 seconds
+time left: 38543.0 seconds
+time left: 38483.0 seconds
+time left: 38423.0 seconds
+60.9116
+turning on the fridge
+time left: 38363.0 seconds
+time left: 38303.0 seconds
+time left: 38243.0 seconds
+time left: 38183.0 seconds
+time left: 38123.0 seconds
+60.9116
+turning on the fridge
+time left: 38063.0 seconds
+time left: 38003.0 seconds
+time left: 37943.0 seconds
+time left: 37883.0 seconds
+time left: 37823.0 seconds
+60.9116
+turning on the fridge
+time left: 37763.0 seconds
+time left: 37703.0 seconds
+time left: 37643.0 seconds
+time left: 37582.0 seconds
+time left: 37522.0 seconds
+60.8
+turning on the fridge
+time left: 37462.0 seconds
+time left: 37402.0 seconds
+time left: 37342.0 seconds
+time left: 37282.0 seconds
+time left: 37222.0 seconds
+60.9116
+turning on the fridge
+time left: 37162.0 seconds
+time left: 37102.0 seconds
+time left: 37042.0 seconds
+time left: 36982.0 seconds
+time left: 36922.0 seconds
+60.9116
+turning on the fridge
+time left: 36862.0 seconds
+time left: 36802.0 seconds
+time left: 36742.0 seconds
+time left: 36682.0 seconds
+time left: 36622.0 seconds
+60.9116
+turning on the fridge
+time left: 36562.0 seconds
+time left: 36501.0 seconds
+time left: 36441.0 seconds
+time left: 36381.0 seconds
+time left: 36321.0 seconds
+60.9116
+turning on the fridge
+time left: 36261.0 seconds
+time left: 36201.0 seconds
+time left: 36141.0 seconds
+time left: 36081.0 seconds
+time left: 36021.0 seconds
+60.9116
+turning on the fridge
+time left: 35961.0 seconds
+time left: 35901.0 seconds
+time left: 35841.0 seconds
+time left: 35781.0 seconds
+time left: 35721.0 seconds
+60.9116
+turning on the fridge
+time left: 35661.0 seconds
+time left: 35601.0 seconds
+time left: 35541.0 seconds
+time left: 35481.0 seconds
+time left: 35421.0 seconds
+60.9116
+turning on the fridge
+time left: 35360.0 seconds
+time left: 35300.0 seconds
+time left: 35240.0 seconds
+time left: 35180.0 seconds
+time left: 35120.0 seconds
+60.9116
+turning on the fridge
+time left: 35060.0 seconds
+time left: 35000.0 seconds
+time left: 34940.0 seconds
+time left: 34880.0 seconds
+time left: 34820.0 seconds
+60.9116
+turning on the fridge
+time left: 34760.0 seconds
+time left: 34700.0 seconds
+time left: 34640.0 seconds
+time left: 34580.0 seconds
+time left: 34520.0 seconds
+60.9116
+turning on the fridge
+time left: 34460.0 seconds
+time left: 34400.0 seconds
+time left: 34340.0 seconds
+time left: 34280.0 seconds
+time left: 34220.0 seconds
+60.9116
+turning on the fridge
+time left: 34159.0 seconds
+time left: 34099.0 seconds
+time left: 34039.0 seconds
+time left: 33979.0 seconds
+time left: 33919.0 seconds
+60.9116
+turning on the fridge
+time left: 33859.0 seconds
+time left: 33799.0 seconds
+time left: 33739.0 seconds
+time left: 33679.0 seconds
+time left: 33619.0 seconds
+60.9116
+turning on the fridge
+time left: 33559.0 seconds
+time left: 33499.0 seconds
+time left: 33439.0 seconds
+time left: 33379.0 seconds
+time left: 33319.0 seconds
+60.9116
+turning on the fridge
+time left: 33259.0 seconds
+time left: 33199.0 seconds
+time left: 33139.0 seconds
+time left: 33079.0 seconds
+time left: 33018.0 seconds
+60.9116
+turning on the fridge
+time left: 32958.0 seconds
+time left: 32898.0 seconds
+time left: 32838.0 seconds
+time left: 32778.0 seconds
+time left: 32718.0 seconds
+60.9116
+turning on the fridge
+time left: 32658.0 seconds
+time left: 32598.0 seconds
+time left: 32538.0 seconds
+time left: 32478.0 seconds
+time left: 32418.0 seconds
+60.9116
+turning on the fridge
+time left: 32358.0 seconds
+time left: 32298.0 seconds
+time left: 32238.0 seconds
+time left: 32178.0 seconds
+time left: 32118.0 seconds
+61.025
+turning on the fridge
+time left: 32058.0 seconds
+time left: 31998.0 seconds
+time left: 31938.0 seconds
+time left: 31877.0 seconds
+time left: 31817.0 seconds
+60.9116
+turning on the fridge
+time left: 31757.0 seconds
+time left: 31697.0 seconds
+time left: 31637.0 seconds
+time left: 31577.0 seconds
+time left: 31517.0 seconds
+60.9116
+turning on the fridge
+time left: 31457.0 seconds
+time left: 31397.0 seconds
+time left: 31337.0 seconds
+time left: 31277.0 seconds
+time left: 31217.0 seconds
+60.9116
+turning on the fridge
+time left: 31157.0 seconds
+time left: 31097.0 seconds
+time left: 31037.0 seconds
+time left: 30977.0 seconds
+time left: 30917.0 seconds
+60.9116
+turning on the fridge
+time left: 30857.0 seconds
+time left: 30797.0 seconds
+time left: 30737.0 seconds
+time left: 30677.0 seconds
+time left: 30617.0 seconds
+60.9116
+turning on the fridge
+time left: 30556.0 seconds
+time left: 30496.0 seconds
+time left: 30436.0 seconds
+time left: 30376.0 seconds
+time left: 30316.0 seconds
+60.9116
+turning on the fridge
+time left: 30256.0 seconds
+time left: 30196.0 seconds
+time left: 30136.0 seconds
+time left: 30076.0 seconds
+time left: 30016.0 seconds
+60.9116
+turning on the fridge
+time left: 29956.0 seconds
+time left: 29896.0 seconds
+time left: 29836.0 seconds
+time left: 29776.0 seconds
+time left: 29716.0 seconds
+60.9116
+turning on the fridge
+time left: 29656.0 seconds
+time left: 29596.0 seconds
+time left: 29536.0 seconds
+time left: 29476.0 seconds
+time left: 29416.0 seconds
+60.9116
+turning on the fridge
+time left: 29356.0 seconds
+time left: 29295.0 seconds
+time left: 29235.0 seconds
+time left: 29175.0 seconds
+time left: 29115.0 seconds
+60.9116
+turning on the fridge
+time left: 29055.0 seconds
+time left: 28995.0 seconds
+time left: 28935.0 seconds
+time left: 28875.0 seconds
+time left: 28815.0 seconds
+60.9116
+turning on the fridge
+time left: 28755.0 seconds
+time left: 28695.0 seconds
+time left: 28635.0 seconds
+time left: 28575.0 seconds
+time left: 28515.0 seconds
+60.9116
+turning on the fridge
+time left: 28455.0 seconds
+time left: 28395.0 seconds
+time left: 28335.0 seconds
+time left: 28275.0 seconds
+time left: 28215.0 seconds
+60.9116
+turning on the fridge
+time left: 28154.0 seconds
+time left: 28094.0 seconds
+time left: 28034.0 seconds
+time left: 27974.0 seconds
+time left: 27914.0 seconds
+60.9116
+turning on the fridge
+time left: 27854.0 seconds
+time left: 27794.0 seconds
+time left: 27734.0 seconds
+time left: 27674.0 seconds
+time left: 27614.0 seconds
+60.9116
+turning on the fridge
+time left: 27554.0 seconds
+time left: 27494.0 seconds
+time left: 27434.0 seconds
+time left: 27374.0 seconds
+time left: 27314.0 seconds
+60.9116
+turning on the fridge
+time left: 27254.0 seconds
+time left: 27194.0 seconds
+time left: 27134.0 seconds
+time left: 27074.0 seconds
+time left: 27014.0 seconds
+60.9116
+turning on the fridge
+time left: 26953.0 seconds
+time left: 26893.0 seconds
+time left: 26833.0 seconds
+time left: 26773.0 seconds
+time left: 26713.0 seconds
+60.9116
+turning on the fridge
+time left: 26653.0 seconds
+time left: 26593.0 seconds
+time left: 26533.0 seconds
+time left: 26473.0 seconds
+time left: 26413.0 seconds
+60.8
+turning on the fridge
+time left: 26353.0 seconds
+time left: 26293.0 seconds
+time left: 26233.0 seconds
+time left: 26173.0 seconds
+time left: 26113.0 seconds
+60.8
+turning on the fridge
+time left: 26053.0 seconds
+time left: 25993.0 seconds
+time left: 25933.0 seconds
+time left: 25873.0 seconds
+time left: 25813.0 seconds
+60.9116
+turning on the fridge
+time left: 25753.0 seconds
+time left: 25693.0 seconds
+time left: 25632.0 seconds
+time left: 25572.0 seconds
+time left: 25512.0 seconds
+60.8
+turning on the fridge
+time left: 25452.0 seconds
+time left: 25392.0 seconds
+time left: 25332.0 seconds
+time left: 25272.0 seconds
+time left: 25212.0 seconds
+60.8
+turning on the fridge
+time left: 25152.0 seconds
+time left: 25092.0 seconds
+time left: 25032.0 seconds
+time left: 24972.0 seconds
+time left: 24912.0 seconds
+60.9116
+turning on the fridge
+time left: 24852.0 seconds
+time left: 24792.0 seconds
+time left: 24732.0 seconds
+time left: 24672.0 seconds
+time left: 24612.0 seconds
+60.8
+turning on the fridge
+time left: 24552.0 seconds
+time left: 24492.0 seconds
+time left: 24432.0 seconds
+time left: 24372.0 seconds
+time left: 24312.0 seconds
+60.8
+turning on the fridge
+time left: 24252.0 seconds
+time left: 24192.0 seconds
+time left: 24132.0 seconds
+time left: 24072.0 seconds
+time left: 24012.0 seconds
+60.8
+turning on the fridge
+time left: 23952.0 seconds
+time left: 23892.0 seconds
+time left: 23832.0 seconds
+time left: 23772.0 seconds
+time left: 23712.0 seconds
+60.8
+turning on the fridge
+time left: 23652.0 seconds
+time left: 23592.0 seconds
+time left: 23532.0 seconds
+time left: 23472.0 seconds
+time left: 23412.0 seconds
+60.8
+turning on the fridge
+time left: 23351.0 seconds
+time left: 23291.0 seconds
+time left: 23231.0 seconds
+time left: 23171.0 seconds
+time left: 23111.0 seconds
+60.8
+turning on the fridge
+time left: 23051.0 seconds
+time left: 22991.0 seconds
+time left: 22931.0 seconds
+time left: 22871.0 seconds
+time left: 22811.0 seconds
+60.8
+turning on the fridge
+time left: 22751.0 seconds
+time left: 22691.0 seconds
+time left: 22631.0 seconds
+time left: 22571.0 seconds
+time left: 22511.0 seconds
+60.8
+turning on the fridge
+time left: 22451.0 seconds
+time left: 22391.0 seconds
+time left: 22331.0 seconds
+time left: 22271.0 seconds
+time left: 22211.0 seconds
+60.8
+turning on the fridge
+time left: 22151.0 seconds
+time left: 22091.0 seconds
+time left: 22031.0 seconds
+time left: 21970.0 seconds
+time left: 21910.0 seconds
+60.8
+turning on the fridge
+time left: 21850.0 seconds
+time left: 21790.0 seconds
+time left: 21730.0 seconds
+time left: 21670.0 seconds
+time left: 21610.0 seconds
+60.9116
+turning on the fridge
+time left: 21550.0 seconds
+time left: 21490.0 seconds
+time left: 21430.0 seconds
+time left: 21370.0 seconds
+time left: 21310.0 seconds
+60.8
+turning on the fridge
+time left: 21250.0 seconds
+time left: 21190.0 seconds
+time left: 21130.0 seconds
+time left: 21070.0 seconds
+time left: 21010.0 seconds
+60.8
+turning on the fridge
+time left: 20950.0 seconds
+time left: 20890.0 seconds
+time left: 20830.0 seconds
+time left: 20770.0 seconds
+time left: 20710.0 seconds
+60.8
+turning on the fridge
+time left: 20650.0 seconds
+time left: 20590.0 seconds
+time left: 20530.0 seconds
+time left: 20470.0 seconds
+time left: 20409.0 seconds
+60.8
+turning on the fridge
+time left: 20349.0 seconds
+time left: 20289.0 seconds
+time left: 20229.0 seconds
+time left: 20169.0 seconds
+time left: 20109.0 seconds
+60.8
+turning on the fridge
+time left: 20049.0 seconds
+time left: 19989.0 seconds
+time left: 19929.0 seconds
+time left: 19869.0 seconds
+time left: 19809.0 seconds
+60.8
+turning on the fridge
+time left: 19749.0 seconds
+time left: 19689.0 seconds
+time left: 19629.0 seconds
+time left: 19569.0 seconds
+time left: 19509.0 seconds
+60.8
+turning on the fridge
+time left: 19449.0 seconds
+time left: 19389.0 seconds
+time left: 19329.0 seconds
+time left: 19269.0 seconds
+time left: 19209.0 seconds
+60.8
+turning on the fridge
+time left: 19149.0 seconds
+time left: 19089.0 seconds
+time left: 19029.0 seconds
+time left: 18969.0 seconds
+time left: 18909.0 seconds
+60.8
+turning on the fridge
+time left: 18848.0 seconds
+time left: 18788.0 seconds
+time left: 18728.0 seconds
+time left: 18668.0 seconds
+time left: 18608.0 seconds
+60.8
+turning on the fridge
+time left: 18548.0 seconds
+time left: 18488.0 seconds
+time left: 18428.0 seconds
+time left: 18368.0 seconds
+time left: 18308.0 seconds
+60.8
+turning on the fridge
+time left: 18248.0 seconds
+time left: 18188.0 seconds
+time left: 18128.0 seconds
+time left: 18068.0 seconds
+time left: 18008.0 seconds
+60.8
+turning on the fridge
+time left: 17948.0 seconds
+time left: 17888.0 seconds
+time left: 17828.0 seconds
+time left: 17768.0 seconds
+time left: 17708.0 seconds
+60.8
+turning on the fridge
+time left: 17648.0 seconds
+time left: 17588.0 seconds
+time left: 17528.0 seconds
+time left: 17468.0 seconds
+time left: 17408.0 seconds
+60.8
+turning on the fridge
+time left: 17348.0 seconds
+time left: 17287.0 seconds
+time left: 17227.0 seconds
+time left: 17167.0 seconds
+time left: 17107.0 seconds
+60.6866
+turning on the fridge
+time left: 17047.0 seconds
+time left: 16987.0 seconds
+time left: 16927.0 seconds
+time left: 16867.0 seconds
+time left: 16807.0 seconds
+60.8
+turning on the fridge
+time left: 16747.0 seconds
+time left: 16687.0 seconds
+time left: 16627.0 seconds
+time left: 16567.0 seconds
+time left: 16507.0 seconds
+60.8
+turning on the fridge
+time left: 16447.0 seconds
+time left: 16387.0 seconds
+time left: 16327.0 seconds
+time left: 16267.0 seconds
+time left: 16206.0 seconds
+60.8
+turning on the fridge
+time left: 16146.0 seconds
+time left: 16086.0 seconds
+time left: 16026.0 seconds
+time left: 15966.0 seconds
+time left: 15906.0 seconds
+60.8
+turning on the fridge
+time left: 15846.0 seconds
+time left: 15786.0 seconds
+time left: 15726.0 seconds
+time left: 15666.0 seconds
+time left: 15606.0 seconds
+60.8
+turning on the fridge
+time left: 15546.0 seconds
+time left: 15486.0 seconds
+time left: 15426.0 seconds
+time left: 15366.0 seconds
+time left: 15306.0 seconds
+60.6866
+turning on the fridge
+time left: 15246.0 seconds
+time left: 15186.0 seconds
+time left: 15126.0 seconds
+time left: 15066.0 seconds
+time left: 15006.0 seconds
+60.8
+turning on the fridge
+time left: 14945.0 seconds
+time left: 14885.0 seconds
+time left: 14825.0 seconds
+time left: 14765.0 seconds
+time left: 14705.0 seconds
+60.6866
+turning on the fridge
+time left: 14645.0 seconds
+time left: 14585.0 seconds
+time left: 14525.0 seconds
+time left: 14465.0 seconds
+time left: 14405.0 seconds
+60.6866
+turning on the fridge
+time left: 14345.0 seconds
+time left: 14285.0 seconds
+time left: 14225.0 seconds
+time left: 14165.0 seconds
+time left: 14105.0 seconds
+60.6866
+turning on the fridge
+time left: 14045.0 seconds
+time left: 13985.0 seconds
+time left: 13925.0 seconds
+time left: 13865.0 seconds
+time left: 13805.0 seconds
+60.6866
+turning on the fridge
+time left: 13745.0 seconds
+time left: 13685.0 seconds
+time left: 13625.0 seconds
+time left: 13565.0 seconds
+time left: 13505.0 seconds
+60.6866
+turning on the fridge
+time left: 13445.0 seconds
+time left: 13385.0 seconds
+time left: 13324.0 seconds
+time left: 13264.0 seconds
+time left: 13204.0 seconds
+60.6866
+turning on the fridge
+time left: 13144.0 seconds
+time left: 13084.0 seconds
+time left: 13024.0 seconds
+time left: 12964.0 seconds
+time left: 12904.0 seconds
+60.6866
+turning on the fridge
+time left: 12844.0 seconds
+time left: 12784.0 seconds
+time left: 12724.0 seconds
+time left: 12664.0 seconds
+time left: 12604.0 seconds
+60.6866
+turning on the fridge
+time left: 12544.0 seconds
+time left: 12484.0 seconds
+time left: 12424.0 seconds
+time left: 12364.0 seconds
+time left: 12304.0 seconds
+60.6866
+turning on the fridge
+time left: 12244.0 seconds
+time left: 12184.0 seconds
+time left: 12124.0 seconds
+time left: 12064.0 seconds
+time left: 12004.0 seconds
+60.6866
+turning on the fridge
+time left: 11944.0 seconds
+time left: 11884.0 seconds
+time left: 11824.0 seconds
+time left: 11764.0 seconds
+time left: 11704.0 seconds
+60.6866
+turning on the fridge
+time left: 11644.0 seconds
+time left: 11584.0 seconds
+time left: 11524.0 seconds
+time left: 11464.0 seconds
+time left: 11404.0 seconds
+60.6866
+turning on the fridge
+time left: 11344.0 seconds
+time left: 11284.0 seconds
+time left: 11224.0 seconds
+time left: 11164.0 seconds
+time left: 11104.0 seconds
+60.6866
+turning on the fridge
+time left: 11044.0 seconds
+time left: 10984.0 seconds
+time left: 10924.0 seconds
+time left: 10863.0 seconds
+time left: 10803.0 seconds
+60.6866
+turning on the fridge
+time left: 10743.0 seconds
+time left: 10683.0 seconds
+time left: 10623.0 seconds
+time left: 10563.0 seconds
+time left: 10503.0 seconds
+60.6866
+turning on the fridge
+time left: 10443.0 seconds
+time left: 10383.0 seconds
+time left: 10323.0 seconds
+time left: 10263.0 seconds
+time left: 10203.0 seconds
+60.6866
+turning on the fridge
+time left: 10143.0 seconds
+time left: 10083.0 seconds
+time left: 10023.0 seconds
+time left: 9963.0 seconds
+time left: 9903.0 seconds
+60.6866
+turning on the fridge
+time left: 9843.0 seconds
+time left: 9783.0 seconds
+time left: 9723.0 seconds
+time left: 9663.0 seconds
+time left: 9603.0 seconds
+60.6866
+turning on the fridge
+time left: 9543.0 seconds
+time left: 9483.0 seconds
+time left: 9423.0 seconds
+time left: 9363.0 seconds
+time left: 9303.0 seconds
+60.6866
+turning on the fridge
+time left: 9242.0 seconds
+time left: 9182.0 seconds
+time left: 9122.0 seconds
+time left: 9062.0 seconds
+time left: 9002.0 seconds
+60.6866
+turning on the fridge
+time left: 8942.0 seconds
+time left: 8882.0 seconds
+time left: 8822.0 seconds
+time left: 8762.0 seconds
+time left: 8702.0 seconds
+60.6866
+turning on the fridge
+time left: 8642.0 seconds
+time left: 8582.0 seconds
+time left: 8522.0 seconds
+time left: 8462.0 seconds
+time left: 8402.0 seconds
+60.6866
+turning on the fridge
+time left: 8342.0 seconds
+time left: 8282.0 seconds
+time left: 8222.0 seconds
+time left: 8162.0 seconds
+time left: 8102.0 seconds
+60.6866
+turning on the fridge
+time left: 8042.0 seconds
+time left: 7982.0 seconds
+time left: 7922.0 seconds
+time left: 7862.0 seconds
+time left: 7802.0 seconds
+60.6866
+turning on the fridge
+time left: 7741.0 seconds
+time left: 7681.0 seconds
+time left: 7621.0 seconds
+time left: 7561.0 seconds
+time left: 7501.0 seconds
+60.6866
+turning on the fridge
+time left: 7441.0 seconds
+time left: 7381.0 seconds
+time left: 7321.0 seconds
+time left: 7261.0 seconds
+time left: 7201.0 seconds
+60.6866
+turning on the fridge
+time left: 7141.0 seconds
+time left: 7081.0 seconds
+time left: 7021.0 seconds
+time left: 6961.0 seconds
+time left: 6901.0 seconds
+60.6866
+turning on the fridge
+time left: 6841.0 seconds
+time left: 6781.0 seconds
+time left: 6721.0 seconds
+time left: 6661.0 seconds
+time left: 6601.0 seconds
+60.6866
+turning on the fridge
+time left: 6541.0 seconds
+time left: 6481.0 seconds
+time left: 6421.0 seconds
+time left: 6361.0 seconds
+time left: 6301.0 seconds
+60.6866
+turning on the fridge
+time left: 6241.0 seconds
+time left: 6181.0 seconds
+time left: 6120.0 seconds
+time left: 6060.0 seconds
+time left: 6000.0 seconds
+60.6866
+turning on the fridge
+time left: 5940.0 seconds
+time left: 5880.0 seconds
+time left: 5820.0 seconds
+time left: 5760.0 seconds
+time left: 5700.0 seconds
+60.6866
+turning on the fridge
+time left: 5640.0 seconds
+time left: 5580.0 seconds
+time left: 5520.0 seconds
+time left: 5460.0 seconds
+time left: 5400.0 seconds
+60.6866
+turning on the fridge
+time left: 5340.0 seconds
+time left: 5280.0 seconds
+time left: 5220.0 seconds
+time left: 5160.0 seconds
+time left: 5100.0 seconds
+60.6866
+turning on the fridge
+time left: 5040.0 seconds
+time left: 4980.0 seconds
+time left: 4920.0 seconds
+time left: 4860.0 seconds
+time left: 4800.0 seconds
+60.6866
+turning on the fridge
+time left: 4740.0 seconds
+time left: 4679.0 seconds
+time left: 4619.0 seconds
+time left: 4559.0 seconds
+time left: 4499.0 seconds
+60.6866
+turning on the fridge
+time left: 4439.0 seconds
+time left: 4379.0 seconds
+time left: 4319.0 seconds
+time left: 4259.0 seconds
+time left: 4199.0 seconds
+60.6866
+turning on the fridge
+time left: 4139.0 seconds
+time left: 4079.0 seconds
+time left: 4019.0 seconds
+time left: 3959.0 seconds
+time left: 3899.0 seconds
+60.6866
+turning on the fridge
+time left: 3839.0 seconds
+time left: 3779.0 seconds
+time left: 3719.0 seconds
+time left: 3659.0 seconds
+60.6866
+turning on the fridge
+time left: 3599.0 seconds
+time left: 3539.0 seconds
+time left: 3479.0 seconds
+time left: 3419.0 seconds
+time left: 3359.0 seconds
+60.6866
+turning on the fridge
+time left: 3299.0 seconds
+time left: 3239.0 seconds
+time left: 3179.0 seconds
+time left: 3119.0 seconds
+time left: 3059.0 seconds
+60.6866
+turning on the fridge
+time left: 2999.0 seconds
+time left: 2939.0 seconds
+time left: 2879.0 seconds
+time left: 2819.0 seconds
+time left: 2759.0 seconds
+60.6866
+turning on the fridge
+time left: 2699.0 seconds
+time left: 2638.0 seconds
+time left: 2578.0 seconds
+time left: 2518.0 seconds
+time left: 2458.0 seconds
+60.6866
+turning on the fridge
+time left: 2398.0 seconds
+time left: 2338.0 seconds
+time left: 2278.0 seconds
+time left: 2218.0 seconds
+time left: 2158.0 seconds
+60.6866
+turning on the fridge
+time left: 2098.0 seconds
+time left: 2038.0 seconds
+time left: 1978.0 seconds
+time left: 1918.0 seconds
+time left: 1858.0 seconds
+60.6866
+turning on the fridge
+time left: 1798.0 seconds
+time left: 1738.0 seconds
+time left: 1678.0 seconds
+time left: 1618.0 seconds
+time left: 1558.0 seconds
+60.6866
+turning on the fridge
+time left: 1498.0 seconds
+time left: 1438.0 seconds
+time left: 1378.0 seconds
+time left: 1318.0 seconds
+time left: 1258.0 seconds
+60.8
+turning on the fridge
+time left: 1198.0 seconds
+time left: 1138.0 seconds
+time left: 1078.0 seconds
+time left: 1018.0 seconds
+time left: 958.0 seconds
+60.8
+turning on the fridge
+time left: 898.0 seconds
+time left: 837.0 seconds
+time left: 777.0 seconds
+time left: 717.0 seconds
+time left: 657.0 seconds
+60.8
+turning on the fridge
+time left: 597.0 seconds
+time left: 537.0 seconds
+time left: 477.0 seconds
+time left: 417.0 seconds
+time left: 357.0 seconds
+60.8
+turning on the fridge
+time left: 297.0 seconds
+time left: 237.0 seconds
+time left: 177.0 seconds
+time left: 117.0 seconds
+time left: 57.0 seconds
+60.9116
+turning on the fridge
+program done. fermenter shutting down.
+Traceback (most recent call last):
+  File "brew.py", line 272, in <module>
+    email_sched.unschedule_job(send_email)
+  File "/usr/local/lib/python2.7/dist-packages/apscheduler/scheduler.py", line 437, in unschedule_job
+    raise KeyError('Job "%s" is not scheduled in any job store' % job)
+KeyError: 'Job "<function send_email at 0x1417170>" is not scheduled in any job store'
