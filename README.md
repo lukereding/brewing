@@ -17,4 +17,4 @@ The `-u` flag is important to insure Python runs unbuffered; otherwise the progr
 
 Note also that you should change the email addresses in the script if you want to receive daily updates on the temperature profile of your brew. The graph attached in the email looks something like this:
 
-![temperature graph](https://rawgit.com/lukereding/brewing/master/dubbel%20trouble.pdf "example temperature graph emailed to the user")
+![temperature graph](dubbel trouble.pdf "example temperature graph emailed to the user")
