@@ -81,7 +81,7 @@ def plot_temps(temps,annotation):
 	# clear the figure
 	plt.clf()
 
-def send_email(message, graph = False,password):
+def send_email(message,password, graph = False):
         
 	fromaddr = "lukesfermenter@gmail.com"
 	toaddr = "lukereding@gmail.com"
