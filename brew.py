@@ -231,7 +231,7 @@ if __name__ == "__main__":
 	writer = csv.writer(file)
 
 	# set up logging
-	logging.basicConfig(filename="/home/pi/Desktop/logs/" + str(name_of_brew) + "_brew.log",level=logging.DEBUG,format='%(asctime)s %(message)s',datefmt='%m/%d/%Y %I:%M:%S %p')
+	logging.basicConfig(filename="./logs/" + str(name_of_brew) + "_brew.log",level=logging.DEBUG,format='%(asctime)s %(message)s',datefmt='%m/%d/%Y %I:%M:%S %p')
 
 	sched = Scheduler()
 	sched.start()
