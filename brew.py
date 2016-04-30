@@ -245,7 +245,7 @@ if __name__ == "__main__":
 	email_sched = Scheduler()
 	email_sched.start()
 	text = "it's been twelve hours. here are the latest temperature readings from your new brew"
-	email_job = sched.add_interval_job(send_email,hours=12,args = [text, True, password])
+	email_job = sched.add_interval_job(send_email,hours=2,args = [text, True, password])
 	
 	# this is the heart of the program:
 	# send email to let me know I'm brewing
