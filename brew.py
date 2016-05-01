@@ -81,7 +81,7 @@ def plot_temps(temps,annotation):
 	# clear the figure
 	plt.clf()
 
-def send_email(message,password, graph = False):
+def send_email(message, passw, graph = False):
         
 	fromaddr = "lukesfermenter@gmail.com"
 	toaddr = "lukereding@gmail.com"
@@ -111,7 +111,7 @@ def send_email(message,password, graph = False):
 	 
 	server = smtplib.SMTP('smtp.gmail.com', 587)
 	server.starttls()
-	server.login(fromaddr, password)
+	server.login(fromaddr, passw)
 	text = msg.as_string()
 	server.sendmail(fromaddr, toaddr, text)
 	server.quit()
@@ -199,7 +199,7 @@ if __name__ == "__main__":
 	try:
 		name_of_brew = sys.argv[1]
 	except:
-		send_email("you didn't give your brew a name. I'm going to call it something stupid like 'defaultBrew'", graph = False, password)
+		send_email("you didn't give your brew a name. I'm going to call it something stupid like 'defaultBrew'", password, graph = False)
 		name_of_brew = "defaultBrew"
 	
         # set up for text messaging
@@ -214,7 +214,7 @@ if __name__ == "__main__":
 		device_file = device_folder + '/w1_slave'
 	except:
 		send_text("could not find the thermometer. program is exiting")
-		send_email("seems like there's something wrong with how the program is attempting to interact with the temperature probe. the program is exiting", graph = False, password)
+		send_email("seems like there's something wrong with how the program is attempting to interact with the temperature probe. the program is exiting", password, graph = False)
 		sys.exit()
 
 	# set up gpio pins to regulate fridge
@@ -224,7 +224,7 @@ if __name__ == "__main__":
 		io.setup(power_pin,io.OUT)
 		io.output(power_pin, False)
 	except:
-		send_email("check to make sure the relay is hooked up correctly", graph = False, password)
+		send_email("check to make sure the relay is hooked up correctly", password, graph = False)
 
 	# set up csv writing
 	file = open(str(name_of_brew) + "_tempRecordings.csv", 'wb')
@@ -245,11 +245,11 @@ if __name__ == "__main__":
 	email_sched = Scheduler()
 	email_sched.start()
 	text = "it's been twelve hours. here are the latest temperature readings from your new brew"
-	email_job = sched.add_interval_job(send_email,hours=2,args = [text, True, password])
+	email_job = sched.add_interval_job(send_email,hours=8,args = [text, password, True])
 	
 	# this is the heart of the program:
 	# send email to let me know I'm brewing
-	send_email("starting brew log.", graph=False, password)
+	send_email("starting brew log.", password, graph=False)
 	
 	# get list of temps:
 	list_of_temps = sys.argv[2::2]
@@ -266,10 +266,10 @@ if __name__ == "__main__":
 	print list_of_times
 	
 	for i in range(0,len(list_of_times)):
-		send_email("changing temperature to " + str(list_of_temps[i]) + " for " + str(list_of_times[i]) + " hours.", graph = True, password)
+		send_email("changing temperature to " + str(list_of_temps[i]) + " for " + str(list_of_times[i]) + " hours.", password, graph = True)
 		recordAndRegulateTemp(list_of_times[i],list_of_temps[i],writer)
 	
 	print "program done. fermenter shutting down."
-	send_email("ending. fermenter is shutting off", graph = True, password)
+	send_email("ending. fermenter is shutting off", password, graph=True)
 	email_sched.unschedule_job(send_email)
 	io.output(power_pin, False)
