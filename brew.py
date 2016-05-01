@@ -194,7 +194,9 @@ def send_text(message):
 
 if __name__ == "__main__":
 	
-	password = os.environ['email_pass']
+	with open('./mail.pass') as f:
+		content = [x.strip('\n') for x in f.readlines()]
+	password = content[0]
 	
 	try:
 		name_of_brew = sys.argv[1]
