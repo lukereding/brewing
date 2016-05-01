@@ -258,7 +258,7 @@ if __name__ == "__main__":
 	# get lengths of time for each of those temperatures
 	list_of_times = sys.argv[3::2]
 	
-	# conver to ints
+	# convert to ints
 	list_of_temps = map(int,list_of_temps)
 	list_of_times = map(int, list_of_times)
 	
@@ -268,7 +268,7 @@ if __name__ == "__main__":
 	print list_of_times
 	
 	for i in range(0,len(list_of_times)):
-		send_email("changing temperature to " + str(list_of_temps[i]) + " for " + str(list_of_times[i]) + " hours.", password, graph = True)
+		send_email("changing temperature to " + str(list_of_temps[i]) + " for " + str(list_of_times[i]) + " hours.", password, graph = False)
 		recordAndRegulateTemp(list_of_times[i],list_of_temps[i],writer)
 	
 	print "program done. fermenter shutting down."
